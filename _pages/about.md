@@ -42,9 +42,11 @@ My CV is available [here](https://raw.githubusercontent.com/YerbaPage/Resume/mas
 
 - President of School Table Tennis Club (with 300+ members)
 
-### Other Materials
+### Materials to share
 
-- Here is a booklet on how to write math papers with Lin Dong. [[pdf](https://github.com/YerbaPage/WritingMath/blob/main/paper.pdf)] (in Chinese)
+- A booklet on how to write math papers created with Lin Dong. [[pdf](https://raw.githubusercontent.com/YerbaPage/WritingMath/main/paper.pdf)] (in Chinese)
+- My notes for math courses. [[2020Autumn](https://github.com/YerbaPage/2021_Spring_Notes)] [[2021Spring](https://github.com/YerbaPage/2021_Spring_Notes)]
+- A tool for enrolling courses automatically in SUFE. [[Github](https://github.com/YerbaPage/SUFE_Course_selection)]
 
 ### Contact
 
