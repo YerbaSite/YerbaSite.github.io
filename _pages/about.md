@@ -42,6 +42,10 @@ My CV is available [here](https://raw.githubusercontent.com/YerbaPage/Resume/mas
 
 - President of School Table Tennis Club (with 300+ members)
 
+### Other Materials
+
+- Here is a booklet on how to write math papers with Lin Dong. [[pdf](https://github.com/YerbaPage/WritingMath/blob/main/paper.pdf)] (in Chinese)
+
 ### Contact
 
 - Email: shiyuling@163.sufe.edu.cn
