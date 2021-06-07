@@ -44,7 +44,7 @@ My CV is available [here](https://raw.githubusercontent.com/YerbaPage/Resume/mas
 
 ### Materials to share
 
-- A booklet on how to write math papers created with Lin Dong. [[pdf](https://raw.githubusercontent.com/YerbaPage/WritingMath/main/paper.pdf)] (in Chinese)
+- A booklet on how to write math papers and some related topics created with Lin Dong. [[pdf](https://raw.githubusercontent.com/YerbaPage/WritingMath/main/paper.pdf)] (in Chinese)
 - My notes for math courses. [[2020Autumn](https://github.com/YerbaPage/2021_Spring_Notes)] [[2021Spring](https://github.com/YerbaPage/2021_Spring_Notes)]
 - A tool for enrolling courses automatically in SUFE. [[Github](https://github.com/YerbaPage/SUFE_Course_selection)]
 
