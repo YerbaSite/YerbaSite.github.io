@@ -18,7 +18,7 @@ My CV is available [here](https://raw.githubusercontent.com/YerbaPage/Resume/mas
 
 - **A Morley-Wang-Xu element method for a fourth order elliptic singular perturbation problem.** Xuehai Huang, **Yuling Shi** and Wenqing Wang. 
 
-  *Journal of Scientific Computing*, 2021. [[code](https://github.com/YerbaPage/FEM)]
+  *Journal of Scientific Computing*, 2021. [[pdf](https://link.springer.com/content/pdf/10.1007/s10915-021-01483-2.pdf)] [[code](https://github.com/YerbaPage/FEM)]
 
 ### Research Projects
 
@@ -33,7 +33,7 @@ My CV is available [here](https://raw.githubusercontent.com/YerbaPage/Resume/mas
 
 - People’s Scholarship
 - Outperforming Individual Scholarship
-- Featured Student
+- Featured Student in SUFE
 - First Prize in National Olympiad in Physics (Provincial Area)
 - Outstanding League Member
 - Fifth place in Shanghai Table Tennis Doubles Championship and third place in teams representing my university
