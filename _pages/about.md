@@ -33,7 +33,7 @@ My CV is available [here](https://raw.githubusercontent.com/YerbaPage/Resume/mas
 
 - People’s Scholarship
 - Outperforming Individual Scholarship
-- Featured Student in SUFE
+- Featured Student at SUFE
 - First Prize in National Olympiad in Physics (Provincial Area)
 - Outstanding League Member
 - Fifth place in Shanghai Table Tennis Doubles Championship and third place in teams representing my university
@@ -46,7 +46,7 @@ My CV is available [here](https://raw.githubusercontent.com/YerbaPage/Resume/mas
 
 - A booklet on how to write math papers and some related topics created with Lin Dong. [[pdf](https://raw.githubusercontent.com/YerbaPage/WritingMath/main/paper.pdf)] (in Chinese)
 - My notes for math courses. [[2020Autumn](https://github.com/YerbaPage/2021_Spring_Notes)] [[2021Spring](https://github.com/YerbaPage/2021_Spring_Notes)]
-- A tool for enrolling in courses automatically in SUFE. [[Github](https://github.com/YerbaPage/SUFE_Course_selection)]
+- A tool for enrolling in courses automatically at SUFE. [[Github](https://github.com/YerbaPage/SUFE_Course_selection)]
 
 ### Contact
 
