@@ -10,7 +10,7 @@ redirect_from:
 
 ### Bio
 
-Hi, I am an undergraduate (junior) from Shanghai University of Finance and Economics majoring in Applied Mathematics, under the supervision of *prof*. Xuehai Huang and *prof*. Yanhuai Lang. I'm boardly interested in **deep learning, machine learning and scientific computing.**
+Hi, I am an undergraduate (junior) from Shanghai University of Finance and Economics majoring in Applied Mathematics, under the supervision of *prof*. Xuehai Huang and *prof*. Yanhuai Lang. I'm broadly interested in **deep learning, machine learning and scientific computing.**
 
 My CV is available [here](https://raw.githubusercontent.com/YerbaPage/Resume/master/Yuling_Shi_cv.pdf) and some of my projects can be found in my Github homepage [here](https://github.com/YerbaPage).
 
