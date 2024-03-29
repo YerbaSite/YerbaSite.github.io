@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yuling (Daniel) Shi"
   avatar           : "profile.png"
-  bio              : "A junior interested in Deep Learning and Scientific Computing"
+  bio              : #
   location         : "Shanghai, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : shiyuling@163.sufe.edu.cn
+  googlescholar    : https://scholar.google.com/citations?user=rcpOr9EAAAAJ&hl=en
+  email            : yuling.shi@sjtu.edu.cn
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yerbasite"
+  github           : "yerbapage"
   google_plus      :
   keybase          :
   instagram        :
