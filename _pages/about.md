@@ -19,8 +19,9 @@ Some of my recent projects can be found in my Github homepage [here](https://git
 
 ### Publications
 
-- **Between Lines of Code: Unraveling the Distinct Patterns of Machine and Human Programmers** **Yuling Shi**, Hongyu Zhang, Chengcheng Wan, Xiaodong Gu
-  Preprint. 2024. [[pdf](https://arxiv.org/abs/2401.06461)]
+- **Between Lines of Code: Unraveling the Distinct Patterns of Machine and Human Programmers**. **Yuling Shi**, Hongyu Zhang, Chengcheng Wan, Xiaodong Gu.
+  
+  Preprint. 2024. [[pdf](https://arxiv.org/abs/2401.06461)][[code](https://github.com/YerbaPage/DetectCodeGPT)]
 
 - **A Morley-Wang-Xu element method for a fourth order elliptic singular perturbation problem.** Xuehai Huang, **Yuling Shi** and Wenqing Wang. 
 
@@ -31,7 +32,7 @@ Some of my recent projects can be found in my Github homepage [here](https://git
 
 - Research Intern at Microsoft, 2023
 
-  - I'm grateful to be advised by Dr. Yufan Huang and Dr. Maoquan Wang to work on analyzing neural representations of code. And some of my work contributed to the following paper on EMNLP 2023. [[pdf](https://aclanthology.org/2023.emnlp-main.672/)
+  - I'm grateful to be advised by Dr. Yufan Huang and Dr. Maoquan Wang to work on analyzing neural representations of code. And some of my work contributed to the following paper on EMNLP 2023. [[pdf](https://aclanthology.org/2023.emnlp-main.672/)]
   
 ### Awards
 
@@ -43,7 +44,7 @@ Some of my recent projects can be found in my Github homepage [here](https://git
 
 ### Materials to share
 
-
+- A simple script to detect word by word plagiarism for Academic Writing course in SJTU. [[Github](https://github.com/YerbaPage/plagiarism-certification-helper)]
 - A booklet on how to write math papers and some related topics created with Lin Dong. [[pdf](https://raw.githubusercontent.com/YerbaPage/WritingMath/main/paper.pdf)] (in Chinese)
 - My notes for math courses. [[2020Autumn](https://github.com/YerbaPage/2021_Spring_Notes)] [[2021Spring](https://github.com/YerbaPage/2021_Spring_Notes)]
 - A tool for enrolling in courses automatically at SUFE. [[Github](https://github.com/YerbaPage/SUFE_Course_selection)]
