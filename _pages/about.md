@@ -20,13 +20,16 @@ Some of my recent projects can be found in my Github homepage [here](https://git
 ### Publications
 
 - **Between Lines of Code: Unraveling the Distinct Patterns of Machine and Human Programmers**. **Yuling Shi**, Hongyu Zhang, Chengcheng Wan, Xiaodong Gu.
-  
-  ICSE 2025. [[pdf](https://arxiv.org/abs/2401.06461)][[code](https://github.com/YerbaPage/DetectCodeGPT)]
+
+[[pdf](https://arxiv.org/abs/2401.06461)][[code](https://github.com/YerbaPage/DetectCodeGPT)]
+
+In Proceedings of the 47th International Conference on Software Engineering (ICSE 2025). 
 
 - **A Morley-Wang-Xu element method for a fourth order elliptic singular perturbation problem.** Xuehai Huang, **Yuling Shi** and Wenqing Wang. 
 
-  *Journal of Scientific Computing*, 2021. [[pdf](https://link.springer.com/content/pdf/10.1007/s10915-021-01483-2.pdf)] [[code](https://github.com/YerbaPage/FEM)]
+[[pdf](https://link.springer.com/content/pdf/10.1007/s10915-021-01483-2.pdf)] [[code](https://github.com/YerbaPage/FEM)]
 
+*Journal of Scientific Computing*, 2021. 
 
 ### Experiences
 
