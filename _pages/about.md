@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "Yuling Shi"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 
 ### Bio
 
-Hi, I am an second year Ph.D. student in the School of Software at Shanghai Jiao Tong University. I'm grateful to be advised by Prof. Xiaodong Gu and Prof. Beijun Shen.
+Hi, I am an second year Ph.D. student in the [LLM for Software Engineering Lab (LLMSE)](https://base.sjtu.edu.cn/home/doku.php?id=start), affiliated with the School of Software at Shanghai Jiao Tong University in China. I'm grateful to be advised by [Prof. Xiaodong Gu](https://guxd.github.io/) and [Prof. Beijun Shen](https://base.sjtu.edu.cn/home/doku.php?id=mem:bjshen).
 
 I received my B.S. degree in Mathematics and Applied Mathematics from Shanghai University of Finance and Economics (SUFE) in 2022.
 
@@ -35,9 +35,7 @@ In Proceedings of the 47th International Conference on Software Engineering (ICS
   
 ### Awards
 
-- National Scholarship for Undergraduate Students
-- Outperforming Individual Scholarship
-- Featured Student at SUFE
+- National Scholarship
 - Fifth place in Shanghai Table Tennis Doubles Championship and third place in teams representing my university
 - First Prize in National Olympiad in Physics at High school (Provincial Area)
 
