@@ -12,8 +12,6 @@ redirect_from:
 
 Hi, I am an second year Ph.D. student in the [LLM for Software Engineering Lab (LLMSE)](https://base.sjtu.edu.cn/home/doku.php?id=start), affiliated with the School of Software at Shanghai Jiao Tong University in China. I'm grateful to be advised by [Prof. Xiaodong Gu](https://guxd.github.io/) and [Prof. Beijun Shen](https://base.sjtu.edu.cn/home/doku.php?id=mem:bjshen).
 
-I received my B.S. degree in Mathematics and Applied Mathematics from Shanghai University of Finance and Economics (SUFE) in 2022.
-
 My main research interests are in the field of Natural Language Processing and Software Engineering. 
 Some of my recent projects can be found in my Github homepage [here](https://github.com/YerbaPage). Feel free to contact me if you are interested in my work or have any questions.
 
