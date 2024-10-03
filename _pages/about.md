@@ -15,6 +15,11 @@ Hi, I am an second year Ph.D. student in the [LLM for Software Engineering Lab (
 My main research interests are in the field of Natural Language Processing and Software Engineering. 
 Some of my recent projects can be found in my Github homepage [here](https://github.com/YerbaPage). Feel free to contact me if you are interested in my work or have any questions.
 
+### Preprints
+
+- **From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging**. **Yuling Shi**, Songsong Wang, Chengcheng Wan, Xiaodong Gu.
+[[pdf](https://arxiv.org/abs/2410.01215)][[code](https://github.com/YerbaPage/MGDebugger)]
+
 ### Publications
 
 - **Between Lines of Code: Unraveling the Distinct Patterns of Machine and Human Programmers**. **Yuling Shi**, Hongyu Zhang, Chengcheng Wan, Xiaodong Gu.
