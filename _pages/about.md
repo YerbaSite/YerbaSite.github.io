@@ -20,11 +20,14 @@ Some of my recent projects can be found in my Github homepage [here](https://git
 - **From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging**. **Yuling Shi**, Songsong Wang, Chengcheng Wan, Xiaodong Gu.
 [[pdf](https://arxiv.org/abs/2410.01215)][[code](https://github.com/YerbaPage/MGDebugger)]
 
+- **AttentionRAG: Attention-Guided Context Pruning in Retrieval-Augmented Generation**. Yixiong Fang, Tianran Sun, **Yuling Shi**, Xiaodong Gu.
+[[pdf](https://arxiv.org/abs/2503.10720)]
+
 ### Publications
 
 - **Between Lines of Code: Unraveling the Distinct Patterns of Machine and Human Programmers**. **Yuling Shi**, Hongyu Zhang, Chengcheng Wan, Xiaodong Gu.
 In Proceedings of the 47th International Conference on Software Engineering (ICSE 2025). 
-[[pdf](https://arxiv.org/abs/2401.06461)][[code](https://github.com/YerbaPage/DetectCodeGPT)][[slides](https://github.com/YerbaSite/YerbaSite.github.io/blob/master/files/detectcodegpt_slides.pdf)]
+[[pdf](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a051/215aWoRvPCE)][[code](https://github.com/YerbaPage/DetectCodeGPT)][[slides](https://github.com/YerbaSite/YerbaSite.github.io/blob/master/files/detectcodegpt_slides.pdf)]
 
 - **A Morley-Wang-Xu element method for a fourth order elliptic singular perturbation problem.** Xuehai Huang, **Yuling Shi** and Wenqing Wang. 
 *Journal of Scientific Computing*, 2021. 
@@ -44,9 +47,9 @@ In Proceedings of the 47th International Conference on Software Engineering (ICS
 
 ### Materials to share
 
+- A collection of resources for repo-level code generation. [[Github](https://github.com/YerbaPage/Awesome-Repo-Level-Code-Generation)]
 - A simple script to detect word by word plagiarism for Academic Writing course in SJTU. [[Github](https://github.com/YerbaPage/plagiarism-certification-helper)]
 - A booklet on how to write math papers and some related topics created with Lin Dong. [[pdf](https://raw.githubusercontent.com/YerbaPage/WritingMath/main/paper.pdf)] (in Chinese)
-- My notes for math courses. [[2020Autumn](https://github.com/YerbaPage/2021_Spring_Notes)] [[2021Spring](https://github.com/YerbaPage/2021_Spring_Notes)]
 - A tool for enrolling in courses automatically at SUFE. [[Github](https://github.com/YerbaPage/SUFE_Course_selection)]
 
 
