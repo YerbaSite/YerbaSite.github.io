@@ -15,6 +15,10 @@ Hi, I am a third year Ph.D. student in the [LLM for Software Engineering Lab (LL
 My main research interests are in the field of Natural Language Processing and Software Engineering. 
 Some of my recent projects can be found in my Github homepage [here](https://github.com/YerbaPage). Feel free to contact me if you are interested in my work or have any questions.
 
+<div style="color: red;">
+We have multiple potential projects available with abundant computing resources! If you are interested in collaboration or internship (remote is also welcome), please feel free to contact me.
+</div>
+
 ### Preprints
 
 - **From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging**. **Yuling Shi**, Songsong Wang, Chengcheng Wan, Xiaodong Gu.
@@ -47,7 +51,7 @@ In Proceedings of the 47th International Conference on Software Engineering (ICS
 
 ### Materials to share
 
-- A collection of resources for repo-level code generation. [[Github](https://github.com/YerbaPage/Awesome-Repo-Level-Code-Generation)]
+- 🔥 A collection of resources for repo-level code generation. [[Github](https://github.com/YerbaPage/Awesome-Repo-Level-Code-Generation)]
 - A simple script to detect word by word plagiarism for Academic Writing course in SJTU. [[Github](https://github.com/YerbaPage/plagiarism-certification-helper)]
 - A booklet on how to write math papers and some related topics created with Lin Dong. [[pdf](https://raw.githubusercontent.com/YerbaPage/WritingMath/main/paper.pdf)] (in Chinese)
 - A tool for enrolling in courses automatically at SUFE. [[Github](https://github.com/YerbaPage/SUFE_Course_selection)]
