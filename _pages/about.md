@@ -22,7 +22,7 @@ We have multiple potential projects available with abundant computing resources!
 ### Preprints
 
 <div class="paper-item">
-  <h4>From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging</h4>
+  <p><strong>From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging</strong></p>
   <p class="authors"><strong>Yuling Shi</strong>, Songsong Wang, Chengcheng Wan, Xiaodong Gu</p>
   <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>A multi-level LLM debugger.</em></span></p>
   <p class="links">
@@ -32,7 +32,7 @@ We have multiple potential projects available with abundant computing resources!
 </div>
 
 <div class="paper-item">
-  <h4>AttentionRAG: Attention-Guided Context Pruning in Retrieval-Augmented Generation</h4>
+  <p><strong>AttentionRAG: Attention-Guided Context Pruning in Retrieval-Augmented Generation</strong></p>
   <p class="authors">Yixiong Fang, Tianran Sun, <strong>Yuling Shi</strong>, Xiaodong Gu</p>
   <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>A context compression method for long context scenarios.</em></span></p>
   <p class="links">
@@ -43,7 +43,7 @@ We have multiple potential projects available with abundant computing resources!
 ### Publications
 
 <div class="paper-item">
-  <h4>Between Lines of Code: Unraveling the Distinct Patterns of Machine and Human Programmers</h4>
+  <p><strong>Between Lines of Code: Unraveling the Distinct Patterns of Machine and Human Programmers</strong></p>
   <p class="authors"><strong>Yuling Shi</strong>, Hongyu Zhang, Chengcheng Wan, Xiaodong Gu</p>
   <p class="venue">In Proceedings of the 47th International Conference on Software Engineering (ICSE 2025)</p>
   <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>A zero-shot LLM-generated code detector.</em></span></p>
@@ -55,7 +55,7 @@ We have multiple potential projects available with abundant computing resources!
 </div>
 
 <div class="paper-item">
-  <h4>A Morley-Wang-Xu element method for a fourth order elliptic singular perturbation problem</h4>
+  <p><strong>A Morley-Wang-Xu element method for a fourth order elliptic singular perturbation problem</strong></p>
   <p class="authors">Xuehai Huang, <strong>Yuling Shi</strong> and Wenqing Wang</p>
   <p class="venue"><em>Journal of Scientific Computing</em> (Q1), 2021</p>
   <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>A FEM solver for PDEs.</em></span></p>
@@ -78,12 +78,6 @@ We have multiple potential projects available with abundant computing resources!
 .paper-item:hover {
   transform: translateX(4px);
   box-shadow: 0 2px 8px rgba(0,0,0,0.05);
-}
-.paper-item h4 {
-  margin: 0 0 0.4rem;
-  color: #2d3748;
-  font-size: 1.1rem;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
 }
 .paper-item .authors {
   margin: 0 0 0.3rem;
