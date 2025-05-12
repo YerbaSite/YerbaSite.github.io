@@ -24,7 +24,7 @@ We have multiple potential projects available with abundant computing resources!
 <div class="paper-item">
   <h4>From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging</h4>
   <p class="authors"><strong>Yuling Shi</strong>, Songsong Wang, Chengcheng Wan, Xiaodong Gu</p>
-  <p class="description"><span style="color: yellow;"><strong>TL;DR:</strong> <em>A multi-level LLM debugger.</em></span></p>
+  <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>A multi-level LLM debugger.</em></span></p>
   <p class="links">
     <a href="https://arxiv.org/abs/2410.01215" target="_blank">[pdf]</a>
     <a href="https://github.com/YerbaPage/MGDebugger" target="_blank">[code]</a>
@@ -34,7 +34,7 @@ We have multiple potential projects available with abundant computing resources!
 <div class="paper-item">
   <h4>AttentionRAG: Attention-Guided Context Pruning in Retrieval-Augmented Generation</h4>
   <p class="authors">Yixiong Fang, Tianran Sun, <strong>Yuling Shi</strong>, Xiaodong Gu</p>
-  <p class="description"><span style="color: yellow;"><strong>TL;DR:</strong> <em>A context compression method for long context scenarios.</em></span></p>
+  <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>A context compression method for long context scenarios.</em></span></p>
   <p class="links">
     <a href="https://arxiv.org/abs/2503.10720" target="_blank">[pdf]</a>
   </p>
@@ -46,7 +46,7 @@ We have multiple potential projects available with abundant computing resources!
   <h4>Between Lines of Code: Unraveling the Distinct Patterns of Machine and Human Programmers</h4>
   <p class="authors"><strong>Yuling Shi</strong>, Hongyu Zhang, Chengcheng Wan, Xiaodong Gu</p>
   <p class="venue">In Proceedings of the 47th International Conference on Software Engineering (ICSE 2025)</p>
-  <p class="description"><span style="color: yellow;"><strong>TL;DR:</strong> <em>A zero-shot LLM-generated code detector.</em></span></p>
+  <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>A zero-shot LLM-generated code detector.</em></span></p>
   <p class="links">
     <a href="https://www.computer.org/csdl/proceedings-article/icse/2025/056900a051/215aWoRvPCE" target="_blank">[pdf]</a>
     <a href="https://github.com/YerbaPage/DetectCodeGPT" target="_blank">[code]</a>
@@ -58,7 +58,7 @@ We have multiple potential projects available with abundant computing resources!
   <h4>A Morley-Wang-Xu element method for a fourth order elliptic singular perturbation problem</h4>
   <p class="authors">Xuehai Huang, <strong>Yuling Shi</strong> and Wenqing Wang</p>
   <p class="venue"><em>Journal of Scientific Computing</em> (Q1), 2021</p>
-  <p class="description"><span style="color: yellow;"><strong>TL;DR:</strong> <em>A FEM solver for PDEs.</em></span></p>
+  <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>A FEM solver for PDEs.</em></span></p>
   <p class="links">
     <a href="https://link.springer.com/content/pdf/10.1007/s10915-021-01483-2.pdf" target="_blank">[pdf]</a>
     <a href="https://github.com/YerbaPage/FEM" target="_blank">[code]</a>
@@ -67,8 +67,8 @@ We have multiple potential projects available with abundant computing resources!
 
 <style>
 .paper-item {
-  margin-bottom: 30px;
-  padding: 15px;
+  margin-bottom: 20px;
+  padding: 10px;
   border-left: 3px solid #007bff;
   background-color: rgba(0,0,0,0.02);
   border-radius: 5px;
@@ -76,6 +76,7 @@ We have multiple potential projects available with abundant computing resources!
 .paper-item h4 {
   margin-top: 0;
   color: #007bff;
+  font-size: 1.25em;
 }
 .paper-item .authors {
   margin: 5px 0;
