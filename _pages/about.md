@@ -67,34 +67,62 @@ We have multiple potential projects available with abundant computing resources!
 
 <style>
 .paper-item {
-  margin-bottom: 20px;
-  padding: 10px;
-  border-left: 3px solid #007bff;
-  background-color: rgba(0,0,0,0.02);
-  border-radius: 5px;
+  margin-bottom: 1rem;
+  padding: 1rem 1.25rem;
+  border-left: 2px solid #e0e7ff;
+  background-color: rgba(224, 231, 255, 0.05);
+  transition: all 0.2s ease;
+  border-radius: 4px;
+  position: relative;
+}
+.paper-item:hover {
+  transform: translateX(4px);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
 }
 .paper-item h4 {
-  margin-top: 0;
-  color: #007bff;
-  font-size: 1.25em;
+  margin: 0 0 0.4rem;
+  color: #2d3748;
+  font-size: 1.1rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
 }
 .paper-item .authors {
-  margin: 5px 0;
+  margin: 0 0 0.3rem;
+  color: #4a5568;
+  font-size: 1rem;
+  line-height: 1.3;
 }
 .paper-item .venue {
-  font-style: italic;
-  margin: 5px 0;
+  color: #718096;
+  font-size: 0.85rem;
+  margin: 0 0 0.5rem;
 }
 .paper-item .description {
-  margin: 8px 0;
-  color: #666;
+  margin: 0.6rem 0;
+  color: #4a5568;
+  font-size: 1rem;
+  line-height: 1.4;
+  padding-left: 0.8rem;
+  border-left: 2px solid #c3dafe;
 }
 .paper-item .links {
-  margin-top: 10px;
+  margin-top: 0.5rem;
+  margin-bottom: 0.1rem;
 }
 .paper-item .links a {
-  margin-right: 10px;
-  text-decoration: none;
+  display: inline-block;
+  padding: 0.25rem 0.8rem;
+  margin-right: 0.6rem;
+  margin-bottom: 0.2rem;
+  background: #ebf4ff;
+  border-radius: 4px;
+  color: #3b82f6 !important;
+  font-size: 0.85rem;
+  text-decoration: none !important;
+  transition: all 0.2s ease;
+}
+.paper-item .links a:hover {
+  background: #3b82f6;
+  color: white !important;
 }
 </style>
 
