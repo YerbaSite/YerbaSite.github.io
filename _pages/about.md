@@ -26,8 +26,8 @@ We have multiple potential projects available with abundant computing resources!
   <p class="authors"><strong>Yuling Shi</strong>, Songsong Wang, Chengcheng Wan, Xiaodong Gu</p>
   <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>A multi-level LLM debugger.</em></span></p>
   <p class="links">
-    <a href="https://arxiv.org/abs/2410.01215" target="_blank">[pdf]</a>
-    <a href="https://github.com/YerbaPage/MGDebugger" target="_blank">[code]</a>
+    <a href="https://arxiv.org/abs/2410.01215" target="_blank">📄 pdf</a>
+    <a href="https://github.com/YerbaPage/MGDebugger" target="_blank">💻 code</a>
   </p>
 </div>
 
@@ -36,7 +36,7 @@ We have multiple potential projects available with abundant computing resources!
   <p class="authors">Yixiong Fang, Tianran Sun, <strong>Yuling Shi</strong>, Xiaodong Gu</p>
   <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>A context compression method for long context scenarios.</em></span></p>
   <p class="links">
-    <a href="https://arxiv.org/abs/2503.10720" target="_blank">[pdf]</a>
+    <a href="https://arxiv.org/abs/2503.10720" target="_blank">📄 pdf</a>
   </p>
 </div>
 
@@ -48,9 +48,9 @@ We have multiple potential projects available with abundant computing resources!
   <p class="venue">In Proceedings of the 47th International Conference on Software Engineering (ICSE 2025)</p>
   <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>A zero-shot LLM-generated code detector.</em></span></p>
   <p class="links">
-    <a href="https://www.computer.org/csdl/proceedings-article/icse/2025/056900a051/215aWoRvPCE" target="_blank">[pdf]</a>
-    <a href="https://github.com/YerbaPage/DetectCodeGPT" target="_blank">[code]</a>
-    <a href="https://github.com/YerbaSite/YerbaSite.github.io/blob/master/files/detectcodegpt_slides.pdf" target="_blank">[slides]</a>
+    <a href="https://www.computer.org/csdl/proceedings-article/icse/2025/056900a051/215aWoRvPCE" target="_blank">📄 pdf</a>
+    <a href="https://github.com/YerbaPage/DetectCodeGPT" target="_blank">💻 code</a>
+    <a href="https://github.com/YerbaSite/YerbaSite.github.io/blob/master/files/detectcodegpt_slides.pdf" target="_blank">📊 slides</a>
   </p>
 </div>
 
@@ -60,8 +60,8 @@ We have multiple potential projects available with abundant computing resources!
   <p class="venue"><em>Journal of Scientific Computing</em> (Q1), 2021</p>
   <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>A FEM solver for PDEs.</em></span></p>
   <p class="links">
-    <a href="https://link.springer.com/content/pdf/10.1007/s10915-021-01483-2.pdf" target="_blank">[pdf]</a>
-    <a href="https://github.com/YerbaPage/FEM" target="_blank">[code]</a>
+    <a href="https://link.springer.com/content/pdf/10.1007/s10915-021-01483-2.pdf" target="_blank">📄 pdf</a>
+    <a href="https://github.com/YerbaPage/FEM" target="_blank">💻 code</a>
   </p>
 </div>
 
@@ -103,20 +103,26 @@ We have multiple potential projects available with abundant computing resources!
   margin-bottom: 0.1rem;
 }
 .paper-item .links a {
-  display: inline-block;
-  padding: 0.25rem 0.8rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.35rem 0.9rem;
   margin-right: 0.6rem;
-  margin-bottom: 0.2rem;
-  background: #ebf4ff;
-  border-radius: 4px;
+  margin-bottom: 0.3rem;
+  background: #eef2ff;
+  border: 1px solid #dbeafe;
+  border-radius: 6px;
   color: #3b82f6 !important;
-  font-size: 0.85rem;
+  font-size: 0.9rem;
+  font-weight: 500;
   text-decoration: none !important;
   transition: all 0.2s ease;
 }
 .paper-item .links a:hover {
   background: #3b82f6;
   color: white !important;
+  transform: translateY(-1px);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
 }
 </style>
 
