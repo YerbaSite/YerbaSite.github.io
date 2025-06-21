@@ -31,16 +31,17 @@ We have multiple potential projects available with abundant computing resources!
   </p>
 </div>
 
+### Publications
+
 <div class="paper-item">
   <p><strong>AttentionRAG: Attention-Guided Context Pruning in Retrieval-Augmented Generation</strong></p>
   <p class="authors">Yixiong Fang, Tianran Sun, <strong>Yuling Shi</strong>, Xiaodong Gu</p>
-  <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>A context compression method for long context scenarios.</em></span></p>
+  <p class="venue">In Proceedings of the ACL 2025 Workshop on Knowledgeable Foundation Models (KnowFM)</p>
+  <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>An attention-guided context compression method for long context scenarios.</em></span></p>
   <p class="links">
     <a href="https://arxiv.org/abs/2503.10720" target="_blank">📄 pdf</a>
   </p>
 </div>
-
-### Publications
 
 <div class="paper-item">
   <p><strong>Between Lines of Code: Unraveling the Distinct Patterns of Machine and Human Programmers</strong></p>
