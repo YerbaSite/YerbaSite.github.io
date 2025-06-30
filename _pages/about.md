@@ -36,7 +36,7 @@ We have multiple potential projects available with abundant computing resources!
   <p class="authors">Yixiong Fang, Tianran Sun, <strong>Yuling Shi</strong>, Min Wang, Xiaodong Gu</p>
   <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>A framework to continuously reinforce and safeguard existing benchmarks against knowledge leakage.</em></span></p>
   <p class="links">
-    <a href="https://scholar.google.com/scholar?q=LastingBench%3A+Defend+Benchmarks+Against+Knowledge+Leakage" target="_blank">📄 pdf</a>
+    <a href="https://arxiv.org/abs/2506.21614" target="_blank">📄 pdf</a>
     <a href="https://github.com/Seriousss/LastingBench" target="_blank">💻 code</a>
   </p>
 </div>
