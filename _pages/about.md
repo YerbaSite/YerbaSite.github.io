@@ -23,7 +23,7 @@ We have multiple potential projects available with abundant computing resources!
 
 <div class="paper-item">
   <p><strong>From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging</strong></p>
-  <p class="authors"><strong>Yuling Shi</strong>, Songsong Wang, Chengcheng Wan, Xiaodong Gu</p>
+  <p class="authors"><strong>Yuling Shi</strong>, Songsong Wang, Chengcheng Wan, Min Wang, Xiaodong Gu</p>
   <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>A multi-level LLM debugger.</em></span></p>
   <p class="links">
     <a href="https://arxiv.org/abs/2410.01215" target="_blank">📄 pdf</a>
