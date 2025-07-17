@@ -153,8 +153,6 @@ We have multiple potential projects available with abundant computing resources!
 
 - 🔥 A collection of resources for repo-level code generation. [[Github](https://github.com/YerbaPage/Awesome-Repo-Level-Code-Generation)]
 - A simple script to detect word by word plagiarism for Academic Writing course in SJTU. [[Github](https://github.com/YerbaPage/plagiarism-certification-helper)]
-- A booklet on how to write math papers and some related topics created with Lin Dong. [[pdf](https://raw.githubusercontent.com/YerbaPage/WritingMath/main/paper.pdf)] (in Chinese)
-- A tool for enrolling in courses automatically at SUFE. [[Github](https://github.com/YerbaPage/SUFE_Course_selection)]
 
 
 *Thank you for visiting my homepage!*
