@@ -142,6 +142,16 @@ We have multiple potential projects available with abundant computing resources!
 - Research Intern at Microsoft, 2023
 
   - I'm grateful to be advised by Dr. Yufan Huang and Dr. Maoquan Wang to work on analyzing neural representations of code. And some of my work contributed to the following paper on EMNLP 2023. [[pdf](https://aclanthology.org/2023.emnlp-main.672/)]
+
+### Teaching
+
+- Teaching Assistant for Machine Learning (Fall 2022, Fall 2023, Spring 2024, Spring 2025)
+- Teaching Assistant for Math for Machine Learning (Spring 2024)
+
+### Services
+
+- Reviewer for ICLR 2025
+- Shadow PC for ICSE 2026
   
 ### Awards
 
