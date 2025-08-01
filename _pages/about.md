@@ -22,6 +22,27 @@ We have multiple potential projects available with abundant computing resources!
 ### Preprints
 
 <div class="paper-item">
+  <p><strong>SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution</strong></p>
+  <p class="authors">Han Li<sup>†</sup>, <strong>Yuling Shi</strong><sup>†</sup>, Shaoxin Lin, Xiaodong Gu, Heng Lian, Xin Wang, Yantao Jia, Tao Huang, Qianxiang Wang</p>
+  <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>A competitive multi-agent debate framework for software issue resolution.</em></span></p>
+  <p class="links">
+    <a href="https://arxiv.org/abs/2507.23348" target="_blank">📄 pdf</a>
+    <a href="https://github.com/YerbaPage/SWE-Debate" target="_blank">💻 code</a>
+  </p>
+  <p style="font-size: 0.85rem; color: #718096; margin-top: 0.3rem;"><em>† Equal contribution</em></p>
+</div>
+
+<div class="paper-item">
+  <p><strong>SWE-Exp: Experience-Driven Software Issue Resolution</strong></p>
+  <p class="authors">Silin Chen, Shaoxin Lin, Xiaodong Gu, <strong>Yuling Shi</strong>, Heng Lian, Longfei Yun, Dong Chen, Weiguo Sun, Lin Cao, Qianxiang Wang</p>
+  <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>An experience-driven approach for software issue resolution.</em></span></p>
+  <p class="links">
+    <a href="https://arxiv.org/abs/2507.23361" target="_blank">📄 pdf</a>
+    <a href="https://github.com/YerbaPage/SWE-Exp" target="_blank">💻 code</a>
+  </p>
+</div>
+
+<div class="paper-item">
   <p><strong>From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging</strong></p>
   <p class="authors"><strong>Yuling Shi</strong>, Songsong Wang, Chengcheng Wan, Min Wang, Xiaodong Gu</p>
   <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>A multi-level LLM debugger.</em></span></p>
