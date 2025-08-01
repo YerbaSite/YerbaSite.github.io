@@ -166,8 +166,8 @@ We have multiple potential projects available with abundant computing resources!
 
 ### Teaching
 
-- Teaching Assistant for Machine Learning (Fall 2022, Fall 2023, Spring 2024, Spring 2025)
-- Teaching Assistant for Math for Machine Learning (Spring 2024)
+- Teaching Assistant for "Machine Learning" (Fall 2022, Fall 2023, Spring 2024, Spring 2025)
+- Teaching Assistant for "Math for Machine Learning" (Spring 2024)
 
 ### Services
 
