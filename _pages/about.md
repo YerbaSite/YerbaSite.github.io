@@ -23,7 +23,7 @@ We have multiple potential projects available with abundant computing resources!
 
 <div class="paper-item">
   <p><strong>SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution</strong></p>
-  <p class="authors">Han Li<sup>†</sup>, <strong>Yuling Shi</strong><sup>†</sup>, Shaoxin Lin, Xiaodong Gu, Heng Lian, Xin Wang, Yantao Jia, Tao Huang, Qianxiang Wang</p>
+  <p class="authors">Han Li<sup>†</sup>, <u>Yuling Shi</u><sup>†</sup>, Shaoxin Lin, Xiaodong Gu, Heng Lian, Xin Wang, Yantao Jia, Tao Huang, Qianxiang Wang</p>
   <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>A competitive multi-agent debate framework for software issue resolution.</em></span></p>
   <p class="links">
     <a href="https://arxiv.org/abs/2507.23348" target="_blank">📄 pdf</a>
@@ -34,7 +34,7 @@ We have multiple potential projects available with abundant computing resources!
 
 <div class="paper-item">
   <p><strong>SWE-Exp: Experience-Driven Software Issue Resolution</strong></p>
-  <p class="authors">Silin Chen, Shaoxin Lin, Xiaodong Gu, <strong>Yuling Shi</strong>, Heng Lian, Longfei Yun, Dong Chen, Weiguo Sun, Lin Cao, Qianxiang Wang</p>
+  <p class="authors">Silin Chen, Shaoxin Lin, Xiaodong Gu, <u>Yuling Shi</u>, Heng Lian, Longfei Yun, Dong Chen, Weiguo Sun, Lin Cao, Qianxiang Wang</p>
   <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>An experience-driven approach for software issue resolution.</em></span></p>
   <p class="links">
     <a href="https://arxiv.org/abs/2507.23361" target="_blank">📄 pdf</a>
@@ -44,7 +44,7 @@ We have multiple potential projects available with abundant computing resources!
 
 <div class="paper-item">
   <p><strong>EVOC2RUST: A Skeleton-guided Framework for Project-Level C-to-Rust Translation</strong></p>
-  <p class="authors">Chaofan Wang, Tingrui Yu, Jie Wang, Dong Chen, Wenrui Zhang, <strong>Yuling Shi</strong>, Xiaodong Gu, Beijun Shen</p>
+  <p class="authors">Chaofan Wang, Tingrui Yu, Jie Wang, Dong Chen, Wenrui Zhang, <u>Yuling Shi</u>, Xiaodong Gu, Beijun Shen</p>
   <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>An automated framework for converting entire C projects to equivalent Rust ones using skeleton-guided translation strategy.</em></span></p>
   <p class="links">
     <a href="https://arxiv.org/abs/2508.04295" target="_blank">📄 pdf</a>
@@ -52,8 +52,18 @@ We have multiple potential projects available with abundant computing resources!
 </div>
 
 <div class="paper-item">
+  <p><strong>Pruning the Unsurprising: Efficient Code Reasoning via First-Token Surprisal</strong></p>
+  <p class="authors">Wenhao Zeng, Yaoning Wang, Chao Hu, <u>Yuling Shi</u>, Chengcheng Wan, Hongyu Zhang, Xiaodong Gu</p>
+  <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>A novel coarse-to-fine framework for Chain-of-Thought compression in code reasoning tasks.</em></span></p>
+  <p class="links">
+    <a href="https://arxiv.org/abs/2508.05988" target="_blank">📄 pdf</a>
+    <a href="https://github.com/Zengwh02/ASAP" target="_blank">💻 code</a>
+  </p>
+</div>
+
+<div class="paper-item">
   <p><strong>From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging</strong></p>
-  <p class="authors"><strong>Yuling Shi</strong>, Songsong Wang, Chengcheng Wan, Min Wang, Xiaodong Gu</p>
+  <p class="authors"><u>Yuling Shi</u>, Songsong Wang, Chengcheng Wan, Min Wang, Xiaodong Gu</p>
   <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>A multi-level LLM debugger.</em></span></p>
   <p class="links">
     <a href="https://arxiv.org/abs/2410.01215" target="_blank">📄 pdf</a>
@@ -63,7 +73,7 @@ We have multiple potential projects available with abundant computing resources!
 
 <div class="paper-item">
   <p><strong>LastingBench: Defend Benchmarks Against Knowledge Leakage</strong></p>
-  <p class="authors">Yixiong Fang, Tianran Sun, <strong>Yuling Shi</strong>, Min Wang, Xiaodong Gu</p>
+  <p class="authors">Yixiong Fang, Tianran Sun, <u>Yuling Shi</u>, Min Wang, Xiaodong Gu</p>
   <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>A framework to continuously reinforce and safeguard existing benchmarks against knowledge leakage.</em></span></p>
   <p class="links">
     <a href="https://arxiv.org/abs/2506.21614" target="_blank">📄 pdf</a>
@@ -75,7 +85,7 @@ We have multiple potential projects available with abundant computing resources!
 
 <div class="paper-item">
   <p><strong>AttentionRAG: Attention-Guided Context Pruning in Retrieval-Augmented Generation</strong></p>
-  <p class="authors">Yixiong Fang, Tianran Sun, <strong>Yuling Shi</strong>, Xiaodong Gu</p>
+  <p class="authors">Yixiong Fang, Tianran Sun, <u>Yuling Shi</u>, Xiaodong Gu</p>
   <p class="venue">In Proceedings of the ACL 2025 Workshop on Knowledgeable Foundation Models (KnowFM)</p>
   <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>An attention-guided context compression method for long context scenarios.</em></span></p>
   <p class="links">
@@ -85,7 +95,7 @@ We have multiple potential projects available with abundant computing resources!
 
 <div class="paper-item">
   <p><strong>Between Lines of Code: Unraveling the Distinct Patterns of Machine and Human Programmers</strong></p>
-  <p class="authors"><strong>Yuling Shi</strong>, Hongyu Zhang, Chengcheng Wan, Xiaodong Gu</p>
+  <p class="authors"><u>Yuling Shi</u>, Hongyu Zhang, Chengcheng Wan, Xiaodong Gu</p>
   <p class="venue">In Proceedings of the 47th International Conference on Software Engineering (ICSE 2025)</p>
   <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>A zero-shot LLM-generated code detector.</em></span></p>
   <p class="links">
@@ -97,7 +107,7 @@ We have multiple potential projects available with abundant computing resources!
 
 <div class="paper-item">
   <p><strong>A Morley-Wang-Xu element method for a fourth order elliptic singular perturbation problem</strong></p>
-  <p class="authors">Xuehai Huang, <strong>Yuling Shi</strong> and Wenqing Wang</p>
+  <p class="authors">Xuehai Huang, <u>Yuling Shi</u> and Wenqing Wang</p>
   <p class="venue"><em>Journal of Scientific Computing</em> (Q1), 2021</p>
   <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>A FEM solver for PDEs.</em></span></p>
   <p class="links">
