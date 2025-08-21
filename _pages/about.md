@@ -71,9 +71,12 @@ We have multiple potential projects available with abundant computing resources!
   </p>
 </div>
 
+### Publications
+
 <div class="paper-item">
   <p><strong>LastingBench: Defend Benchmarks Against Knowledge Leakage</strong></p>
   <p class="authors">Yixiong Fang, Tianran Sun, <u>Yuling Shi</u>, Min Wang, Xiaodong Gu</p>
+  <p class="venue">EMNLP 2025 Findings</p>
   <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>A framework to continuously reinforce and safeguard existing benchmarks against knowledge leakage.</em></span></p>
   <p class="links">
     <a href="https://arxiv.org/abs/2506.21614" target="_blank">📄 pdf</a>
@@ -81,12 +84,10 @@ We have multiple potential projects available with abundant computing resources!
   </p>
 </div>
 
-### Publications
-
 <div class="paper-item">
   <p><strong>AttentionRAG: Attention-Guided Context Pruning in Retrieval-Augmented Generation</strong></p>
   <p class="authors">Yixiong Fang, Tianran Sun, <u>Yuling Shi</u>, Xiaodong Gu</p>
-  <p class="venue">In Proceedings of the ACL 2025 Workshop on Knowledgeable Foundation Models (KnowFM)</p>
+  <p class="venue">ACL 2025 Workshop</p>
   <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>An attention-guided context compression method for long context scenarios.</em></span></p>
   <p class="links">
     <a href="https://arxiv.org/abs/2503.10720" target="_blank">📄 pdf</a>
@@ -96,7 +97,7 @@ We have multiple potential projects available with abundant computing resources!
 <div class="paper-item">
   <p><strong>Between Lines of Code: Unraveling the Distinct Patterns of Machine and Human Programmers</strong></p>
   <p class="authors"><u>Yuling Shi</u>, Hongyu Zhang, Chengcheng Wan, Xiaodong Gu</p>
-  <p class="venue">In Proceedings of the 47th International Conference on Software Engineering (ICSE 2025)</p>
+  <p class="venue">ICSE 2025</p>
   <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>A zero-shot LLM-generated code detector.</em></span></p>
   <p class="links">
     <a href="https://www.computer.org/csdl/proceedings-article/icse/2025/056900a051/215aWoRvPCE" target="_blank">📄 pdf</a>
