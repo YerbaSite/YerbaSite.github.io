@@ -191,7 +191,7 @@ We have multiple potential projects available with abundant computing resources!
 
 ### Services
 
-- Reviewer for ICLR 2025
+- Reviewer for ICLR 2025, ICLR 2026
 - Shadow PC for ICSE 2026
   
 ### Awards
