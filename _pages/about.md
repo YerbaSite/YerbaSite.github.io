@@ -1,4 +1,4 @@
-<!-- ---
+---
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -206,4 +206,4 @@ We have multiple potential projects available with abundant computing resources!
 - A simple script to detect word by word plagiarism for Academic Writing course in SJTU. [[Github](https://github.com/YerbaPage/plagiarism-certification-helper)]
 
 
-*Thank you for visiting my homepage!* -->
+*Thank you for visiting my homepage!*
