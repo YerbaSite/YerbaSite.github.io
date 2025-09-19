@@ -22,6 +22,16 @@ We have multiple potential projects available with abundant computing resources!
 ### Preprints
 
 <div class="paper-item">
+  <p><strong>Repository-level Code Question Answering</strong></p>
+  <p class="authors">Weihan Peng, <u>Yuling Shi</u>, Yuhang Wang, Xinyun Zhang, Beijun Shen, Xiaodong Gu</p>
+  <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>A repository-level code question answering benchmark with 576 high-quality QA pairs spanning diverse categories including intention understanding, cross-file reasoning, and multi-hop dependency analysis.</em></span></p>
+  <p class="links">
+    <a href="https://arxiv.org/abs/2509.14635" target="_blank">📄 pdf</a>
+    <a href="https://github.com/peng-weihan/SWE-QA-Bench" target="_blank">💻 code</a>
+  </p>
+</div>
+
+<div class="paper-item">
   <p><strong>SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution</strong></p>
   <p class="authors">Han Li<sup>†</sup>, <u>Yuling Shi</u><sup>†</sup>, Shaoxin Lin, Xiaodong Gu, Heng Lian, Xin Wang, Yantao Jia, Tao Huang, Qianxiang Wang</p>
   <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>A competitive multi-agent debate framework for software issue resolution.</em></span></p>
@@ -188,6 +198,7 @@ We have multiple potential projects available with abundant computing resources!
 
 - Teaching Assistant for "Machine Learning" (Fall 2022, Fall 2023, Spring 2024, Spring 2025)
 - Teaching Assistant for "Math for Machine Learning" (Spring 2024)
+- Teaching Assistant for FL4207 "Application of LLMs" (Fall 2025)
 
 ### Services
 
