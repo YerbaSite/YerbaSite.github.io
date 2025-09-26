@@ -84,6 +84,17 @@ We have multiple potential projects available with abundant computing resources!
 ### Publications
 
 <div class="paper-item">
+  <p><strong>LongCodeZip: Compress Long Context for Code Language Models</strong></p>
+  <p class="authors"><u>Yuling Shi</u>, Yichun Qian, Hongyu Zhang, Beijun Shen, Xiaodong Gu</p>
+  <p class="venue">ASE 2025</p>
+  <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>A novel two-stage plug-and-play code compression approach tailored for code LLMs, achieving up to 5.6× compression ratio without sacrificing task performance.</em></span></p>
+  <p class="links">
+    <a href="#" target="_blank">📄 pdf</a>
+    <a href="https://github.com/YerbaPage/LongCodeZip" target="_blank">💻 code</a>
+  </p>
+</div>
+
+<div class="paper-item">
   <p><strong>LastingBench: Defend Benchmarks Against Knowledge Leakage</strong></p>
   <p class="authors">Yixiong Fang, Tianran Sun, <u>Yuling Shi</u>, Min Wang, Xiaodong Gu</p>
   <p class="venue">EMNLP 2025 Findings</p>
