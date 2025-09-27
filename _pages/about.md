@@ -24,7 +24,7 @@ We have multiple potential projects available with abundant computing resources!
 <div class="paper-item">
   <p><strong>Repository-level Code Question Answering</strong></p>
   <p class="authors">Weihan Peng, <u>Yuling Shi</u>, Yuhang Wang, Xinyun Zhang, Beijun Shen, Xiaodong Gu</p>
-  <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>A repository-level code question answering benchmark with 576 high-quality QA pairs spanning diverse categories including intention understanding, cross-file reasoning, and multi-hop dependency analysis.</em></span></p>
+  <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>A repository-level code question answering benchmark.</em></span></p>
   <p class="links">
     <a href="https://arxiv.org/abs/2509.14635" target="_blank">📄 pdf</a>
     <a href="https://github.com/peng-weihan/SWE-QA-Bench" target="_blank">💻 code</a>
