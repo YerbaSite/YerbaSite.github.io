@@ -22,6 +22,15 @@ We have multiple potential projects available with abundant computing resources!
 ### Preprints
 
 <div class="paper-item">
+  <p><strong>Attention as a Compass: Efficient Exploration for Process-Supervised RL in Reasoning Models</strong></p>
+  <p class="authors">Runze Liu, Jiakang Wang, <u>Yuling Shi</u>, Zhihui Xie, Chenxin An, Kaiyan Zhang, Jian Zhao, Xiaodong Gu, Lei Lin, Wenping Hu, Xiu Li, Fuzheng Zhang, Guorui Zhou, Kun Gai</p>
+  <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>A novel PSRL framework that enhances exploration efficiency in reasoning models by branching from high attention positions.</em></span></p>
+  <p class="links">
+    <a href="https://arxiv.org/abs/2509.26628" target="_blank">📄 pdf</a>
+  </p>
+</div>
+
+<div class="paper-item">
   <p><strong>Repository-level Code Question Answering</strong></p>
   <p class="authors">Weihan Peng, <u>Yuling Shi</u>, Yuhang Wang, Xinyun Zhang, Beijun Shen, Xiaodong Gu</p>
   <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>A repository-level code question answering benchmark.</em></span></p>
