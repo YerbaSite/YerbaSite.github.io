@@ -98,7 +98,7 @@ We have multiple potential projects available with abundant computing resources!
   <p class="venue">ASE 2025</p>
   <p class="description"><span style="color: #D2691E;"><strong>TL;DR:</strong> <em>A novel two-stage plug-and-play code compression approach tailored for code LLMs, achieving up to 5.6× compression ratio without sacrificing task performance.</em></span></p>
   <p class="links">
-    <a href="#" target="_blank">📄 pdf</a>
+    <a href="https://arxiv.org/abs/2510.00446" target="_blank">📄 pdf</a>
     <a href="https://github.com/YerbaPage/LongCodeZip" target="_blank">💻 code</a>
   </p>
 </div>
