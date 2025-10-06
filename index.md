@@ -2,17 +2,95 @@
 layout: homepage
 ---
 
-## About Me
+## &#x1F64B; About Me
 
-Hi, I am a forth year Ph.D. student in the [LLM for Software Engineering Lab (LLMSE)](https://base.sjtu.edu.cn/home/doku.php?id=start), affiliated with the School of Software at Shanghai Jiao Tong University in China. I'm grateful to be advised by [Prof. Xiaodong Gu](https://guxd.github.io/) and [Prof. Beijun Shen](https://base.sjtu.edu.cn/home/doku.php?id=mem:bjshen).
+Hi, I am a fourth year Ph.D. student in the [LLM for Software Engineering Lab (LLMSE)](https://base.sjtu.edu.cn/home/doku.php?id=start), affiliated with the School of Software at Shanghai Jiao Tong University in China. I'm grateful to be advised by [Prof. Xiaodong Gu](https://guxd.github.io/) and [Prof. Beijun Shen](https://base.sjtu.edu.cn/home/doku.php?id=mem:bjshen).
 
-## Research Interests
+Some of my recent projects can be found in my Github homepage [here](https://github.com/YerbaPage). Feel free to contact me if you are interested in my work or have any questions.
 
-- **Software Engineering:** repository-level code generation, code question answering, automated debugging, software issue resolution
-- **Natural Language Processing:** post training, retrieval augmented generation, reasoning efficiency
-
+<div style="color: red;">
 We have multiple potential projects available with abundant computing resources! If you are interested in collaboration or internship (remote is also welcome), please feel free to contact me.
+</div>
 
-{% include_relative _includes/publications.md %}
+## &#x1F9D0; Research Interests 
 
-{% include_relative _includes/services.md %}
+- **Software Engineering**: code generation, code debugging, software issue resolution, code question answering
+- **Natural Language Processing**: post training, retrieval augmented generation, reasoning efficiency
+
+## &#x1F468;&#x200D;&#x1F4BB; Experiences
+
+- Research Intern at Microsoft, 2023
+  - I'm grateful to be advised by Dr. Yufan Huang and Dr. Maoquan Wang to work on analyzing neural representations of code. And some of my work contributed to the following paper on EMNLP 2023. [[pdf](https://aclanthology.org/2023.emnlp-main.672/)]
+
+## &#x1F4DD; Publications 
+† denotes equal contribution.
+
+### Preprints
+- <strong><span style="color: #03396c;">Attention as a Compass: Efficient Exploration for Process-Supervised RL in Reasoning Models</span></strong>  
+  [Preprint](https://arxiv.org/abs/2509.26628)    
+  Runze Liu, Jiakang Wang, <u>Yuling Shi</u>, Zhihui Xie, Chenxin An, Kaiyan Zhang, Jian Zhao, Xiaodong Gu, Lei Lin, Wenping Hu, Xiu Li, Fuzheng Zhang, Guorui Zhou, Kun Gai
+
+- <strong><span style="color: #03396c;">Repository-level Code Question Answering</span></strong>  
+  [Preprint](https://arxiv.org/abs/2509.14635)  
+  Weihan Peng, <u>Yuling Shi</u>, Yuhang Wang, Xinyun Zhang, Beijun Shen, Xiaodong Gu
+
+- <strong><span style="color: #03396c;">SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution</span></strong>  
+  [Preprint](https://arxiv.org/abs/2507.23348)  
+  Han Li†, <u>Yuling Shi</u>†, Shaoxin Lin, Xiaodong Gu, Heng Lian, Xin Wang, Yantao Jia, Tao Huang, Qianxiang Wang
+
+- <strong><span style="color: #03396c;">SWE-Exp: Experience-Driven Software Issue Resolution</span></strong>  
+  [Preprint](https://arxiv.org/abs/2507.23361)  
+  Silin Chen, Shaoxin Lin, Xiaodong Gu, <u>Yuling Shi</u>, Heng Lian, Longfei Yun, Dong Chen, Weiguo Sun, Lin Cao, Qianxiang Wang
+
+- <strong><span style="color: #03396c;">EVOC2RUST: A Skeleton-guided Framework for Project-Level C-to-Rust Translation</span></strong>  
+  [Preprint](https://arxiv.org/abs/2508.04295)  
+  Chaofan Wang, Tingrui Yu, Jie Wang, Dong Chen, Wenrui Zhang, <u>Yuling Shi</u>, Xiaodong Gu, Beijun Shen
+
+- <strong><span style="color: #03396c;">Pruning the Unsurprising: Efficient Code Reasoning via First-Token Surprisal</span></strong>  
+  [Preprint](https://arxiv.org/abs/2508.05988)  
+  Wenhao Zeng, Yaoning Wang, Chao Hu, <u>Yuling Shi</u>, Chengcheng Wan, Hongyu Zhang, Xiaodong Gu
+
+- <strong><span style="color: #03396c;">From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging</span></strong>  
+  [Preprint](https://arxiv.org/abs/2410.01215)  
+  <u>Yuling Shi</u>, Songsong Wang, Chengcheng Wan, Min Wang, Xiaodong Gu
+
+### Publications
+- <strong><span style="color: #03396c;">LongCodeZip: Compress Long Context for Code Language Models</span></strong>  
+  [ASE 2025](https://arxiv.org/abs/2510.00446)  
+  <u>Yuling Shi</u>, Yichun Qian, Hongyu Zhang, Beijun Shen, Xiaodong Gu
+
+- <strong><span style="color: #03396c;">LastingBench: Defend Benchmarks Against Knowledge Leakage</span></strong>  
+  [EMNLP 2025 Findings](https://arxiv.org/abs/2506.21614)  
+  Yixiong Fang, Tianran Sun, <u>Yuling Shi</u>, Min Wang, Xiaodong Gu
+
+- <strong><span style="color: #03396c;">AttentionRAG: Attention-Guided Context Pruning in Retrieval-Augmented Generation</span></strong>  
+  [ACL 2025 Workshop](https://arxiv.org/abs/2503.10720)  
+  Yixiong Fang, Tianran Sun, <u>Yuling Shi</u>, Xiaodong Gu
+
+- <strong><span style="color: #03396c;">Between Lines of Code: Unraveling the Distinct Patterns of Machine and Human Programmers</span></strong>  
+  [ICSE 2025](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a051/215aWoRvPCE)  
+  <u>Yuling Shi</u>, Hongyu Zhang, Chengcheng Wan, Xiaodong Gu
+
+- <strong><span style="color: #03396c;">A Morley-Wang-Xu element method for a fourth order elliptic singular perturbation problem</span></strong>  
+  [Journal of Scientific Computing (Q1), 2021](https://link.springer.com/content/pdf/10.1007/s10915-021-01483-2.pdf)  
+  Xuehai Huang, <u>Yuling Shi</u> and Wenqing Wang
+
+## &#x1F4DA; Teaching 
+- Teaching Assistant for "Machine Learning" (Fall 2022, Fall 2023, Spring 2024, Spring 2025)
+- Teaching Assistant for "Math for Machine Learning" (Spring 2024)
+- Teaching Assistant for FL4207 "Application of LLMs" (Fall 2025)
+
+## &#x1F4BC; Services
+- Reviewer for ICLR 2025, ICLR 2026
+- Shadow PC for ICSE 2026
+
+## &#x1F3C6; Awards
+- National Scholarship
+- Fifth place in Shanghai Table Tennis Doubles Championship and third place in teams representing my university
+- First Prize in National Olympiad in Physics at High school (Provincial Area)
+
+## &#x1F4D6; Materials to share
+- 🔥 A collection of resources for repo-level code generation. [[Github](https://github.com/YerbaPage/Awesome-Repo-Level-Code-Generation)]
+- A simple script to detect word by word plagiarism for Academic Writing course in SJTU. [[Github](https://github.com/YerbaPage/plagiarism-certification-helper)]
+
+*Thank you for visiting my homepage!*
