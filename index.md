@@ -11,9 +11,7 @@ Hi, I am a forth year Ph.D. student in the [LLM for Software Engineering Lab (LL
 - **Software Engineering:** repository-level code generation, code question answering, automated debugging, software issue resolution
 - **Natural Language Processing:** post training, retrieval augmented generation, reasoning efficiency
 
-<div style="color: red;">
 We have multiple potential projects available with abundant computing resources! If you are interested in collaboration or internship (remote is also welcome), please feel free to contact me.
-</div>
 
 {% include_relative _includes/publications.md %}
 
