@@ -1,103 +1,22 @@
 main:
 
-  - title: "LongCodeZip: Compress Long Context for Code Language Models"
-    authors: <strong>Yuling Shi</strong>, Yichun Qian, Hongyu Zhang, Beijun Shen, Xiaodong Gu
-    conference_short: ASE
-    conference: IEEE/ACM International Conference on Automated Software Engineering <strong>(ASE)</strong>, 2025.
-    pdf: https://arxiv.org/abs/2510.00446
-    code: https://github.com/YerbaPage/LongCodeZip
-    notes: To appear
-    image: 
+  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
+    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+    conference_short: MICCAI
+    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_example_2.png
+    notes: Early Accept
 
-  - title: "LastingBench: Defend Benchmarks Against Knowledge Leakage"
-    authors: Yixiong Fang, Tianran Sun, <strong>Yuling Shi</strong>, Min Wang, Xiaodong Gu
-    conference_short: EMNLP
-    conference: Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP Findings)</strong>, 2025.
-    pdf: https://arxiv.org/abs/2506.21614
-    code: https://github.com/Seriousss/LastingBench
-    notes: To appear
-    image: 
-
-  - title: "AttentionRAG: Attention-Guided Context Pruning in Retrieval-Augmented Generation"
-    authors: Yixiong Fang, Tianran Sun, <strong>Yuling Shi</strong>, Xiaodong Gu
-    conference_short: ACL
-    conference: Annual Meeting of the Association for Computational Linguistics <strong>(ACL Workshop)</strong>, 2025.
-    pdf: https://arxiv.org/abs/2503.10720
-    notes: To appear
-    image: 
-
-  - title: "Between Lines of Code: Unraveling the Distinct Patterns of Machine and Human Programmers"
-    authors: <strong>Yuling Shi</strong>, Hongyu Zhang, Chengcheng Wan, Xiaodong Gu
-    conference_short: ICSE
-    conference: IEEE/ACM International Conference on Software Engineering <strong>(ICSE)</strong>, 2025.
-    pdf: https://www.computer.org/csdl/proceedings-article/icse/2025/056900a051/215aWoRvPCE
-    code: https://github.com/YerbaPage/DetectCodeGPT
-    page: https://github.com/YerbaSite/YerbaSite.github.io/blob/master/files/detectcodegpt_slides.pdf
-    notes: To appear
-    image: 
-
-  - title: "A Morley-Wang-Xu element method for a fourth order elliptic singular perturbation problem"
-    authors: Xuehai Huang, <strong>Yuling Shi</strong>, Wenqing Wang
-    conference_short: JSC
-    conference: <em>Journal of Scientific Computing</em>, 2021.
-    pdf: https://link.springer.com/content/pdf/10.1007/s10915-021-01483-2.pdf
-    code: https://github.com/YerbaPage/FEM
-    notes: Q1 Journal
-    image: 
-
-preprints:
-
-  - title: "Attention as a Compass: Efficient Exploration for Process-Supervised RL in Reasoning Models"
-    authors: Runze Liu, Jiakang Wang, <strong>Yuling Shi</strong>, Zhihui Xie, Chenxin An, Kaiyan Zhang, Jian Zhao, Xiaodong Gu, Lei Lin, Wenping Hu, Xiu Li, Fuzheng Zhang, Guorui Zhou, Kun Gai
-    conference_short: Preprint
-    conference: arXiv preprint, 2024.
-    pdf: https://arxiv.org/abs/2509.26628
-    image: 
-
-  - title: "Repository-level Code Question Answering"
-    authors: Weihan Peng, <strong>Yuling Shi</strong>, Yuhang Wang, Xinyun Zhang, Beijun Shen, Xiaodong Gu
-    conference_short: Preprint
-    conference: arXiv preprint, 2024.
-    pdf: https://arxiv.org/abs/2509.14635
-    code: https://github.com/peng-weihan/SWE-QA-Bench
-    image: 
-
-  - title: "SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution"
-    authors: Han Li<sup>†</sup>, <strong>Yuling Shi</strong><sup>†</sup>, Shaoxin Lin, Xiaodong Gu, Heng Lian, Xin Wang, Yantao Jia, Tao Huang, Qianxiang Wang
-    conference_short: Preprint
-    conference: arXiv preprint, 2024.
-    pdf: https://arxiv.org/abs/2507.23348
-    code: https://github.com/YerbaPage/SWE-Debate
-    notes: † Equal contribution
-    image: 
-
-  - title: "SWE-Exp: Experience-Driven Software Issue Resolution"
-    authors: Silin Chen, Shaoxin Lin, Xiaodong Gu, <strong>Yuling Shi</strong>, Heng Lian, Longfei Yun, Dong Chen, Weiguo Sun, Lin Cao, Qianxiang Wang
-    conference_short: Preprint
-    conference: arXiv preprint, 2024.
-    pdf: https://arxiv.org/abs/2507.23361
-    code: https://github.com/YerbaPage/SWE-Exp
-    image: 
-
-  - title: "EVOC2RUST: A Skeleton-guided Framework for Project-Level C-to-Rust Translation"
-    authors: Chaofan Wang, Tingrui Yu, Jie Wang, Dong Chen, Wenrui Zhang, <strong>Yuling Shi</strong>, Xiaodong Gu, Beijun Shen
-    conference_short: Preprint
-    conference: arXiv preprint, 2024.
-    pdf: https://arxiv.org/abs/2508.04295
-    image: 
-
-  - title: "Pruning the Unsurprising: Efficient Code Reasoning via First-Token Surprisal"
-    authors: Wenhao Zeng, Yaoning Wang, Chao Hu, <strong>Yuling Shi</strong>, Chengcheng Wan, Hongyu Zhang, Xiaodong Gu
-    conference_short: Preprint
-    conference: arXiv preprint, 2024.
-    pdf: https://arxiv.org/abs/2508.05988
-    code: https://github.com/Zengwh02/ASAP
-    image: 
-
-  - title: "From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging"
-    authors: <strong>Yuling Shi</strong>, Songsong Wang, Chengcheng Wan, Min Wang, Xiaodong Gu
-    conference_short: Preprint
-    conference: arXiv preprint, 2024.
-    pdf: https://arxiv.org/abs/2410.01215
-    code: https://github.com/YerbaPage/MGDebugger
-    image: 
+  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Oral Presentation
+    image: ./assets/img/teaser_example.png

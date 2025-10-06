@@ -1,21 +1,16 @@
-<h2 id="services" style="margin: 40px 0px -15px;">Services</h2>
+## Services
 
-<h4 style="margin:15px 10px 0;">Conference Reviewers</h4>
-
-<ul style="margin:0 0 5px;">
-  <li><autocolor>ICLR 2025, ICLR 2026</autocolor></li>
-</ul>
-
-<h4 style="margin:15px 10px 0;">Program Committee</h4>
+<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>Shadow PC for ICSE 2026</autocolor></li>
+  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
+  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
+  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
 </ul>
 
-<h2 id="experiences" style="margin: 40px 0px -15px;">Experiences</h2>
+<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><strong>Research Intern</strong>, Microsoft, 2023<br>
-  <span style="color:#718096;font-size:0.9em;">Advised by Dr. Yufan Huang and Dr. Maoquan Wang. Worked on analyzing neural representations of code. Contributed to a paper published at EMNLP 2023. <a href="https://aclanthology.org/2023.emnlp-main.672/" target="_blank">[paper]</a></span>
-  </li>
+  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
+  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
 </ul>
