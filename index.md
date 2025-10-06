@@ -6,14 +6,11 @@ layout: homepage
 
 Hi, I am a fourth year Ph.D. student in the [LLM for Software Engineering Lab (LLMSE)](https://base.sjtu.edu.cn/home/doku.php?id=start), affiliated with the School of Software at Shanghai Jiao Tong University in China. I'm grateful to be advised by [Prof. Xiaodong Gu](https://guxd.github.io/) and [Prof. Beijun Shen](https://base.sjtu.edu.cn/home/doku.php?id=mem:bjshen).
 
-Some of my recent projects can be found in my Github homepage [here](https://github.com/YerbaPage). Feel free to contact me if you are interested in my work or have any questions.
-
-
 <div style="color: red;">
 We have multiple potential projects available with abundant computing resources! If you are interested in collaboration or internship (remote is also welcome), please feel free to contact me.
-
 </div>
 
+Some of my recent projects can be found in my Github homepage [here](https://github.com/YerbaPage). Feel free to contact me if you are interested in my work or have any questions.
 
 ## &#x1F9D0; Research Interests 
 
@@ -22,6 +19,28 @@ We have multiple potential projects available with abundant computing resources!
 
 ## &#x1F4DD; Publications 
 † denotes equal contribution.
+
+### Publications
+
+- <strong><span style="color: #03396c;">LongCodeZip: Compress Long Context for Code Language Models</span></strong>  
+  [ASE 2025](https://arxiv.org/abs/2510.00446)  
+  <u>Yuling Shi</u>, Yichun Qian, Hongyu Zhang, Beijun Shen, Xiaodong Gu
+
+- <strong><span style="color: #03396c;">LastingBench: Defend Benchmarks Against Knowledge Leakage</span></strong>  
+  [EMNLP 2025 Findings](https://arxiv.org/abs/2506.21614)  
+  Yixiong Fang, Tianran Sun, <u>Yuling Shi</u>, Min Wang, Xiaodong Gu
+
+- <strong><span style="color: #03396c;">AttentionRAG: Attention-Guided Context Pruning in Retrieval-Augmented Generation</span></strong>  
+  [ACL 2025 Workshop](https://arxiv.org/abs/2503.10720)  
+  Yixiong Fang, Tianran Sun, <u>Yuling Shi</u>, Xiaodong Gu
+
+- <strong><span style="color: #03396c;">Between Lines of Code: Unraveling the Distinct Patterns of Machine and Human Programmers</span></strong>  
+  [ICSE 2025](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a051/215aWoRvPCE)
+  <u>Yuling Shi</u>, Hongyu Zhang, Chengcheng Wan, Xiaodong Gu
+
+- <strong><span style="color: #03396c;">A Morley-Wang-Xu element method for a fourth order elliptic singular perturbation problem</span></strong>  
+  [Journal of Scientific Computing (Q1), 2021](https://link.springer.com/content/pdf/10.1007/s10915-021-01483-2.pdf)  
+  Xuehai Huang, <u>Yuling Shi</u> and Wenqing Wang
 
 ### Preprints
 
@@ -53,32 +72,10 @@ We have multiple potential projects available with abundant computing resources!
   [Preprint](https://arxiv.org/abs/2410.01215)  
   <u>Yuling Shi</u>, Songsong Wang, Chengcheng Wan, Min Wang, Xiaodong Gu
 
-### Publications
-
-- <strong><span style="color: #03396c;">LongCodeZip: Compress Long Context for Code Language Models</span></strong>  
-  [ASE 2025](https://arxiv.org/abs/2510.00446)  
-  <u>Yuling Shi</u>, Yichun Qian, Hongyu Zhang, Beijun Shen, Xiaodong Gu
-
-- <strong><span style="color: #03396c;">LastingBench: Defend Benchmarks Against Knowledge Leakage</span></strong>  
-  [EMNLP 2025 Findings](https://arxiv.org/abs/2506.21614)  
-  Yixiong Fang, Tianran Sun, <u>Yuling Shi</u>, Min Wang, Xiaodong Gu
-
-- <strong><span style="color: #03396c;">AttentionRAG: Attention-Guided Context Pruning in Retrieval-Augmented Generation</span></strong>  
-  [ACL 2025 Workshop](https://arxiv.org/abs/2503.10720)  
-  Yixiong Fang, Tianran Sun, <u>Yuling Shi</u>, Xiaodong Gu
-
-- <strong><span style="color: #03396c;">Between Lines of Code: Unraveling the Distinct Patterns of Machine and Human Programmers</span></strong>  
-  [ICSE 2025](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a051/215aWoRvPCE)  
-  <u>Yuling Shi</u>, Hongyu Zhang, Chengcheng Wan, Xiaodong Gu
-
-- <strong><span style="color: #03396c;">A Morley-Wang-Xu element method for a fourth order elliptic singular perturbation problem</span></strong>  
-  [Journal of Scientific Computing (Q1), 2021](https://link.springer.com/content/pdf/10.1007/s10915-021-01483-2.pdf)  
-  Xuehai Huang, <u>Yuling Shi</u> and Wenqing Wang
-
 ## &#x1F468;&#x200D;&#x1F4BB; Experiences
 
-- Research Intern at Microsoft, 2023
-  - I'm grateful to be advised by Dr. Yufan Huang and Dr. Maoquan Wang to work on analyzing neural representations of code. And some of my work contributed to the following paper on EMNLP 2023. [[pdf](https://aclanthology.org/2023.emnlp-main.672/)]
+- Research Intern at Microsoft Research, 2023
+  - I'm grateful to be advised by [Dr. Yufan Huang](https://www.microsoft.com/en-us/research/people/yufanhuang/) and [Dr. Maoquan Wang](https://scholar.google.com/citations?user=16Z7JhsAAAAJ&hl=en) to work on analyzing neural representations of code. And some of my work contributed to the following paper on EMNLP 2023. [[pdf](https://aclanthology.org/2023.emnlp-main.672/)]
 
 ## &#x1F4DA; Teaching 
 - Teaching Assistant for "Machine Learning" (Fall 2022, Fall 2023, Spring 2024, Spring 2025)
