@@ -8,24 +8,22 @@ Hi, I am a fourth year Ph.D. student in the [LLM for Software Engineering Lab (L
 
 Some of my recent projects can be found in my Github homepage [here](https://github.com/YerbaPage). Feel free to contact me if you are interested in my work or have any questions.
 
+
 <div style="color: red;">
 We have multiple potential projects available with abundant computing resources! If you are interested in collaboration or internship (remote is also welcome), please feel free to contact me.
 </div>
+
 
 ## &#x1F9D0; Research Interests 
 
 - **Software Engineering**: code generation, code debugging, software issue resolution, code question answering
 - **Natural Language Processing**: post training, retrieval augmented generation, reasoning efficiency
 
-## &#x1F468;&#x200D;&#x1F4BB; Experiences
-
-- Research Intern at Microsoft, 2023
-  - I'm grateful to be advised by Dr. Yufan Huang and Dr. Maoquan Wang to work on analyzing neural representations of code. And some of my work contributed to the following paper on EMNLP 2023. [[pdf](https://aclanthology.org/2023.emnlp-main.672/)]
-
 ## &#x1F4DD; Publications 
 † denotes equal contribution.
 
 ### Preprints
+
 - <strong><span style="color: #03396c;">Attention as a Compass: Efficient Exploration for Process-Supervised RL in Reasoning Models</span></strong>  
   [Preprint](https://arxiv.org/abs/2509.26628)    
   Runze Liu, Jiakang Wang, <u>Yuling Shi</u>, Zhihui Xie, Chenxin An, Kaiyan Zhang, Jian Zhao, Xiaodong Gu, Lei Lin, Wenping Hu, Xiu Li, Fuzheng Zhang, Guorui Zhou, Kun Gai
@@ -55,6 +53,7 @@ We have multiple potential projects available with abundant computing resources!
   <u>Yuling Shi</u>, Songsong Wang, Chengcheng Wan, Min Wang, Xiaodong Gu
 
 ### Publications
+
 - <strong><span style="color: #03396c;">LongCodeZip: Compress Long Context for Code Language Models</span></strong>  
   [ASE 2025](https://arxiv.org/abs/2510.00446)  
   <u>Yuling Shi</u>, Yichun Qian, Hongyu Zhang, Beijun Shen, Xiaodong Gu
@@ -74,6 +73,11 @@ We have multiple potential projects available with abundant computing resources!
 - <strong><span style="color: #03396c;">A Morley-Wang-Xu element method for a fourth order elliptic singular perturbation problem</span></strong>  
   [Journal of Scientific Computing (Q1), 2021](https://link.springer.com/content/pdf/10.1007/s10915-021-01483-2.pdf)  
   Xuehai Huang, <u>Yuling Shi</u> and Wenqing Wang
+
+## &#x1F468;&#x200D;&#x1F4BB; Experiences
+
+- Research Intern at Microsoft, 2023
+  - I'm grateful to be advised by Dr. Yufan Huang and Dr. Maoquan Wang to work on analyzing neural representations of code. And some of my work contributed to the following paper on EMNLP 2023. [[pdf](https://aclanthology.org/2023.emnlp-main.672/)]
 
 ## &#x1F4DA; Teaching 
 - Teaching Assistant for "Machine Learning" (Fall 2022, Fall 2023, Spring 2024, Spring 2025)
