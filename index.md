@@ -35,7 +35,7 @@ We have multiple potential projects available with abundant computing resources!
   Yixiong Fang, Tianran Sun, <u>Yuling Shi</u>, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">Between Lines of Code: Unraveling the Distinct Patterns of Machine and Human Programmers</span></strong>  
-  [ICSE 2025](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a051/215aWoRvPCE)
+  [ICSE 2025](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a051/215aWoRvPCE)  
   <u>Yuling Shi</u>, Hongyu Zhang, Chengcheng Wan, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">A Morley-Wang-Xu element method for a fourth order elliptic singular perturbation problem</span></strong>  
