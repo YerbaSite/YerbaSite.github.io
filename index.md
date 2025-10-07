@@ -15,7 +15,7 @@ We have multiple potential projects available with abundant computing resources!
 ## &#x1F9D0; Research Interests 
 
 - **Software Engineering**: code generation, code debugging, software issue resolution, code question answering
-- **Natural Language Processing**: post training, retrieval augmented generation, reasoning efficiency
+- **Natural Language Processing**: post training, retrieval augmented generation, efficiency reasoning
 
 ## &#x1F4DD; Publications 
 † denotes equal contribution.
