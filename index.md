@@ -35,7 +35,7 @@ We have multiple potential projects available with abundant computing resources!
   Yixiong Fang, Tianran Sun, <u>Yuling Shi</u>, Min Wang, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">AttentionRAG: Attention-Guided Context Pruning in Retrieval-Augmented Generation</span></strong>  
-  [ACL 2025 Workshop](https://arxiv.org/abs/2503.10720)   
+  [ACL 2025 KnowFM](https://arxiv.org/abs/2503.10720)   
   Yixiong Fang, Tianran Sun, <u>Yuling Shi</u>, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">A Morley-Wang-Xu element method for a fourth order elliptic singular perturbation problem</span></strong>  
