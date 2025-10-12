@@ -52,22 +52,22 @@ We have multiple potential projects available with abundant computing resources!
   [Preprint](https://arxiv.org/abs/2507.23348)  
   Han Li†, <u>Yuling Shi</u>†, Shaoxin Lin, Xiaodong Gu, Heng Lian, Xin Wang, Yantao Jia, Tao Huang, Qianxiang Wang
 
+- <strong><span style="color: #03396c;">SWE-Exp: Experience-Driven Software Issue Resolution</span></strong>  
+  [Preprint](https://arxiv.org/abs/2507.23361)  
+  Silin Chen, Shaoxin Lin, Xiaodong Gu, <u>Yuling Shi</u>, Heng Lian, Longfei Yun, Dong Chen, Weiguo Sun, Lin Cao, Qianxiang Wang
+
 - <strong><span style="color: #03396c;">Repository-level Code Question Answering</span></strong>  
   [Preprint](https://arxiv.org/abs/2509.14635)  
   Weihan Peng, <u>Yuling Shi</u>, Yuhang Wang, Xinyun Zhang, Beijun Shen, Xiaodong Gu
+
+- <strong><span style="color: #03396c;">Pruning the Unsurprising: Efficient Code Reasoning via First-Token Surprisal</span></strong>  
+  [Preprint](https://arxiv.org/abs/2508.05988)  
+  Wenhao Zeng, Yaoning Wang, Chao Hu, <u>Yuling Shi</u>, Chengcheng Wan, Hongyu Zhang, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">Attention as a Compass: Efficient Exploration for Process-Supervised RL in Reasoning Models</span></strong>  
   [Preprint](https://arxiv.org/abs/2509.26628)    
   Runze Liu, Jiakang Wang, <u>Yuling Shi</u>, Zhihui Xie, Chenxin An, Kaiyan Zhang, Jian Zhao, Xiaodong Gu, Lei Lin, Wenping Hu, Xiu Li, Fuzheng Zhang, Guorui Zhou, Kun Gai
 
-- <strong><span style="color: #03396c;">SWE-Exp: Experience-Driven Software Issue Resolution</span></strong>  
-  [Preprint](https://arxiv.org/abs/2507.23361)  
-  Silin Chen, Shaoxin Lin, Xiaodong Gu, <u>Yuling Shi</u>, Heng Lian, Longfei Yun, Dong Chen, Weiguo Sun, Lin Cao, Qianxiang Wang
-
-- <strong><span style="color: #03396c;">Pruning the Unsurprising: Efficient Code Reasoning via First-Token Surprisal</span></strong>  
-  [Preprint](https://arxiv.org/abs/2508.05988)  
-  Wenhao Zeng, Yaoning Wang, Chao Hu, <u>Yuling Shi</u>, Chengcheng Wan, Hongyu Zhang, Xiaodong Gu
-  
 - <strong><span style="color: #03396c;">EVOC2RUST: A Skeleton-guided Framework for Project-Level C-to-Rust Translation</span></strong>  
   [Preprint](https://arxiv.org/abs/2508.04295)  
   Chaofan Wang, Tingrui Yu, Jie Wang, Dong Chen, Wenrui Zhang, <u>Yuling Shi</u>, Xiaodong Gu, Beijun Shen
