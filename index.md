@@ -15,7 +15,7 @@ We have multiple potential projects available with abundant computing resources!
 ## &#x1F9D0; Research Interests 
 
 - **Software Engineering**: code generation, code debugging, software issue resolution, code question answering
-- **Natural Language Processing**: post training, retrieval augmented generation, efficiency reasoning
+- **Natural Language Processing**: post training, retrieval augmented generation, multi-agent systems
 
 ## &#x1F4DD; Publications 
 † denotes equal contribution.
@@ -72,6 +72,17 @@ We have multiple potential projects available with abundant computing resources!
   [Preprint](https://arxiv.org/abs/2508.04295)  
   Chaofan Wang, Tingrui Yu, Jie Wang, Dong Chen, Wenrui Zhang, <u>Yuling Shi</u>, Xiaodong Gu, Beijun Shen
 
+- <strong><span style="color: #03396c;">HyperAgent: Leveraging Hypergraphs for Topology Optimization in Multi-Agent Communication</span></strong>  
+[Preprint](https://arxiv.org/abs/2510.10611)  
+Heng Zhang, <u>Yuling Shi</u>, Xiaodong Gu, Zijian Zhang, Haochen You, Lubin Gan, Yilei Yuan, Jin Huang
+
+- <strong><span style="color: #03396c;">GraphTracer: Graph-Guided Failure Tracing in LLM Agents for Robust Multi-Turn Deep Search</span></strong>  
+[Preprint](https://arxiv.org/abs/2510.10581)  
+Heng Zhang, <u>Yuling Shi</u>, Xiaodong Gu, Haochen You, Zijian Zhang, Lubin Gan, Yilei Yuan, Jin Huang
+
+- <strong><span style="color: #03396c;">D3MAS: Decompose, Deduce, and Distribute for Enhanced Knowledge Sharing in Multi-Agent Systems</span></strong>  
+[Preprint](https://arxiv.org/abs/2510.10585)  
+Heng Zhang, <u>Yuling Shi</u>, Xiaodong Gu, Haochen You, Zijian Zhang, Lubin Gan, Yilei Yuan, Jin Huang
 
 ## &#x1F468;&#x200D;&#x1F4BB; Experiences
 
