@@ -22,6 +22,10 @@ We have multiple potential projects available with abundant computing resources!
 
 ### Publications
 
+- <strong><span style="color: #03396c;">From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging</span></strong>  
+  [ICSE 2026](https://arxiv.org/abs/2410.01215)  
+  <u>Yuling Shi</u>, Songsong Wang, Chengcheng Wan, Min Wang, Xiaodong Gu
+
 - <strong><span style="color: #03396c;">LongCodeZip: Compress Long Context for Code Language Models</span></strong>  
   [ASE 2025](https://arxiv.org/abs/2510.00446)  
   <u>Yuling Shi</u>, Yichun Qian, Hongyu Zhang, Beijun Shen, Xiaodong Gu
@@ -43,10 +47,6 @@ We have multiple potential projects available with abundant computing resources!
   Xuehai Huang, <u>Yuling Shi</u> and Wenqing Wang
 
 ### Preprints
-
-- <strong><span style="color: #03396c;">From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging</span></strong>  
-  [Preprint](https://arxiv.org/abs/2410.01215)  
-  <u>Yuling Shi</u>, Songsong Wang, Chengcheng Wan, Min Wang, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution</span></strong>  
   [Preprint](https://arxiv.org/abs/2507.23348)  
