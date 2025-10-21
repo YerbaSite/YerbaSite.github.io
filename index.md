@@ -90,7 +90,7 @@ Heng Zhang, <u>Yuling Shi</u>, Xiaodong Gu, Haochen You, Zijian Zhang, Lubin Gan
   - I'm grateful to be advised by [Dr. Yufan Huang](https://www.microsoft.com/en-us/research/people/yufanhuang/) and [Dr. Maoquan Wang](https://scholar.google.com/citations?user=16Z7JhsAAAAJ&hl=en) to work on analyzing neural representations of code. And some of my work contributed to the following paper on EMNLP 2023. [[pdf](https://aclanthology.org/2023.emnlp-main.672/)]
 
 ## &#x1F4E3; Invited Talks
-- **LongCodeZip** Bytedance, October 2025
+- **LongCodeZip** Software Engineering Lab, Bytedance, October 2025
 
 - **MGDebugger** Tongyi Lab, Alibaba, October 2024
 
