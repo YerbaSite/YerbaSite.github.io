@@ -60,6 +60,10 @@ We have multiple potential projects available with abundant computing resources!
   [Preprint](https://arxiv.org/abs/2509.14635)  
   Weihan Peng, <u>Yuling Shi</u>, Yuhang Wang, Xinyun Zhang, Beijun Shen, Xiaodong Gu
 
+- <strong><span style="color: #03396c;">Robust Preference Alignment via Directional Neighborhood Consensus</span></strong>  
+  [Preprint](https://arxiv.org/abs/2510.20498)  
+  Ruochen Mao, <u>Yuling Shi</u>, Xiaodong Gu, Jiaheng Wei
+
 - <strong><span style="color: #03396c;">Pruning the Unsurprising: Efficient Code Reasoning via First-Token Surprisal</span></strong>  
   [Preprint](https://arxiv.org/abs/2508.05988)  
   Wenhao Zeng, Yaoning Wang, Chao Hu, <u>Yuling Shi</u>, Chengcheng Wan, Hongyu Zhang, Xiaodong Gu
@@ -90,7 +94,7 @@ Heng Zhang, <u>Yuling Shi</u>, Xiaodong Gu, Haochen You, Zijian Zhang, Lubin Gan
   - I'm grateful to be advised by [Dr. Yufan Huang](https://www.microsoft.com/en-us/research/people/yufanhuang/) and [Dr. Maoquan Wang](https://scholar.google.com/citations?user=16Z7JhsAAAAJ&hl=en) to work on analyzing neural representations of code. And some of my work contributed to the following paper on EMNLP 2023. [[pdf](https://aclanthology.org/2023.emnlp-main.672/)]
 
 ## &#x1F4E3; Invited Talks
-- **LongCodeZip**, at Software Engineering Lab, Bytedance, October 2025
+- **LongCodeZip**, at Software Engineering Lab, ByteDance, October 2025
 - **MGDebugger**, at Tongyi Lab, Alibaba, October 2024
 - **DetectCodeGPT**, at CCF Synonym, August 2024
 
