@@ -95,8 +95,8 @@ Heng Zhang, <u>Yuling Shi</u>, Xiaodong Gu, Haochen You, Zijian Zhang, Lubin Gan
 
 ## &#x1F4E3; Invited Talks
 - *Dealing with long context problem in SE*, at Software Engineering Lab, ByteDance, October 2025
-- *Hierarchical Debugging with LLMs.*, at Tongyi Lab, Alibaba, October 2024
-- **DetectCodeGPT**, at CCF Synonym, August 2024
+- *Hierarchical Debugging with LLMs*, at Tongyi Lab, Alibaba, October 2024
+- *How to detect LLM generated code*, at CCF Synonym, August 2024
 
 ## &#x1F4DA; Teaching 
 - Teaching Assistant for "Machine Learning" (Fall 2022, Fall 2023, Spring 2024, Spring 2025)
