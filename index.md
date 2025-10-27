@@ -108,9 +108,9 @@ Heng Zhang, <u>Yuling Shi</u>, Xiaodong Gu, Haochen You, Zijian Zhang, Lubin Gan
 - Journal Reviewer: TMLR
 
 ## &#x1F3C6; Awards
-- 🏆 National Scholarship 
-- 🏓 Fifth place in Shanghai Table Tennis Doubles Championship and third place in teams representing my university 
-- 🏆 First Prize in National Olympiad in Physics at High school (Provincial Area) 
+- &#x1F3C6; National Scholarship 
+- &#x1F3D3; Fifth place in Shanghai Table Tennis Doubles Championship and third place in teams representing my university 
+- &#x1F3C6; First Prize in National Olympiad in Physics at High school (Provincial Area) 
 
 ## &#x1F4D6; Materials to share
 - 🔥 A collection of resources for repo-level code generation. [[Github](https://github.com/YerbaPage/Awesome-Repo-Level-Code-Generation)]
