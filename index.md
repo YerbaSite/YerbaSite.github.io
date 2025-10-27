@@ -94,8 +94,8 @@ Heng Zhang, <u>Yuling Shi</u>, Xiaodong Gu, Haochen You, Zijian Zhang, Lubin Gan
   - I'm grateful to be advised by [Dr. Yufan Huang](https://www.microsoft.com/en-us/research/people/yufanhuang/) and [Dr. Maoquan Wang](https://scholar.google.com/citations?user=16Z7JhsAAAAJ&hl=en) to work on analyzing neural representations of code. And some of my work contributed to the following paper on EMNLP 2023. [[pdf](https://aclanthology.org/2023.emnlp-main.672/)]
 
 ## &#x1F4E3; Invited Talks
-- **LongCodeZip**, at Software Engineering Lab, ByteDance, October 2025
-- **MGDebugger**, at Tongyi Lab, Alibaba, October 2024
+- *Dealing with long context problem in SE*, at Software Engineering Lab, ByteDance, October 2025
+- *Hierarchical Debugging with LLMs.*, at Tongyi Lab, Alibaba, October 2024
 - **DetectCodeGPT**, at CCF Synonym, August 2024
 
 ## &#x1F4DA; Teaching 
@@ -108,9 +108,9 @@ Heng Zhang, <u>Yuling Shi</u>, Xiaodong Gu, Haochen You, Zijian Zhang, Lubin Gan
 - Journal Reviewer: TMLR
 
 ## &#x1F3C6; Awards
-- National Scholarship
-- Fifth place in Shanghai Table Tennis Doubles Championship and third place in teams representing my university
-- First Prize in National Olympiad in Physics at High school (Provincial Area)
+- 🏆 National Scholarship 
+- 🏓 Fifth place in Shanghai Table Tennis Doubles Championship and third place in teams representing my university 
+- 🏆 First Prize in National Olympiad in Physics at High school (Provincial Area) 
 
 ## &#x1F4D6; Materials to share
 - 🔥 A collection of resources for repo-level code generation. [[Github](https://github.com/YerbaPage/Awesome-Repo-Level-Code-Generation)]
