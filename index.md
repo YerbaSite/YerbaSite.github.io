@@ -94,6 +94,7 @@ Heng Zhang, <u>Yuling Shi</u>, Xiaodong Gu, Haochen You, Zijian Zhang, Lubin Gan
   - I'm grateful to be advised by [Dr. Yufan Huang](https://www.microsoft.com/en-us/research/people/yufanhuang/) and [Dr. Maoquan Wang](https://scholar.google.com/citations?user=16Z7JhsAAAAJ&hl=en) to work on analyzing neural representations of code. And some of my work contributed to the following paper on EMNLP 2023. [[pdf](https://aclanthology.org/2023.emnlp-main.672/)]
 
 ## &#x1F4E3; Invited Talks
+- *How to compress long code context?*, at CCF Synonym, December 2025
 - *Dealing with long context problem in SE*, at Software Engineering Lab, ByteDance, October 2025
 - *Hierarchical Debugging with LLMs*, at Tongyi Lab, Alibaba, October 2024
 - *How to detect LLM generated code*, at CCF Synonym, August 2024
