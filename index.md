@@ -105,7 +105,7 @@ Heng Zhang, <u>Yuling Shi</u>, Xiaodong Gu, Haochen You, Zijian Zhang, Lubin Gan
 - Teaching Assistant for FL4207 "Application of LLMs" (Fall 2025)
 
 ## &#x1F4BC; Services
-- Conference Reviewer: ICLR 2025, ICLR 2026, ICSE 2026 (Shadow PC), CVPR 2026
+- Conference Reviewer: ICLR 2025, ICLR 2026, ICSE 2026 (Shadow PC), CVPR 2026, ARR Oct 2025
 - Journal Reviewer: TMLR
 
 ## &#x1F3C6; Awards
