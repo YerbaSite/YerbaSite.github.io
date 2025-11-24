@@ -94,10 +94,10 @@ Heng Zhang, <u>Yuling Shi</u>, Xiaodong Gu, Haochen You, Zijian Zhang, Lubin Gan
 
 ## &#x1F468;&#x200D;&#x1F4BB; Experiences
 
-- Research Intern at ByteDance, 2025.11-Now
+- Research Intern at ByteDance, 2025.11-Now 
   - Grateful to be advised by [Dr. Shilin He](https://shilinhe.github.io/) to work on code reasoning.
 
-- Research Intern at Microsoft Research, 2022.03-2022.09
+- Research Intern at Microsoft Research, 2022.03-2022.09 
   - Grateful to be advised by [Dr. Yufan Huang](https://www.microsoft.com/en-us/research/people/yufanhuang/) and [Dr. Maoquan Wang](https://scholar.google.com/citations?user=16Z7JhsAAAAJ&hl=en) to work on analyzing neural representations of code. Some of my work contributed to the following paper on EMNLP 2023. [[pdf](https://aclanthology.org/2023.emnlp-main.672/)]
 
 ## &#x1F4E3; Invited Talks
