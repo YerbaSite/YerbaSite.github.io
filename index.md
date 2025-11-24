@@ -54,7 +54,7 @@ We have multiple potential projects available with abundant computing resources!
 
 - <strong><span style="color: #03396c;">Progressive Supernet Training for Efficient Visual Autoregressive Modeling</span></strong>  
   [Preprint](https://arxiv.org/abs/2511.16546)  
-  Xiaoyue Chen†, <u>Yuling Shi</u>†, Kaiyuan Li, Huandong Wang, Yong Li, Xiaodong Gu, Xinlei Chen, Mingbao Lin
+  Xiaoyue Chen†, <u>Yuling Shi</u>†, Kaiyuan Li†, Huandong Wang, Yong Li, Xiaodong Gu, Xinlei Chen, Mingbao Lin
 
 - <strong><span style="color: #03396c;">SWE-Exp: Experience-Driven Software Issue Resolution</span></strong>  
   [Preprint](https://arxiv.org/abs/2507.23361)  
@@ -98,6 +98,8 @@ Heng Zhang, <u>Yuling Shi</u>, Xiaodong Gu, Haochen You, Zijian Zhang, Lubin Gan
   - I'm grateful to be advised by [Dr. Yufan Huang](https://www.microsoft.com/en-us/research/people/yufanhuang/) and [Dr. Maoquan Wang](https://scholar.google.com/citations?user=16Z7JhsAAAAJ&hl=en) to work on analyzing neural representations of code. And some of my work contributed to the following paper on EMNLP 2023. [[pdf](https://aclanthology.org/2023.emnlp-main.672/)]
 
 ## &#x1F4E3; Invited Talks
+
+<!-- - *How to understand and debug large and complex programs?* at Ant Group, December 2025 -->
 - *How to compress long code context?* at CCF Synonym, December 2025
 - *Dealing with long context problem in SE.* at Software Engineering Lab, ByteDance, October 2025
 - *Hierarchical debugging with LLMs.* at Tongyi Lab, Alibaba, October 2024
