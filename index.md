@@ -52,6 +52,10 @@ We have multiple potential projects available with abundant computing resources!
   [Preprint](https://arxiv.org/abs/2507.23348)  
   Han Li†, <u>Yuling Shi</u>†, Shaoxin Lin, Xiaodong Gu, Heng Lian, Xin Wang, Yantao Jia, Tao Huang, Qianxiang Wang
 
+- <strong><span style="color: #03396c;">Progressive Supernet Training for Efficient Visual Autoregressive Modeling</span></strong>  
+  [Preprint](https://arxiv.org/abs/2511.16546)  
+  Xiaoyue Chen†, <u>Yuling Shi</u>†, Kaiyuan Li, Huandong Wang, Yong Li, Xiaodong Gu, Xinlei Chen, Mingbao Lin
+
 - <strong><span style="color: #03396c;">SWE-Exp: Experience-Driven Software Issue Resolution</span></strong>  
   [Preprint](https://arxiv.org/abs/2507.23361)  
   Silin Chen, Shaoxin Lin, Xiaodong Gu, <u>Yuling Shi</u>, Heng Lian, Longfei Yun, Dong Chen, Weiguo Sun, Lin Cao, Qianxiang Wang
