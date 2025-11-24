@@ -99,7 +99,8 @@ Heng Zhang, <u>Yuling Shi</u>, Xiaodong Gu, Haochen You, Zijian Zhang, Lubin Gan
 
 ## &#x1F4E3; Invited Talks
 
-<!-- - *How to understand and debug large and complex programs?* at Ant Group, December 2025 -->
+- *How to understand and debug large and complex programs?* at Ant Group, December 2025
+- *Hierarchical debugging with LLMs.* at CCF Synonym, December 2025
 - *How to compress long code context?* at CCF Synonym, December 2025
 - *Dealing with long context problem in SE.* at Software Engineering Lab, ByteDance, October 2025
 - *Hierarchical debugging with LLMs.* at Tongyi Lab, Alibaba, October 2024
