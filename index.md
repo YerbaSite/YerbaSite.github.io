@@ -95,14 +95,14 @@ Heng Zhang, <u>Yuling Shi</u>, Xiaodong Gu, Haochen You, Zijian Zhang, Lubin Gan
 ## &#x1F468;&#x200D;&#x1F4BB; Experiences
 
 - Research Intern at ByteDance, 2025.11-Now
-  Grateful to be advised by [Dr. Shilin He](https://shilinhe.github.io/) to work on code reasoning.
+  - Grateful to be advised by [Dr. Shilin He](https://shilinhe.github.io/) to work on code reasoning.
 
 - Research Intern at Microsoft Research, 2022.03-2022.09
-  Grateful to be advised by [Dr. Yufan Huang](https://www.microsoft.com/en-us/research/people/yufanhuang/) and [Dr. Maoquan Wang](https://scholar.google.com/citations?user=16Z7JhsAAAAJ&hl=en) to work on analyzing neural representations of code. And some of my work contributed to the following paper on EMNLP 2023. [[pdf](https://aclanthology.org/2023.emnlp-main.672/)]
+  - Grateful to be advised by [Dr. Yufan Huang](https://www.microsoft.com/en-us/research/people/yufanhuang/) and [Dr. Maoquan Wang](https://scholar.google.com/citations?user=16Z7JhsAAAAJ&hl=en) to work on analyzing neural representations of code. Some of my work contributed to the following paper on EMNLP 2023. [[pdf](https://aclanthology.org/2023.emnlp-main.672/)]
 
 ## &#x1F4E3; Invited Talks
 
-- *How to understand and debug large and complex programs?* at Ant Group, December 2025
+- *How to understand and debug large and complex programs?* at Ant Research, Ant Group, December 2025
 - *Hierarchical debugging with LLMs.* at CCF Synonym, December 2025
 - *How to compress long code context?* at CCF Synonym, December 2025
 - *Dealing with long context problem in SE.* at Software Engineering Lab, ByteDance, October 2025
