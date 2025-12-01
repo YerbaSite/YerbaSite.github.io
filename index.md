@@ -26,6 +26,10 @@ We have multiple potential projects available with abundant computing resources!
   [ICSE 2026](https://arxiv.org/abs/2410.01215)  
   <u>Yuling Shi</u>, Songsong Wang, Chengcheng Wan, Min Wang, Xiaodong Gu
 
+- <strong><span style="color: #03396c;">EVOC2RUST: A Skeleton-guided Framework for Project-Level C-to-Rust Translation</span></strong>  
+  [ICSE 2026](https://arxiv.org/abs/2508.04295)  
+  Chaofan Wang, Tingrui Yu, Jie Wang, Dong Chen, Wenrui Zhang, <u>Yuling Shi</u>, Xiaodong Gu, Beijun Shen
+
 - <strong><span style="color: #03396c;">LongCodeZip: Compress Long Context for Code Language Models</span></strong>  
   [ASE 2025](https://arxiv.org/abs/2510.00446)  
   <u>Yuling Shi</u>, Yichun Qian, Hongyu Zhang, Beijun Shen, Xiaodong Gu
@@ -48,7 +52,7 @@ We have multiple potential projects available with abundant computing resources!
 
 ### Preprints
 
-- <strong><span style="color: #03396c;">SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution</span></strong>  
+- <strong><span style="color:rgb(16, 17, 19);">SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution</span></strong>  
   [Preprint](https://arxiv.org/abs/2507.23348)  
   Han Li†, <u>Yuling Shi</u>†, Shaoxin Lin, Xiaodong Gu, Heng Lian, Xin Wang, Yantao Jia, Tao Huang, Qianxiang Wang
 
@@ -76,21 +80,17 @@ We have multiple potential projects available with abundant computing resources!
   [Preprint](https://arxiv.org/abs/2509.26628)    
   Runze Liu, Jiakang Wang, <u>Yuling Shi</u>, Zhihui Xie, Chenxin An, Kaiyan Zhang, Jian Zhao, Xiaodong Gu, Lei Lin, Wenping Hu, Xiu Li, Fuzheng Zhang, Guorui Zhou, Kun Gai
 
-- <strong><span style="color: #03396c;">EVOC2RUST: A Skeleton-guided Framework for Project-Level C-to-Rust Translation</span></strong>  
-  [Preprint](https://arxiv.org/abs/2508.04295)  
-  Chaofan Wang, Tingrui Yu, Jie Wang, Dong Chen, Wenrui Zhang, <u>Yuling Shi</u>, Xiaodong Gu, Beijun Shen
-
 - <strong><span style="color: #03396c;">HyperAgent: Leveraging Hypergraphs for Topology Optimization in Multi-Agent Communication</span></strong>  
-[Preprint](https://arxiv.org/abs/2510.10611)  
-Heng Zhang, <u>Yuling Shi</u>, Xiaodong Gu, Zijian Zhang, Haochen You, Lubin Gan, Yilei Yuan, Jin Huang
+  [Preprint](https://arxiv.org/abs/2510.10611)  
+  Heng Zhang, <u>Yuling Shi</u>, Xiaodong Gu, Zijian Zhang, Haochen You, Lubin Gan, Yilei Yuan, Jin Huang
 
 - <strong><span style="color: #03396c;">GraphTracer: Graph-Guided Failure Tracing in LLM Agents for Robust Multi-Turn Deep Search</span></strong>  
-[Preprint](https://arxiv.org/abs/2510.10581)  
-Heng Zhang, <u>Yuling Shi</u>, Xiaodong Gu, Haochen You, Zijian Zhang, Lubin Gan, Yilei Yuan, Jin Huang
+  [Preprint](https://arxiv.org/abs/2510.10581)  
+  Heng Zhang, <u>Yuling Shi</u>, Xiaodong Gu, Haochen You, Zijian Zhang, Lubin Gan, Yilei Yuan, Jin Huang
 
 - <strong><span style="color: #03396c;">D3MAS: Decompose, Deduce, and Distribute for Enhanced Knowledge Sharing in Multi-Agent Systems</span></strong>  
-[Preprint](https://arxiv.org/abs/2510.10585)  
-Heng Zhang, <u>Yuling Shi</u>, Xiaodong Gu, Haochen You, Zijian Zhang, Lubin Gan, Yilei Yuan, Jin Huang
+  [Preprint](https://arxiv.org/abs/2510.10585)  
+  Heng Zhang, <u>Yuling Shi</u>, Xiaodong Gu, Haochen You, Zijian Zhang, Lubin Gan, Yilei Yuan, Jin Huang
 
 ## &#x1F468;&#x200D;&#x1F4BB; Experiences
 
