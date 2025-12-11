@@ -72,6 +72,10 @@ We have multiple potential projects available with abundant computing resources!
   [Preprint](https://arxiv.org/abs/2510.20498)  
   Ruochen Mao, <u>Yuling Shi</u>, Xiaodong Gu, Jiaheng Wei
 
+- <strong><span style="color: #03396c;">Fed-SE: Federated Self-Evolution for Privacy-Constrained Multi-Environment LLM Agents</span></strong>  
+  [Preprint](https://arxiv.org/abs/2512.08870)  
+  Xiang Chen, <u>Yuling Shi</u>, Qizhen Lan, Yuchao Qiu, Xiaodong Gu
+
 - <strong><span style="color: #03396c;">Pruning the Unsurprising: Efficient Code Reasoning via First-Token Surprisal</span></strong>  
   [Preprint](https://arxiv.org/abs/2508.05988)  
   Wenhao Zeng, Yaoning Wang, Chao Hu, <u>Yuling Shi</u>, Chengcheng Wan, Hongyu Zhang, Xiaodong Gu
