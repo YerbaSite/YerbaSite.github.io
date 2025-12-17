@@ -26,6 +26,10 @@ We have multiple potential projects available with abundant computing resources!
   [ICSE 2026](https://arxiv.org/abs/2410.01215)  
   <u>Yuling Shi</u>, Songsong Wang, Chengcheng Wan, Min Wang, Xiaodong Gu
 
+- <strong><span style="color: #03396c;">SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution</span></strong>  
+  [ICSE 2026](https://arxiv.org/abs/2507.23348)  
+  Han Li†, <u>Yuling Shi</u>†, Shaoxin Lin, Xiaodong Gu, Heng Lian, Xin Wang, Yantao Jia, Tao Huang, Qianxiang Wang
+
 - <strong><span style="color: #03396c;">EVOC2RUST: A Skeleton-guided Framework for Project-Level C-to-Rust Translation</span></strong>  
   [ICSE 2026 SEIP](https://arxiv.org/abs/2508.04295)  
   Chaofan Wang, Tingrui Yu, Chen Xie, Jie Wang, Dong Chen, Wenrui Zhang, <u>Yuling Shi</u>, Xiaodong Gu, Beijun Shen
@@ -51,10 +55,6 @@ We have multiple potential projects available with abundant computing resources!
   Xuehai Huang, <u>Yuling Shi</u> and Wenqing Wang
 
 ### Preprints
-
-- <strong><span style="color:rgb(16, 17, 19);">SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution</span></strong>  
-  [Preprint](https://arxiv.org/abs/2507.23348)  
-  Han Li†, <u>Yuling Shi</u>†, Shaoxin Lin, Xiaodong Gu, Heng Lian, Xin Wang, Yantao Jia, Tao Huang, Qianxiang Wang
 
 - <strong><span style="color: #03396c;">Progressive Supernet Training for Efficient Visual Autoregressive Modeling</span></strong>  
   [Preprint](https://arxiv.org/abs/2511.16546)  
