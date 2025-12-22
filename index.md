@@ -34,6 +34,10 @@ We have multiple potential projects available with abundant computing resources!
   [ICSE 2026 SEIP](https://arxiv.org/abs/2508.04295)  
   Chaofan Wang, Tingrui Yu, Chen Xie, Jie Wang, Dong Chen, Wenrui Zhang, <u>Yuling Shi</u>, Xiaodong Gu, Beijun Shen
 
+- <strong><span style="color: #03396c;">In Line with Context: Repository-Level Code Generation via Context Inlining</span></strong>  
+  [FSE 2026](#)  
+  Chao Hu, Wenhao Zeng, <u>Yuling Shi</u>, Beijun Shen, Xiaodong Gu
+
 - <strong><span style="color: #03396c;">HyperAgent: Leveraging Hypergraphs for Topology Optimization in Multi-Agent Communication</span></strong>  
   [AAMAS 2026](https://arxiv.org/abs/2510.10611)  
   Heng Zhang, <u>Yuling Shi</u>, Xiaodong Gu, Zijian Zhang, Haochen You, Lubin Gan, Yilei Yuan, Jin Huang
