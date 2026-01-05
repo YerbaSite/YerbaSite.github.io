@@ -23,7 +23,7 @@ We have multiple potential projects available with abundant computing resources!
 ### Publications
 
 - <strong><span style="color: #03396c;">In Line with Context: Repository-Level Code Generation via Context Inlining</span></strong>  
-  [FSE 2026](#)  
+  [FSE 2026](https://arxiv.org/abs/2601.00376)  
   Chao Hu, Wenhao Zeng, <u>Yuling Shi</u>, Beijun Shen, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging</span></strong>  
