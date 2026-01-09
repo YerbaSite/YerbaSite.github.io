@@ -72,6 +72,10 @@ We have multiple potential projects available with abundant computing resources!
 
 ### Preprints
 
+- <strong><span style="color: #03396c;">GlimpRouter: Efficient Collaborative Inference by Glimpsing One Token of Thoughts</span></strong>  
+  [Preprint](https://arxiv.org/abs/2601.05110)  
+  Wenhao Zeng, Xuteng Zhang, <u>Yuling Shi</u>, Chao Hu, Yuting Chen, Beijun Shen, Xiaodong Gu
+
 - <strong><span style="color: #03396c;">Progressive Supernet Training for Efficient Visual Autoregressive Modeling</span></strong>  
   [Preprint](https://arxiv.org/abs/2511.16546)  
   Xiaoyue Chen†, <u>Yuling Shi</u>†, Kaiyuan Li†, Huandong Wang, Yong Li, Xiaodong Gu, Xinlei Chen, Mingbao Lin
