@@ -94,7 +94,7 @@ We have multiple potential projects available with abundant computing resources!
 
 - <strong><span style="color: #03396c;">Fed-SE: Federated Self-Evolution for Privacy-Constrained Multi-Environment LLM Agents</span></strong>  
   [Preprint](https://arxiv.org/abs/2512.08870)  
-  Xiang Chen, <u>Yuling Shi</u>, Qizhen Lan, Yuchao Qiu, Xiaodong Gu
+  Xiang Chen, <u>Yuling Shi</u>, Qizhen Lan, Yuchao Qiu, Min Wang, Xiaodong Gu, Yanfu Yan
 
 - <strong><span style="color: #03396c;">Pruning the Unsurprising: Efficient Code Reasoning via First-Token Surprisal</span></strong>  
   [Preprint](https://arxiv.org/abs/2508.05988)  
