@@ -50,6 +50,10 @@ We have multiple potential projects available with abundant computing resources!
   [AAMAS 2026](https://arxiv.org/abs/2510.10585)  
   Heng Zhang, <u>Yuling Shi</u>, Xiaodong Gu, Haochen You, Zijian Zhang, Lubin Gan, Yilei Yuan, Jin Huang
 
+- <strong><span style="color: #03396c;">Reasoning in Trees: Improving Retrieval-Augmented Generation for Multi-Hop Question Answering</span></strong>  
+  [WWW 2026 GLOW](https://doi.org/10.48550/arXiv.2601.11255)  
+  <u>Yuling Shi</u>, Maolin Sun, Zijun Liu, Mo Yang, Yixiong Fang, Tianran Sun, Xiaodong Gu
+
 - <strong><span style="color: #03396c;">LongCodeZip: Compress Long Context for Code Language Models</span></strong>  
   [ASE 2025](https://arxiv.org/abs/2510.00446)  
   <u>Yuling Shi</u>, Yichun Qian, Hongyu Zhang, Beijun Shen, Xiaodong Gu
