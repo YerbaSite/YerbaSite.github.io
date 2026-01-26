@@ -22,6 +22,10 @@ We have multiple potential projects available with abundant computing resources!
 
 ### Publications
 
+- <strong><span style="color: #03396c;">Robust Preference Alignment via Directional Neighborhood Consensus</span></strong>  
+  [ICLR 2026](https://arxiv.org/abs/2510.20498)  
+  Ruochen Mao, <u>Yuling Shi</u>, Xiaodong Gu, Jiaheng Wei
+
 - <strong><span style="color: #03396c;">In Line with Context: Repository-Level Code Generation via Context Inlining</span></strong>  
   [FSE 2026](https://arxiv.org/abs/2601.00376)  
   Chao Hu, Wenhao Zeng, <u>Yuling Shi</u>, Beijun Shen, Xiaodong Gu
@@ -95,10 +99,6 @@ We have multiple potential projects available with abundant computing resources!
 - <strong><span style="color: #03396c;">Repository-level Code Question Answering</span></strong>  
   [Preprint](https://arxiv.org/abs/2509.14635)  
   Weihan Peng, <u>Yuling Shi</u>, Yuhang Wang, Xinyun Zhang, Beijun Shen, Xiaodong Gu
-
-- <strong><span style="color: #03396c;">Robust Preference Alignment via Directional Neighborhood Consensus</span></strong>  
-  [Preprint](https://arxiv.org/abs/2510.20498)  
-  Ruochen Mao, <u>Yuling Shi</u>, Xiaodong Gu, Jiaheng Wei
 
 - <strong><span style="color: #03396c;">Fed-SE: Federated Self-Evolution for Privacy-Constrained Multi-Environment LLM Agents</span></strong>  
   [Preprint](https://arxiv.org/abs/2512.08870)  
