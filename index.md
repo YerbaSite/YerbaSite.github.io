@@ -26,6 +26,10 @@ We have multiple potential projects available with abundant computing resources!
   [ICLR 2026](https://arxiv.org/abs/2510.20498)  
   Ruochen Mao, <u>Yuling Shi</u>, Xiaodong Gu, Jiaheng Wei
 
+- <strong><span style="color: #03396c;">Attention as a Compass: Efficient Exploration for Process-Supervised RL in Reasoning Models</span></strong>  
+  [ICLR 2026](https://arxiv.org/abs/2509.26628)    
+  Runze Liu, Jiakang Wang, <u>Yuling Shi</u>, Zhihui Xie, Chenxin An, Kaiyan Zhang, Jian Zhao, Xiaodong Gu, Lei Lin, Wenping Hu, Xiu Li, Fuzheng Zhang, Guorui Zhou, Kun Gai
+
 - <strong><span style="color: #03396c;">In Line with Context: Repository-Level Code Generation via Context Inlining</span></strong>  
   [FSE 2026](https://arxiv.org/abs/2601.00376)  
   Chao Hu, Wenhao Zeng, <u>Yuling Shi</u>, Beijun Shen, Xiaodong Gu
@@ -107,10 +111,6 @@ We have multiple potential projects available with abundant computing resources!
 - <strong><span style="color: #03396c;">Pruning the Unsurprising: Efficient Code Reasoning via First-Token Surprisal</span></strong>  
   [Preprint](https://arxiv.org/abs/2508.05988)  
   Wenhao Zeng, Yaoning Wang, Chao Hu, <u>Yuling Shi</u>, Chengcheng Wan, Hongyu Zhang, Xiaodong Gu
-
-- <strong><span style="color: #03396c;">Attention as a Compass: Efficient Exploration for Process-Supervised RL in Reasoning Models</span></strong>  
-  [Preprint](https://arxiv.org/abs/2509.26628)    
-  Runze Liu, Jiakang Wang, <u>Yuling Shi</u>, Zhihui Xie, Chenxin An, Kaiyan Zhang, Jian Zhao, Xiaodong Gu, Lei Lin, Wenping Hu, Xiu Li, Fuzheng Zhang, Guorui Zhou, Kun Gai
 
 ## &#x1F468;&#x200D;&#x1F4BB; Experiences
 
