@@ -76,6 +76,10 @@ We have multiple potential projects available with abundant computing resources!
 
 ### Preprints
 
+- <strong><span style="color: #03396c;">SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents</span></strong>  
+  [Preprint](https://arxiv.org/abs/2601.16746)  
+  Yuhang Wang†, <u>Yuling Shi</u>†, Mo Yang, Rongrui Zhang, Shilin He, Heng Lian, Yuting Chen, Siyu Ye, Kai Cai, Xiaodong Gu
+
 - <strong><span style="color: #03396c;">GlimpRouter: Efficient Collaborative Inference by Glimpsing One Token of Thoughts</span></strong>  
   [Preprint](https://arxiv.org/abs/2601.05110)  
   Wenhao Zeng, Xuteng Zhang, <u>Yuling Shi</u>, Chao Hu, Yuting Chen, Beijun Shen, Xiaodong Gu
