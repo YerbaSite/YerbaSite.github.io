@@ -24,93 +24,93 @@ We have multiple potential projects available with abundant computing resources!
 
 - <strong><span style="color: #03396c;">Robust Preference Alignment via Directional Neighborhood Consensus</span></strong>  
   [ICLR 2026](https://arxiv.org/abs/2510.20498)  
-  Ruochen Mao, <u>Yuling Shi</u>, Xiaodong Gu, Jiaheng Wei
+  Ruochen Mao, <u><strong>Yuling Shi</strong></u>, Xiaodong Gu, Jiaheng Wei
 
 - <strong><span style="color: #03396c;">Attention as a Compass: Efficient Exploration for Process-Supervised RL in Reasoning Models</span></strong>  
   [ICLR 2026](https://arxiv.org/abs/2509.26628)    
-  Runze Liu, Jiakang Wang, <u>Yuling Shi</u>, Zhihui Xie, Chenxin An, Kaiyan Zhang, Jian Zhao, Xiaodong Gu, Lei Lin, Wenping Hu, Xiu Li, Fuzheng Zhang, Guorui Zhou, Kun Gai
+  Runze Liu, Jiakang Wang, <u><strong>Yuling Shi</strong></u>, Zhihui Xie, Chenxin An, Kaiyan Zhang, Jian Zhao, Xiaodong Gu, Lei Lin, Wenping Hu, Xiu Li, Fuzheng Zhang, Guorui Zhou, Kun Gai
 
 - <strong><span style="color: #03396c;">In Line with Context: Repository-Level Code Generation via Context Inlining</span></strong>  
   [FSE 2026](https://arxiv.org/abs/2601.00376)  
-  Chao Hu, Wenhao Zeng, <u>Yuling Shi</u>, Beijun Shen, Xiaodong Gu
+  Chao Hu, Wenhao Zeng, <u><strong>Yuling Shi</strong></u>, Beijun Shen, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging</span></strong>  
   [ICSE 2026](https://arxiv.org/abs/2410.01215)  
-  <u>Yuling Shi</u>, Songsong Wang, Chengcheng Wan, Min Wang, Xiaodong Gu
+  <u><strong>Yuling Shi</strong></u>, Songsong Wang, Chengcheng Wan, Min Wang, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution</span></strong>  
   [ICSE 2026](https://arxiv.org/abs/2507.23348)  
-  Han Li†, <u>Yuling Shi</u>†, Shaoxin Lin, Xiaodong Gu, Heng Lian, Xin Wang, Yantao Jia, Tao Huang, Qianxiang Wang
+  Han Li†, <u><strong>Yuling Shi</strong></u>†, Shaoxin Lin, Xiaodong Gu, Heng Lian, Xin Wang, Yantao Jia, Tao Huang, Qianxiang Wang
 
 - <strong><span style="color: #03396c;">EVOC2RUST: A Skeleton-guided Framework for Project-Level C-to-Rust Translation</span></strong>  
   [ICSE 2026 SEIP](https://arxiv.org/abs/2508.04295)  
-  Chaofan Wang, Tingrui Yu, Chen Xie, Jie Wang, Dong Chen, Wenrui Zhang, <u>Yuling Shi</u>, Xiaodong Gu, Beijun Shen
+  Chaofan Wang, Tingrui Yu, Chen Xie, Jie Wang, Dong Chen, Wenrui Zhang, <u><strong>Yuling Shi</strong></u>, Xiaodong Gu, Beijun Shen
 
 - <strong><span style="color: #03396c;">HyperAgent: Leveraging Hypergraphs for Topology Optimization in Multi-Agent Communication</span></strong>  
   [AAMAS 2026](https://arxiv.org/abs/2510.10611)  
-  Heng Zhang, <u>Yuling Shi</u>, Xiaodong Gu, Zijian Zhang, Haochen You, Lubin Gan, Yilei Yuan, Jin Huang
+  Heng Zhang, <u><strong>Yuling Shi</strong></u>, Xiaodong Gu, Zijian Zhang, Haochen You, Lubin Gan, Yilei Yuan, Jin Huang
 
 - <strong><span style="color: #03396c;">GraphTracer: Graph-Guided Failure Tracing in LLM Agents for Robust Multi-Turn Deep Search</span></strong>  
   [AAMAS 2026](https://arxiv.org/abs/2510.10581)  
-  Heng Zhang, <u>Yuling Shi</u>, Xiaodong Gu, Haochen You, Zijian Zhang, Lubin Gan, Yilei Yuan, Jin Huang
+  Heng Zhang, <u><strong>Yuling Shi</strong></u>, Xiaodong Gu, Haochen You, Zijian Zhang, Lubin Gan, Yilei Yuan, Jin Huang
 
 - <strong><span style="color: #03396c;">D³MAS: Decompose, Deduce, and Distribute for Enhanced Knowledge Sharing in Multi-Agent Systems</span></strong>  
   [AAMAS 2026](https://arxiv.org/abs/2510.10585)  
-  Heng Zhang, <u>Yuling Shi</u>, Xiaodong Gu, Haochen You, Zijian Zhang, Lubin Gan, Yilei Yuan, Jin Huang
+  Heng Zhang, <u><strong>Yuling Shi</strong></u>, Xiaodong Gu, Haochen You, Zijian Zhang, Lubin Gan, Yilei Yuan, Jin Huang
 
 - <strong><span style="color: #03396c;">Reasoning in Trees: Improving Retrieval-Augmented Generation for Multi-Hop Question Answering</span></strong>  
   [WWW 2026 GLOW](https://doi.org/10.48550/arXiv.2601.11255)  
-  <u>Yuling Shi</u>, Maolin Sun, Zijun Liu, Mo Yang, Yixiong Fang, Tianran Sun, Xiaodong Gu
+  <u><strong>Yuling Shi</strong></u>, Maolin Sun, Zijun Liu, Mo Yang, Yixiong Fang, Tianran Sun, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">LongCodeZip: Compress Long Context for Code Language Models</span></strong>  
   [ASE 2025](https://arxiv.org/abs/2510.00446)  
-  <u>Yuling Shi</u>, Yichun Qian, Hongyu Zhang, Beijun Shen, Xiaodong Gu
+  <u><strong>Yuling Shi</strong></u>, Yichun Qian, Hongyu Zhang, Beijun Shen, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">Between Lines of Code: Unraveling the Distinct Patterns of Machine and Human Programmers</span></strong>  
   [ICSE 2025](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a051/215aWoRvPCE)   
-  <u>Yuling Shi</u>, Hongyu Zhang, Chengcheng Wan, Xiaodong Gu
+  <u><strong>Yuling Shi</strong></u>, Hongyu Zhang, Chengcheng Wan, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">LastingBench: Defend Benchmarks Against Knowledge Leakage</span></strong>  
   [EMNLP 2025 Findings](https://arxiv.org/abs/2506.21614)  
-  Yixiong Fang, Tianran Sun, <u>Yuling Shi</u>, Min Wang, Xiaodong Gu
+  Yixiong Fang, Tianran Sun, <u><strong>Yuling Shi</strong></u>, Min Wang, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">AttentionRAG: Attention-Guided Context Pruning in Retrieval-Augmented Generation</span></strong>  
   [ACL 2025 KnowFM](https://arxiv.org/abs/2503.10720)   
-  Yixiong Fang, Tianran Sun, <u>Yuling Shi</u>, Xiaodong Gu
+  Yixiong Fang, Tianran Sun, <u><strong>Yuling Shi</strong></u>, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">A Morley-Wang-Xu element method for a fourth order elliptic singular perturbation problem</span></strong>  
   [Journal of Scientific Computing (Q1), 2021](https://link.springer.com/content/pdf/10.1007/s10915-021-01483-2.pdf)  
-  Xuehai Huang, <u>Yuling Shi</u> and Wenqing Wang
+  Xuehai Huang, <u><strong>Yuling Shi</strong></u> and Wenqing Wang
 
 ### Preprints
 
 - <strong><span style="color: #03396c;">SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents</span></strong>  
   [Preprint](https://arxiv.org/abs/2601.16746)  
-  Yuhang Wang†, <u>Yuling Shi</u>†, Mo Yang, Rongrui Zhang, Shilin He, Heng Lian, Yuting Chen, Siyu Ye, Kai Cai, Xiaodong Gu
+  Yuhang Wang†, <u><strong>Yuling Shi</strong></u>†, Mo Yang, Rongrui Zhang, Shilin He, Heng Lian, Yuting Chen, Siyu Ye, Kai Cai, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">GlimpRouter: Efficient Collaborative Inference by Glimpsing One Token of Thoughts</span></strong>  
   [Preprint](https://arxiv.org/abs/2601.05110)  
-  Wenhao Zeng, Xuteng Zhang, <u>Yuling Shi</u>, Chao Hu, Yuting Chen, Beijun Shen, Xiaodong Gu
+  Wenhao Zeng, Xuteng Zhang, <u><strong>Yuling Shi</strong></u>, Chao Hu, Yuting Chen, Beijun Shen, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">Progressive Supernet Training for Efficient Visual Autoregressive Modeling</span></strong>  
   [Preprint](https://arxiv.org/abs/2511.16546)  
-  Xiaoyue Chen†, <u>Yuling Shi</u>†, Kaiyuan Li†, Huandong Wang, Yong Li, Xiaodong Gu, Xinlei Chen, Mingbao Lin
+  Xiaoyue Chen†, <u><strong>Yuling Shi</strong></u>†, Kaiyuan Li†, Huandong Wang, Yong Li, Xiaodong Gu, Xinlei Chen, Mingbao Lin
 
 - <strong><span style="color: #03396c;">SWE-Exp: Experience-Driven Software Issue Resolution</span></strong>  
   [Preprint](https://arxiv.org/abs/2507.23361)  
-  Silin Chen, Shaoxin Lin, Xiaodong Gu, <u>Yuling Shi</u>, Heng Lian, Longfei Yun, Dong Chen, Weiguo Sun, Lin Cao, Qianxiang Wang
+  Silin Chen, Shaoxin Lin, Xiaodong Gu, <u><strong>Yuling Shi</strong></u>, Heng Lian, Longfei Yun, Dong Chen, Weiguo Sun, Lin Cao, Qianxiang Wang
 
 - <strong><span style="color: #03396c;">Repository-level Code Question Answering</span></strong>  
   [Preprint](https://arxiv.org/abs/2509.14635)  
-  Weihan Peng, <u>Yuling Shi</u>, Yuhang Wang, Xinyun Zhang, Beijun Shen, Xiaodong Gu
+  Weihan Peng, <u><strong>Yuling Shi</strong></u>, Yuhang Wang, Xinyun Zhang, Beijun Shen, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">Fed-SE: Federated Self-Evolution for Privacy-Constrained Multi-Environment LLM Agents</span></strong>  
   [Preprint](https://arxiv.org/abs/2512.08870)  
-  Xiang Chen, <u>Yuling Shi</u>, Qizhen Lan, Yuchao Qiu, Min Wang, Xiaodong Gu, Yanfu Yan
+  Xiang Chen, <u><strong>Yuling Shi</strong></u>, Qizhen Lan, Yuchao Qiu, Min Wang, Xiaodong Gu, Yanfu Yan
 
 - <strong><span style="color: #03396c;">Pruning the Unsurprising: Efficient Code Reasoning via First-Token Surprisal</span></strong>  
   [Preprint](https://arxiv.org/abs/2508.05988)  
-  Wenhao Zeng, Yaoning Wang, Chao Hu, <u>Yuling Shi</u>, Chengcheng Wan, Hongyu Zhang, Xiaodong Gu
+  Wenhao Zeng, Yaoning Wang, Chao Hu, <u><strong>Yuling Shi</strong></u>, Chengcheng Wan, Hongyu Zhang, Xiaodong Gu
 
 ## &#x1F468;&#x200D;&#x1F4BB; Experiences
 
