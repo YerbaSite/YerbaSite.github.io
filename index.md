@@ -139,6 +139,7 @@ We have multiple potential projects available with abundant computing resources!
 - Journal Reviewer: TMLR
 
 ## &#x1F3C6; Awards
+- &#x1F3C6; ACM SIGSOFT ICSE 2026 CAPS Travel Grant
 - &#x1F947; Shanghai Association for Artificial Intelligence Youth Outstanding Paper Award
 - &#x1F3C6; National Scholarship 
 - &#x1F3D3; Fifth place in Shanghai Table Tennis Doubles Championship and third place in teams representing my university 
