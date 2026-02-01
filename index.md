@@ -27,6 +27,7 @@ We have multiple potential projects available with abundant computing resources!
 - [2025.12] Invited talk at Ant Group: "How to understand and debug large and complex programs?"
 - [2025.12] Invited talk at CCF Synonym: "Hierarchical debugging with LLMs."
 - [2025.12] Invited talk at CCF Synonym: "How to compress long code context?"
+- [2025.12] Won 9th place in Shanghai University Table Tennis Men's Singles Championship
 - [2025.12] One paper accepted by ICSE 2026 SEIP track
 - [2025.12] One paper accepted by FSE 2026
 - [2025.12] Three papers accepted by AAMAS 2026
