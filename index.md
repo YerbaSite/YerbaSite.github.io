@@ -12,6 +12,28 @@ Some of my recent projects can be found in my Github homepage [here](https://git
 We have multiple potential projects available with abundant computing resources! If you are interested in collaboration or internship (remote is also welcome), please feel free to contact me.
 </div>
 
+## &#x1F4F0; News
+
+- [2026.01] Awarded Shanghai Association for Artificial Intelligence Youth Outstanding Paper Award
+- [2026.01] Awarded ACM SIGSOFT ICSE 2026 CAPS Grant (Travel Support)
+- [2026.01] Two papers accepted by ICLR 2026
+- [2026.01] One paper accepted by WWW 2026 GLOW Workshop
+- [2026.01] Serving as PC member of AIware 2026; submissions are welcome
+- [2025.12] Invited talk at Ant Group: "How to understand and debug large and complex programs?"
+- [2025.12] Invited talk at CCF Synonym: "Hierarchical debugging with LLMs."
+- [2025.12] Invited talk at CCF Synonym: "How to compress long code context?"
+- [2025.12] One paper accepted by ICSE 2026 SEIP track
+- [2025.12] One paper accepted by FSE 2026
+- [2025.12] Three papers accepted by AAMAS 2026
+- [2025.10] Invited talk at ByteDance Software Engineering Lab: "Dealing with long context problem in SE."
+- [2025.10] Three papers accepted by ICSE 2026 main track
+- [2025.10] One paper accepted by ASE 2025
+- [2025.08] One paper accepted by EMNLP 2025 Findings
+- [2025.05] One paper accepted by ACL 2025 KnowFM Workshop
+- [2024.10] Invited talk at Tongyi Lab, Alibaba: "Hierarchical debugging with LLMs."
+- [2024.08] Invited talk at CCF Synonym: "How to detect LLM generated code?"
+- [2024.07] One paper accepted by ICSE 2025
+
 ## &#x1F9D0; Research Interests 
 
 - **Software Engineering**: code generation, code debugging, software issue resolution, code question answering
