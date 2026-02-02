@@ -19,9 +19,9 @@ We have multiple potential projects available with abundant computing resources!
 
 ## &#x1F4F0; News
 
+- <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Received ACM SIGSOFT ICSE 2026 CAPS Grant (Travel Support)
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.01]</span> Serving as PC member of AIware 2026; submissions are welcome
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.01]</span> Awarded Shanghai Association for Artificial Intelligence Youth Outstanding Paper Award
-- <span style="color: #4f6d8c; font-weight: 600;">[2026.01]</span> Awarded ACM SIGSOFT ICSE 2026 CAPS Grant (Travel Support)
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.01]</span> Two papers accepted by ICLR 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.01]</span> One paper accepted by WWW 2026 GLOW Workshop
 - <span style="color: #4f6d8c; font-weight: 600;">[2025.11]</span> Invited talk at Ant Group: "How to understand and debug large and complex programs?"
