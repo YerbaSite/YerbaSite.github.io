@@ -8,7 +8,7 @@ Hi, I am a fourth year Ph.D. student in the [LLM for Software Engineering Lab (L
 
 Some of my recent projects can be found in my Github homepage [here](https://github.com/YerbaPage). Feel free to contact me if you are interested in my work or have any questions.
 
-<div style="color: red; margin-bottom: 1em;">
+<div style="color: #d9534f; margin-bottom: 1em;">
 We have multiple potential projects available with abundant computing resources! If you are interested in collaboration or internship (remote is also welcome), please feel free to contact me.
 </div>
 
