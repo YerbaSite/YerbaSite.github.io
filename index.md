@@ -31,8 +31,9 @@ We have multiple potential projects available with abundant computing resources!
 - <span style="color: #d9534f; font-weight: 600;">[2025.12]</span> One paper accepted by FSE 2026
 - <span style="color: #d9534f; font-weight: 600;">[2025.12]</span> Three papers accepted by AAMAS 2026
 - <span style="color: #d9534f; font-weight: 600;">[2025.10]</span> Invited talk at ByteDance Software Engineering Lab: "Dealing with long context problem in SE."
-- <span style="color: #d9534f; font-weight: 600;">[2025.10]</span> One paper accepted by ICSE 2026 SEIP track
-- <span style="color: #d9534f; font-weight: 600;">[2025.10]</span> Three papers accepted by ICSE 2026
+- <span style="color: #d9534f; font-weight: 600;">[2025.12]</span> One paper accepted by ICSE 2026 SEIP track
+- <span style="color: #d9534f; font-weight: 600;">[2025.12]</span> Two papers accepted by ICSE 2026
+- <span style="color: #d9534f; font-weight: 600;">[2025.10]</span> One paper accepted by ICSE 2026
 - <span style="color: #d9534f; font-weight: 600;">[2025.10]</span> One paper accepted by ASE 2025
 - <span style="color: #d9534f; font-weight: 600;">[2025.08]</span> One paper accepted by EMNLP 2025 Findings
 - <span style="color: #d9534f; font-weight: 600;">[2025.05]</span> One paper accepted by ACL 2025 KnowFM Workshop
