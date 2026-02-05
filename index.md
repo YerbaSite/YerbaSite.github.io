@@ -164,7 +164,7 @@ We have multiple potential projects available with abundant computing resources!
 
 ## &#x1F4BC; Services
 - Conference Reviewer: ICLR 2025, ARR Oct 2025, ICLR 2026, ICSE 2026 (Shadow PC), CVPR 2026, ICML 2026, AIware 2026
-- Journal Reviewer: TMLR
+- Journal Reviewer: TSE, TMLR
 
 ## &#x1F3C6; Awards
 - &#x1F3C6; ACM SIGSOFT ICSE 2026 CAPS Travel Grant
