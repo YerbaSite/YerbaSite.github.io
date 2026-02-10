@@ -116,13 +116,17 @@ We have multiple potential projects available with abundant computing resources!
   [Preprint](https://arxiv.org/abs/2601.16746)  
   Yuhang Wang†, <u><strong>Yuling Shi</strong></u>†, Mo Yang, Rongrui Zhang, Shilin He, Heng Lian, Yuting Chen, Siyu Ye, Kai Cai, Xiaodong Gu
 
+- <strong><span style="color: #03396c;">Progressive Supernet Training for Efficient Visual Autoregressive Modeling</span></strong>  
+  [Preprint](https://arxiv.org/abs/2511.16546)  
+  Xiaoyue Chen†, <u><strong>Yuling Shi</strong></u>†, Kaiyuan Li†, Huandong Wang, Yong Li, Xiaodong Gu, Xinlei Chen, Mingbao Lin 
+
+- <strong><span style="color: #03396c;">Rethinking the Value of Agent-Generated Tests for LLM-Based Software Engineering Agents</span></strong>  
+  [Preprint](https://arxiv.org/abs/2602.07900)  
+  Zhi Chen, Zhensu Sun, <u><strong>Yuling Shi</strong></u>, Chao Peng, Xiaodong Gu, David Lo, Lingxiao Jiang
+
 - <strong><span style="color: #03396c;">GlimpRouter: Efficient Collaborative Inference by Glimpsing One Token of Thoughts</span></strong>  
   [Preprint](https://arxiv.org/abs/2601.05110)  
   Wenhao Zeng, Xuteng Zhang, <u><strong>Yuling Shi</strong></u>, Chao Hu, Yuting Chen, Beijun Shen, Xiaodong Gu
-
-- <strong><span style="color: #03396c;">Progressive Supernet Training for Efficient Visual Autoregressive Modeling</span></strong>  
-  [Preprint](https://arxiv.org/abs/2511.16546)  
-  Xiaoyue Chen†, <u><strong>Yuling Shi</strong></u>†, Kaiyuan Li†, Huandong Wang, Yong Li, Xiaodong Gu, Xinlei Chen, Mingbao Lin
 
 - <strong><span style="color: #03396c;">SWE-Exp: Experience-Driven Software Issue Resolution</span></strong>  
   [Preprint](https://arxiv.org/abs/2507.23361)  
@@ -139,6 +143,10 @@ We have multiple potential projects available with abundant computing resources!
 - <strong><span style="color: #03396c;">Pruning the Unsurprising: Efficient Code Reasoning via First-Token Surprisal</span></strong>  
   [Preprint](https://arxiv.org/abs/2508.05988)  
   Wenhao Zeng, Yaoning Wang, Chao Hu, <u><strong>Yuling Shi</strong></u>, Chengcheng Wan, Hongyu Zhang, Xiaodong Gu
+
+- <strong><span style="color: #03396c;">Test vs Mutant: Adversarial LLM Agents for Robust Unit Test Generation</span></strong>  
+  [Preprint](https://arxiv.org/abs/2602.08146)  
+  Pengyu Chang, Yixiong Fang, Silin Chen, <u><strong>Yuling Shi</strong></u>, Beijun Shen, Xiaodong Gu
 
 ## &#x1F468;&#x200D;&#x1F4BB; Experiences
 
