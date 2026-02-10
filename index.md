@@ -19,7 +19,7 @@ We have multiple potential projects available with abundant computing resources!
 
 ## &#x1F4F0; News
 
-- <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Received ACM SIGSOFT ICSE 2026 CAPS Grant (Travel Support)
+<!-- - <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Received ACM SIGSOFT ICSE 2026 CAPS Grant (Travel Support) -->
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.01]</span> Serving as PC member of AIware 2026; submissions are welcome
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.01]</span> Awarded Shanghai Association for Artificial Intelligence Youth Outstanding Paper Award
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.01]</span> Two papers accepted by ICLR 2026
@@ -148,6 +148,10 @@ We have multiple potential projects available with abundant computing resources!
   [Preprint](https://arxiv.org/abs/2602.08146)  
   Pengyu Chang, Yixiong Fang, Silin Chen, <u><strong>Yuling Shi</strong></u>, Beijun Shen, Xiaodong Gu
 
+- <strong><span style="color: #03396c;">DLLM-Searcher: Adapting Diffusion Large Language Model for Search Agents</span></strong>  
+  [Preprint](https://arxiv.org/abs/2602.07035)  
+  Jiahao Zhao, Shaoxuan Xu, Zhongxiang Sun, Fengqi Zhu, Jingyang Ou, <u><strong>Yuling Shi</strong></u>, Chongxuan Li, Xiao Zhang, Jun Xu
+
 ## &#x1F468;&#x200D;&#x1F4BB; Experiences
 
 <!-- - Research Intern at ByteDance, 2025.11-Now 
@@ -175,8 +179,9 @@ We have multiple potential projects available with abundant computing resources!
 - Journal Reviewer: TSE, TMLR
 
 ## &#x1F3C6; Awards
-- &#x1F3C6; ACM SIGSOFT ICSE 2026 CAPS Travel Grant
+<!-- - &#x1F3C6; ACM SIGSOFT ICSE 2026 CAPS Travel Grant -->
 - &#x1F947; Shanghai Association for Artificial Intelligence Youth Outstanding Paper Award
+- &#x1F3D3; Ninth place in Shanghai University Table Tennis Men's Singles Championship
 - &#x1F3C6; National Scholarship 
 - &#x1F3D3; Fifth place in Shanghai Table Tennis Doubles Championship and third place in teams representing my university 
 - &#x1F3C6; First Prize in National Olympiad in Physics at High school (Provincial Area) 
