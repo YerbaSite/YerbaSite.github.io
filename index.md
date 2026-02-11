@@ -54,7 +54,6 @@ We have multiple potential projects available with abundant computing resources!
   [ICSE 2026](https://arxiv.org/abs/2507.23348)  
   Han Li†, <u><strong>Yuling Shi</strong></u>†, Shaoxin Lin, Xiaodong Gu, Heng Lian, Xin Wang, Yantao Jia, Tao Huang, Qianxiang Wang
 
-
 - <strong><span style="color: #03396c;">LongCodeZip: Compress Long Context for Code Language Models</span></strong>  
   [ASE 2025](https://arxiv.org/abs/2510.00446)  
   <u><strong>Yuling Shi</strong></u>, Yichun Qian, Hongyu Zhang, Beijun Shen, Xiaodong Gu
@@ -63,8 +62,9 @@ We have multiple potential projects available with abundant computing resources!
   [ICSE 2025](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a051/215aWoRvPCE)   
   <u><strong>Yuling Shi</strong></u>, Hongyu Zhang, Chengcheng Wan, Xiaodong Gu
 
-<details class="pub-collapsible">
-<summary><strong>Other Publications</strong> (10 collaborative works) — click to expand</summary>
+
+<details class="pub-collapsible" markdown="1">
+<summary><strong>Other Publications</strong> — click to expand</summary>
 
 - <strong><span style="color: #03396c;">Robust Preference Alignment via Directional Neighborhood Consensus</span></strong>  
   [ICLR 2026](https://arxiv.org/abs/2510.20498)  
@@ -126,8 +126,8 @@ We have multiple potential projects available with abundant computing resources!
   [Preprint](https://arxiv.org/abs/2511.16546)  
   Xiaoyue Chen†, <u><strong>Yuling Shi</strong></u>†, Kaiyuan Li†, Huandong Wang, Yong Li, Xiaodong Gu, Xinlei Chen, Mingbao Lin 
 
-<details class="pub-collapsible">
-<summary><strong>Other Preprints</strong> (8 collaborative works) — click to expand</summary>
+<details class="pub-collapsible" markdown="1">
+<summary><strong>Other Preprints</strong> — click to expand</summary>
 
 - <strong><span style="color: #03396c;">Rethinking the Value of Agent-Generated Tests for LLM-Based Software Engineering Agents</span></strong>  
   [Preprint](https://arxiv.org/abs/2602.07900)  
@@ -141,7 +141,7 @@ We have multiple potential projects available with abundant computing resources!
   [Preprint](https://arxiv.org/abs/2507.23361)  
   Silin Chen, Shaoxin Lin, <u><strong>Yuling Shi</strong></u>, Heng Lian, Xiaodong Gu, Longfei Yun, Dong Chen, Lin Cao, Jiyang Liu, Nu Xia, Qianxiang Wang
 
-- <strong><span style="color: #03396c;">Repository-level Code Question Answering</span></strong>  
+- <strong><span style="color: #03396c;">SWE-QA: Can Language Models Answer Repository-level Code Questions?</span></strong>  
   [Preprint](https://arxiv.org/abs/2509.14635)  
   Weihan Peng, <u><strong>Yuling Shi</strong></u>, Yuhang Wang, Xinyun Zhang, Beijun Shen, Xiaodong Gu
 
