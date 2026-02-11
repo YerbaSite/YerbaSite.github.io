@@ -44,7 +44,27 @@ We have multiple potential projects available with abundant computing resources!
 ## &#x1F4DD; Publications 
 † denotes equal contribution.
 
-### Publications
+### Selected Publications
+
+- <strong><span style="color: #03396c;">From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging</span></strong>  
+  [ICSE 2026](https://arxiv.org/abs/2410.01215)  
+  <u><strong>Yuling Shi</strong></u>, Songsong Wang, Chengcheng Wan, Min Wang, Xiaodong Gu
+
+- <strong><span style="color: #03396c;">SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution</span></strong>  
+  [ICSE 2026](https://arxiv.org/abs/2507.23348)  
+  Han Li†, <u><strong>Yuling Shi</strong></u>†, Shaoxin Lin, Xiaodong Gu, Heng Lian, Xin Wang, Yantao Jia, Tao Huang, Qianxiang Wang
+
+
+- <strong><span style="color: #03396c;">LongCodeZip: Compress Long Context for Code Language Models</span></strong>  
+  [ASE 2025](https://arxiv.org/abs/2510.00446)  
+  <u><strong>Yuling Shi</strong></u>, Yichun Qian, Hongyu Zhang, Beijun Shen, Xiaodong Gu
+
+- <strong><span style="color: #03396c;">Between Lines of Code: Unraveling the Distinct Patterns of Machine and Human Programmers</span></strong>  
+  [ICSE 2025](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a051/215aWoRvPCE)   
+  <u><strong>Yuling Shi</strong></u>, Hongyu Zhang, Chengcheng Wan, Xiaodong Gu
+
+<details class="pub-collapsible">
+<summary><strong>Other Publications</strong> (10 collaborative works) — click to expand</summary>
 
 - <strong><span style="color: #03396c;">Robust Preference Alignment via Directional Neighborhood Consensus</span></strong>  
   [ICLR 2026](https://arxiv.org/abs/2510.20498)  
@@ -58,17 +78,13 @@ We have multiple potential projects available with abundant computing resources!
   [FSE 2026](https://arxiv.org/abs/2601.00376)  
   Chao Hu, Wenhao Zeng, <u><strong>Yuling Shi</strong></u>, Beijun Shen, Xiaodong Gu
 
-- <strong><span style="color: #03396c;">From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging</span></strong>  
-  [ICSE 2026](https://arxiv.org/abs/2410.01215)  
-  <u><strong>Yuling Shi</strong></u>, Songsong Wang, Chengcheng Wan, Min Wang, Xiaodong Gu
-
-- <strong><span style="color: #03396c;">SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution</span></strong>  
-  [ICSE 2026](https://arxiv.org/abs/2507.23348)  
-  Han Li†, <u><strong>Yuling Shi</strong></u>†, Shaoxin Lin, Xiaodong Gu, Heng Lian, Xin Wang, Yantao Jia, Tao Huang, Qianxiang Wang
-
 - <strong><span style="color: #03396c;">EVOC2RUST: A Skeleton-guided Framework for Project-Level C-to-Rust Translation</span></strong>  
   [ICSE 2026 SEIP](https://arxiv.org/abs/2508.04295)  
   Chaofan Wang, Tingrui Yu, Chen Xie, Jie Wang, Dong Chen, Wenrui Zhang, <u><strong>Yuling Shi</strong></u>, Xiaodong Gu, Beijun Shen
+
+- <strong><span style="color: #03396c;">Reasoning in Trees: Improving Retrieval-Augmented Generation for Multi-Hop Question Answering</span></strong>  
+  [WWW 2026 GLOW](https://doi.org/10.48550/arXiv.2601.11255)  
+  <u><strong>Yuling Shi</strong></u>, Maolin Sun, Zijun Liu, Mo Yang, Yixiong Fang, Tianran Sun, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">HyperAgent: Leveraging Hypergraphs for Topology Optimization in Multi-Agent Communication</span></strong>  
   [AAMAS 2026](https://arxiv.org/abs/2510.10611)  
@@ -82,18 +98,6 @@ We have multiple potential projects available with abundant computing resources!
   [AAMAS 2026](https://arxiv.org/abs/2510.10585)  
   Heng Zhang, <u><strong>Yuling Shi</strong></u>, Xiaodong Gu, Haochen You, Zijian Zhang, Lubin Gan, Yilei Yuan, Jin Huang
 
-- <strong><span style="color: #03396c;">Reasoning in Trees: Improving Retrieval-Augmented Generation for Multi-Hop Question Answering</span></strong>  
-  [WWW 2026 GLOW](https://doi.org/10.48550/arXiv.2601.11255)  
-  <u><strong>Yuling Shi</strong></u>, Maolin Sun, Zijun Liu, Mo Yang, Yixiong Fang, Tianran Sun, Xiaodong Gu
-
-- <strong><span style="color: #03396c;">LongCodeZip: Compress Long Context for Code Language Models</span></strong>  
-  [ASE 2025](https://arxiv.org/abs/2510.00446)  
-  <u><strong>Yuling Shi</strong></u>, Yichun Qian, Hongyu Zhang, Beijun Shen, Xiaodong Gu
-
-- <strong><span style="color: #03396c;">Between Lines of Code: Unraveling the Distinct Patterns of Machine and Human Programmers</span></strong>  
-  [ICSE 2025](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a051/215aWoRvPCE)   
-  <u><strong>Yuling Shi</strong></u>, Hongyu Zhang, Chengcheng Wan, Xiaodong Gu
-
 - <strong><span style="color: #03396c;">LastingBench: Defend Benchmarks Against Knowledge Leakage</span></strong>  
   [EMNLP 2025 Findings](https://arxiv.org/abs/2506.21614)  
   Yixiong Fang, Tianran Sun, <u><strong>Yuling Shi</strong></u>, Min Wang, Xiaodong Gu
@@ -106,7 +110,9 @@ We have multiple potential projects available with abundant computing resources!
   [Journal of Scientific Computing (Q1), 2021](https://link.springer.com/content/pdf/10.1007/s10915-021-01483-2.pdf)  
   Xuehai Huang, <u><strong>Yuling Shi</strong></u> and Wenqing Wang
 
-### Preprints
+</details>
+
+### Selected Preprints
 
 - <strong><span style="color: #03396c;">CodeOCR: On the Effectiveness of Vision Language Models in Code Understanding</span></strong>  
   [Preprint](https://arxiv.org/abs/2602.01785)  
@@ -119,6 +125,9 @@ We have multiple potential projects available with abundant computing resources!
 - <strong><span style="color: #03396c;">Progressive Supernet Training for Efficient Visual Autoregressive Modeling</span></strong>  
   [Preprint](https://arxiv.org/abs/2511.16546)  
   Xiaoyue Chen†, <u><strong>Yuling Shi</strong></u>†, Kaiyuan Li†, Huandong Wang, Yong Li, Xiaodong Gu, Xinlei Chen, Mingbao Lin 
+
+<details class="pub-collapsible">
+<summary><strong>Other Preprints</strong> (8 collaborative works) — click to expand</summary>
 
 - <strong><span style="color: #03396c;">Rethinking the Value of Agent-Generated Tests for LLM-Based Software Engineering Agents</span></strong>  
   [Preprint](https://arxiv.org/abs/2602.07900)  
@@ -151,6 +160,8 @@ We have multiple potential projects available with abundant computing resources!
 - <strong><span style="color: #03396c;">DLLM-Searcher: Adapting Diffusion Large Language Model for Search Agents</span></strong>  
   [Preprint](https://arxiv.org/abs/2602.07035)  
   Jiahao Zhao, Shaoxuan Xu, Zhongxiang Sun, Fengqi Zhu, Jingyang Ou, <u><strong>Yuling Shi</strong></u>, Chongxuan Li, Xiao Zhang, Jun Xu
+
+</details>
 
 ## &#x1F468;&#x200D;&#x1F4BB; Experiences
 
