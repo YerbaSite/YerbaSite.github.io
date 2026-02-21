@@ -20,6 +20,7 @@ We have multiple potential projects available with abundant computing resources!
 ## &#x1F4F0; News
 
 <!-- - <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Received ACM SIGSOFT ICSE 2026 CAPS Grant (Travel Support) -->
+- <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Two papers accepted by CVPR 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.01]</span> Serving as PC member of AIware 2026; submissions are welcome
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.01]</span> Awarded Shanghai Association for Artificial Intelligence Youth Outstanding Paper Award
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.01]</span> Two papers accepted by ICLR 2026
@@ -46,6 +47,10 @@ We have multiple potential projects available with abundant computing resources!
 
 ### Selected Publications
 
+- <strong><span style="color: #03396c;">Progressive Supernet Training for Efficient Visual Autoregressive Modeling</span></strong>  
+  [CVPR 2026](https://arxiv.org/abs/2511.16546)  
+  Xiaoyue Chen†, <u><strong>Yuling Shi</strong></u>†, Kaiyuan Li†, Huandong Wang, Yong Li, Xiaodong Gu, Xinlei Chen, Mingbao Lin
+
 - <strong><span style="color: #03396c;">From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging</span></strong>  
   [ICSE 2026](https://arxiv.org/abs/2410.01215)  
   <u><strong>Yuling Shi</strong></u>, Songsong Wang, Chengcheng Wan, Min Wang, Xiaodong Gu
@@ -65,6 +70,10 @@ We have multiple potential projects available with abundant computing resources!
 
 <details class="pub-collapsible" markdown="1">
 <summary><strong>Other Publications</strong> — click to expand</summary>
+
+- <strong><span style="color: #03396c;">Steering Where to Diffuse: Generative Modeling of Phenotypic Response Simulation with Steered Diffusion Bridge</span></strong>  
+  [CVPR 2026](https://openreview.net/forum?id=jHRIkO8Sl9)  
+  Rongchao Zhang, Chengxin Li, Yiwei Lou, <u><strong>Yuling Shi</strong></u>, Hanpin Wang, Yu Huang
 
 - <strong><span style="color: #03396c;">Robust Preference Alignment via Directional Neighborhood Consensus</span></strong>  
   [ICLR 2026](https://arxiv.org/abs/2510.20498)  
@@ -121,10 +130,6 @@ We have multiple potential projects available with abundant computing resources!
 - <strong><span style="color: #03396c;">SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents</span></strong>  
   [Preprint](https://arxiv.org/abs/2601.16746)  
   Yuhang Wang†, <u><strong>Yuling Shi</strong></u>†, Mo Yang, Rongrui Zhang, Shilin He, Heng Lian, Yuting Chen, Siyu Ye, Kai Cai, Xiaodong Gu
-
-- <strong><span style="color: #03396c;">Progressive Supernet Training for Efficient Visual Autoregressive Modeling</span></strong>  
-  [Preprint](https://arxiv.org/abs/2511.16546)  
-  Xiaoyue Chen†, <u><strong>Yuling Shi</strong></u>†, Kaiyuan Li†, Huandong Wang, Yong Li, Xiaodong Gu, Xinlei Chen, Mingbao Lin 
 
 <details class="pub-collapsible" markdown="1">
 <summary><strong>Other Preprints</strong> — click to expand</summary>
