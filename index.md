@@ -72,7 +72,7 @@ We have multiple potential projects available with abundant computing resources!
 <summary><strong>Other Publications</strong> — click to expand</summary>
 
 - <strong><span style="color: #03396c;">Steering Where to Diffuse: Generative Modeling of Phenotypic Response Simulation with Steered Diffusion Bridge</span></strong>  
-  [CVPR 2026](https://openreview.net/forum?id=jHRIkO8Sl9)  
+  [CVPR 2026](https://openreview.net/forum?id=2Reux55wKr)  
   Rongchao Zhang, Chengxin Li, Yiwei Lou, <u><strong>Yuling Shi</strong></u>, Hanpin Wang, Yu Huang
 
 - <strong><span style="color: #03396c;">Robust Preference Alignment via Directional Neighborhood Consensus</span></strong>  
