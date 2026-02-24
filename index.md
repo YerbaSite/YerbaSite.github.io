@@ -91,6 +91,10 @@ We have multiple potential projects available with abundant computing resources!
   [ICSE 2026 SEIP](https://arxiv.org/abs/2508.04295)  
   Chaofan Wang, Tingrui Yu, Chen Xie, Jie Wang, Dong Chen, Wenrui Zhang, <u><strong>Yuling Shi</strong></u>, Xiaodong Gu, Beijun Shen
 
+- <strong><span style="color: #03396c;">Comfrey: Mitigating Integration Failures in LLM-enabled Software at Run-Time</span></strong>  
+  [ICSE 2026](https://chengcheng-wan.github.io/paper/26-ICSE-Comfrey.pdf)  
+  Yuchen Shao, Yuheng Huang, Jiazhen Zou, <u><strong>Yuling Shi</strong></u>, Long Yang, Lei Ma, Ting Su, Chengcheng Wan
+
 - <strong><span style="color: #03396c;">Reasoning in Trees: Improving Retrieval-Augmented Generation for Multi-Hop Question Answering</span></strong>  
   [WWW 2026 GLOW](https://doi.org/10.48550/arXiv.2601.11255)  
   <u><strong>Yuling Shi</strong></u>, Maolin Sun, Zijun Liu, Mo Yang, Yixiong Fang, Tianran Sun, Xiaodong Gu
