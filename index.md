@@ -20,6 +20,7 @@ We have multiple potential projects available with abundant computing resources!
 ## &#x1F4F0; News
 
 <!-- - <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Received ACM SIGSOFT ICSE 2026 CAPS Grant (Travel Support) -->
+- <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Serving as PC member of AIWare 2026 Datasets & Benchmarks track; submissions are welcome
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Two papers accepted by CVPR 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.01]</span> Serving as PC member of AIware 2026; submissions are welcome
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.01]</span> Awarded Shanghai Association for Artificial Intelligence Youth Outstanding Paper Award
@@ -199,7 +200,7 @@ We have multiple potential projects available with abundant computing resources!
 - Teaching Assistant for FL4207 "Application of LLMs" (Fall 2025)
 
 ## &#x1F4BC; Services
-- Conference Reviewer: ICLR 2025, ARR Oct 2025, ICLR 2026, ICSE 2026 (Shadow PC), CVPR 2026, ICML 2026, AIware 2026, ARR Jan 2026
+- Conference Reviewer: ICLR 2025, ARR Oct 2025, ICLR 2026, ICSE 2026 (Shadow PC), CVPR 2026, ICML 2026, AIware 2026, ARR Jan 2026, AIWare 2026 Datasets & Benchmarks track
 - Journal Reviewer: TSE, TMLR
 
 ## &#x1F3C6; Awards
