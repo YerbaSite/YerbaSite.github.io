@@ -4,7 +4,8 @@ layout: homepage
 
 ## &#x1F64B; About Me
 
-Hi, I am a fourth year Ph.D. student in the [LLM for Software Engineering Lab (LLMSE)](https://base.sjtu.edu.cn/home/doku.php?id=start), affiliated with the School of Software at Shanghai Jiao Tong University in China. I'm grateful to be advised by [Prof. Xiaodong Gu](https://guxd.github.io/) and [Prof. Beijun Shen](https://base.sjtu.edu.cn/home/doku.php?id=mem:bjshen).
+Hi, I am a fourth year Ph.D. student in the [LLM for Software Engineering Lab (LLMSE)](https://base.sjtu.edu.cn/home/doku.php?id=start), affiliated with the School of Software at Shanghai Jiao Tong University in China. I'm grateful to be advised by [Prof. Xiaodong Gu](https://guxd.github.io/) and [Prof. Beijun Shen](https://base.sjtu.edu.cn/home/doku.php?id=mem:bjshen). 
+<!-- I'm also very fortunate to collaborate with [Prof. Hongyu Zhang](https://sites.google.com/site/hongyujohn/) (IEEE Fellow) and [Prof. David Lo](http://www.mysmu.edu/faculty/davidlo/) (ACM/IEEE/ASE Fellow). -->
 
 Some of my recent projects can be found in my Github homepage [here](https://github.com/YerbaPage). Feel free to contact me if you are interested in my work or have any questions.
 
@@ -42,6 +43,295 @@ We have multiple potential projects available with abundant computing resources!
 - <span style="color: #4f6d8c; font-weight: 600;">[2024.10]</span> Invited talk at Tongyi Lab, Alibaba: "Hierarchical debugging with LLMs."
 - <span style="color: #4f6d8c; font-weight: 600;">[2024.08]</span> Invited talk at CCF Synonym: "How to detect LLM generated code?"
 - <span style="color: #4f6d8c; font-weight: 600;">[2024.07]</span> One paper accepted by ICSE 2025
+
+## 🔬 Research Overview
+
+<div id="research-tree-container">
+<style>
+#research-tree-container {
+  margin: 0 0 2em 0;
+  font-family: inherit;
+}
+.tree-tabs {
+  display: flex;
+  gap: 0;
+  border-bottom: 2px solid #e0e0e0;
+  margin-bottom: 1.5em;
+}
+.tree-tab {
+  padding: 8px 18px;
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: #888;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -2px;
+  transition: all 0.2s;
+  background: none;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  white-space: nowrap;
+}
+.tree-tab:hover { color: #333; }
+.tree-tab.active {
+  color: #03396c;
+  border-bottom-color: #03396c;
+  font-weight: 600;
+}
+.tree-version { display: none; }
+.tree-version.active { display: block; }
+
+/* Tree styles */
+.rt {
+  --line-color: #c8d6e5;
+  --node-bg: #f7f9fc;
+  --node-border: #d1dce6;
+  --root-bg: #03396c;
+  --root-color: #fff;
+  --cat-bg: #e8f0fe;
+  --cat-border: #a4c2f4;
+  --cat-color: #1a3a5c;
+  --leaf-bg: #fff;
+  --paper-color: #555;
+  padding: 0;
+}
+.rt ul {
+  list-style: none;
+  padding-left: 1.6em;
+  margin: 0;
+  position: relative;
+}
+.rt > ul { padding-left: 0; }
+.rt li {
+  position: relative;
+  padding: 3px 0 3px 0;
+}
+.rt ul ul > li::before {
+  content: '';
+  position: absolute;
+  left: -1em;
+  top: 0;
+  height: 100%;
+  border-left: 1.5px solid var(--line-color);
+}
+.rt ul ul > li::after {
+  content: '';
+  position: absolute;
+  left: -1em;
+  top: 50%;
+  width: 0.9em;
+  border-top: 1.5px solid var(--line-color);
+}
+.rt ul ul > li:last-child::before { height: 50%; }
+.rt ul ul > li:only-child::before { height: 50%; }
+
+.rt .node {
+  display: inline-block;
+  padding: 4px 12px;
+  border-radius: 6px;
+  font-size: 0.82rem;
+  line-height: 1.5;
+  vertical-align: middle;
+}
+.rt .root-node {
+  background: var(--root-bg);
+  color: var(--root-color);
+  font-weight: 700;
+  font-size: 0.92rem;
+  padding: 6px 16px;
+  border-radius: 8px;
+  letter-spacing: 0.02em;
+}
+.rt .cat-node {
+  background: var(--cat-bg);
+  border: 1px solid var(--cat-border);
+  color: var(--cat-color);
+  font-weight: 600;
+  font-size: 0.84rem;
+}
+.rt .leaf-node {
+  background: var(--leaf-bg);
+  border: 1px solid var(--node-border);
+  color: #333;
+  font-weight: 400;
+}
+.rt .leaf-node .paper-venue {
+  color: var(--paper-color);
+  font-size: 0.75rem;
+  margin-left: 4px;
+}
+.rt .leaf-node a {
+  color: #03396c;
+  text-decoration: none;
+  font-weight: 500;
+}
+.rt .leaf-node a:hover { text-decoration: underline; }
+.rt .arrow {
+  color: var(--line-color);
+  font-size: 0.7rem;
+  margin: 0 2px;
+}
+.rt .evolve-label {
+  display: inline-block;
+  font-size: 0.7rem;
+  color: #999;
+  font-style: italic;
+  margin-left: 6px;
+}
+
+@media (max-width: 600px) {
+  .rt ul { padding-left: 1.2em; }
+  .rt .node { font-size: 0.75rem; padding: 3px 8px; }
+  .tree-tab { padding: 6px 10px; font-size: 0.78rem; }
+}
+</style>
+
+<div class="tree-tabs">
+  <button class="tree-tab active" onclick="showTreeVersion(0)">View A: Efficiency-Centric</button>
+  <button class="tree-tab" onclick="showTreeVersion(1)">View B: Development Lifecycle</button>
+  <button class="tree-tab" onclick="showTreeVersion(2)">View C: Evolution</button>
+</div>
+
+<!-- Version A: Efficiency as core axis -->
+<div class="tree-version active" id="tree-v0">
+<div class="rt">
+<ul>
+<li><span class="node root-node">LLM for Code</span>
+<ul>
+<li><span class="node cat-node">Context Efficiency</span>
+<ul>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2510.00446">LongCodeZip</a> <span class="paper-venue">ASE '25</span></span></li>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2602.01785">CodeOCR</a> <span class="paper-venue">Preprint</span> <span class="evolve-label">← extends LongCodeZip</span></span></li>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2601.16746">SWE-Pruner</a> <span class="paper-venue">Preprint</span> <span class="evolve-label">← extends to agents</span></span></li>
+</ul>
+</li>
+<li><span class="node cat-node">Inference Efficiency</span>
+<ul>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2601.05110">GlimpRouter</a> <span class="paper-venue">Preprint</span></span></li>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2508.05988">Pruning the Unsurprising</a> <span class="paper-venue">Preprint</span></span></li>
+</ul>
+</li>
+<li><span class="node cat-node">Code Understanding & Generation</span>
+<ul>
+  <li><span class="node leaf-node"><a href="https://www.computer.org/csdl/proceedings-article/icse/2025/056900a051/215aWoRvPCE">Between Lines of Code</a> <span class="paper-venue">ICSE '25</span></span></li>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2601.00376">In Line with Context</a> <span class="paper-venue">FSE '26</span></span></li>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2508.04295">EVOC2RUST</a> <span class="paper-venue">ICSE '26 SEIP</span></span></li>
+</ul>
+</li>
+<li><span class="node cat-node">Debugging & Testing</span>
+<ul>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2410.01215">From Code to Correctness</a> <span class="paper-venue">ICSE '26</span></span></li>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2602.08146">Test vs Mutant</a> <span class="paper-venue">Preprint</span></span></li>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2602.07900">Rethinking Agent-Generated Tests</a> <span class="paper-venue">Preprint</span></span></li>
+</ul>
+</li>
+<li><span class="node cat-node">Software Engineering Agents</span>
+<ul>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2507.23348">SWE-Debate</a> <span class="paper-venue">ICSE '26</span></span></li>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2507.23361">SWE-Exp</a> <span class="paper-venue">Preprint</span></span></li>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2509.14635">SWE-QA</a> <span class="paper-venue">Preprint</span></span></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<!-- Version B: Development lifecycle -->
+<div class="tree-version" id="tree-v1">
+<div class="rt">
+<ul>
+<li><span class="node root-node">LLM for Code</span>
+<ul>
+<li><span class="node cat-node">Understand</span>
+<ul>
+  <li><span class="node leaf-node"><a href="https://www.computer.org/csdl/proceedings-article/icse/2025/056900a051/215aWoRvPCE">Between Lines of Code</a> <span class="paper-venue">ICSE '25</span></span></li>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2602.01785">CodeOCR</a> <span class="paper-venue">Preprint</span></span></li>
+</ul>
+</li>
+<li><span class="node cat-node">Generate</span>
+<ul>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2601.00376">In Line with Context</a> <span class="paper-venue">FSE '26</span></span></li>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2508.04295">EVOC2RUST</a> <span class="paper-venue">ICSE '26 SEIP</span></span></li>
+</ul>
+</li>
+<li><span class="node cat-node">Debug & Test</span>
+<ul>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2410.01215">From Code to Correctness</a> <span class="paper-venue">ICSE '26</span></span></li>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2602.08146">Test vs Mutant</a> <span class="paper-venue">Preprint</span></span></li>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2602.07900">Rethinking Agent-Generated Tests</a> <span class="paper-venue">Preprint</span></span></li>
+</ul>
+</li>
+<li><span class="node cat-node">Automate (Agents)</span>
+<ul>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2507.23348">SWE-Debate</a> <span class="paper-venue">ICSE '26</span></span></li>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2507.23361">SWE-Exp</a> <span class="paper-venue">Preprint</span></span></li>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2509.14635">SWE-QA</a> <span class="paper-venue">Preprint</span></span></li>
+</ul>
+</li>
+<li><span class="node cat-node">Optimize (Efficiency)</span>
+<ul>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2510.00446">LongCodeZip</a> <span class="paper-venue">ASE '25</span></span></li>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2601.16746">SWE-Pruner</a> <span class="paper-venue">Preprint</span></span></li>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2601.05110">GlimpRouter</a> <span class="paper-venue">Preprint</span></span></li>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2508.05988">Pruning the Unsurprising</a> <span class="paper-venue">Preprint</span></span></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<!-- Version C: Evolution from single tasks to agents -->
+<div class="tree-version" id="tree-v2">
+<div class="rt">
+<ul>
+<li><span class="node root-node">LLM for Code</span>
+<ul>
+<li><span class="node cat-node">Single-Task Foundations</span>
+<ul>
+  <li><span class="node leaf-node"><a href="https://www.computer.org/csdl/proceedings-article/icse/2025/056900a051/215aWoRvPCE">Between Lines of Code</a> <span class="paper-venue">ICSE '25</span> <span class="evolve-label">— code understanding</span></span></li>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2601.00376">In Line with Context</a> <span class="paper-venue">FSE '26</span> <span class="evolve-label">— code generation</span></span></li>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2410.01215">From Code to Correctness</a> <span class="paper-venue">ICSE '26</span> <span class="evolve-label">— debugging</span></span></li>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2508.04295">EVOC2RUST</a> <span class="paper-venue">ICSE '26 SEIP</span> <span class="evolve-label">— translation</span></span></li>
+</ul>
+</li>
+<li><span class="node cat-node">Efficiency Breakthroughs</span>
+<ul>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2510.00446">LongCodeZip</a> <span class="paper-venue">ASE '25</span> <span class="evolve-label">— context compression</span></span></li>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2602.01785">CodeOCR</a> <span class="paper-venue">Preprint</span> <span class="arrow">→</span> <span class="evolve-label">vision-based</span></span></li>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2601.05110">GlimpRouter</a> <span class="paper-venue">Preprint</span> <span class="evolve-label">— inference routing</span></span></li>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2508.05988">Pruning the Unsurprising</a> <span class="paper-venue">Preprint</span> <span class="evolve-label">— token pruning</span></span></li>
+</ul>
+</li>
+<li><span class="node cat-node">End-to-End Agents</span>
+<ul>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2507.23348">SWE-Debate</a> <span class="paper-venue">ICSE '26</span> <span class="evolve-label">— multi-agent debate</span></span></li>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2507.23361">SWE-Exp</a> <span class="paper-venue">Preprint</span> <span class="evolve-label">— experience-driven</span></span></li>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2509.14635">SWE-QA</a> <span class="paper-venue">Preprint</span> <span class="evolve-label">— code QA</span></span></li>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2601.16746">SWE-Pruner</a> <span class="paper-venue">Preprint</span> <span class="evolve-label">— agent efficiency</span></span></li>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2602.08146">Test vs Mutant</a> <span class="paper-venue">Preprint</span> <span class="evolve-label">— adversarial testing</span></span></li>
+  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2602.07900">Rethinking Agent-Generated Tests</a> <span class="paper-venue">Preprint</span></span></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<script>
+function showTreeVersion(idx) {
+  document.querySelectorAll('.tree-version').forEach(function(el) { el.classList.remove('active'); });
+  document.querySelectorAll('.tree-tab').forEach(function(el) { el.classList.remove('active'); });
+  document.getElementById('tree-v' + idx).classList.add('active');
+  document.querySelectorAll('.tree-tab')[idx].classList.add('active');
+}
+</script>
+</div>
 
 ## &#x1F4DD; Publications 
 † denotes equal contribution.
