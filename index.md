@@ -9,42 +9,13 @@ Hi, I am a fourth year Ph.D. student in the [LLM for Software Engineering Lab (L
 
 Some of my recent projects can be found in my Github homepage [here](https://github.com/YerbaPage). Feel free to contact me if you are interested in my work or have any questions.
 
-<div style="color: #d9534f; margin-bottom: 1em;">
+<!-- <div style="color: #d9534f; margin-bottom: 1em;">
 We have multiple potential projects available with abundant computing resources! If you are interested in collaboration or internship (remote is also welcome), please feel free to contact me.
-</div>
-
-## &#x1F9D0; Research Interests 
-
-- **Software Engineering**: code generation, code debugging, software issue resolution, code question answering
-- **Natural Language Processing**: post training, retrieval augmented generation, multi-agent systems
-
-## &#x1F4F0; News
-
-<!-- - <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Received ACM SIGSOFT ICSE 2026 CAPS Grant (Travel Support) -->
-- <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Serving as PC member of AIWare 2026 Datasets & Benchmarks track; submissions are welcome
-- <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Two papers accepted by CVPR 2026
-- <span style="color: #4f6d8c; font-weight: 600;">[2026.01]</span> Serving as PC member of AIware 2026; submissions are welcome
-- <span style="color: #4f6d8c; font-weight: 600;">[2026.01]</span> Awarded Shanghai Association for Artificial Intelligence Youth Outstanding Paper Award
-- <span style="color: #4f6d8c; font-weight: 600;">[2026.01]</span> Two papers accepted by ICLR 2026
-- <span style="color: #4f6d8c; font-weight: 600;">[2026.01]</span> One paper accepted by WWW 2026 GLOW Workshop
-- <span style="color: #4f6d8c; font-weight: 600;">[2025.12]</span> Won 9th place in Shanghai University Table Tennis Men's Singles Championship
-- <span style="color: #4f6d8c; font-weight: 600;">[2025.12]</span> One paper accepted by FSE 2026
-- <span style="color: #4f6d8c; font-weight: 600;">[2025.12]</span> Three papers accepted by AAMAS 2026
-- <span style="color: #4f6d8c; font-weight: 600;">[2025.12]</span> One paper accepted by ICSE 2026 SEIP track
-- <span style="color: #4f6d8c; font-weight: 600;">[2025.12]</span> Two papers accepted by ICSE 2026
-- <span style="color: #4f6d8c; font-weight: 600;">[2025.11]</span> Invited talk at Ant Group: "How to understand and debug large and complex programs?"
-- <span style="color: #4f6d8c; font-weight: 600;">[2025.11]</span> Invited talk at CCF Synonym: "Hierarchical debugging with LLMs."
-- <span style="color: #4f6d8c; font-weight: 600;">[2025.11]</span> Invited talk at CCF Synonym: "How to compress long code context?"
-- <span style="color: #4f6d8c; font-weight: 600;">[2025.10]</span> Invited talk at ByteDance Software Engineering Lab: "Dealing with long context problem in SE."
-- <span style="color: #4f6d8c; font-weight: 600;">[2025.10]</span> One paper accepted by ICSE 2026
-- <span style="color: #4f6d8c; font-weight: 600;">[2025.10]</span> One paper accepted by ASE 2025
-- <span style="color: #4f6d8c; font-weight: 600;">[2025.08]</span> One paper accepted by EMNLP 2025 Findings
-- <span style="color: #4f6d8c; font-weight: 600;">[2025.05]</span> One paper accepted by ACL 2025 KnowFM Workshop
-- <span style="color: #4f6d8c; font-weight: 600;">[2024.10]</span> Invited talk at Tongyi Lab, Alibaba: "Hierarchical debugging with LLMs."
-- <span style="color: #4f6d8c; font-weight: 600;">[2024.08]</span> Invited talk at CCF Synonym: "How to detect LLM generated code?"
-- <span style="color: #4f6d8c; font-weight: 600;">[2024.07]</span> One paper accepted by ICSE 2025
+</div> -->
 
 ## 🔬 Research Overview
+
+My research focuses on **LLM for Code** — enabling large language models to efficiently understand, correctly produce, and autonomously resolve real-world software engineering problems.
 
 <div id="research-flow-container">
 <style>
@@ -133,6 +104,32 @@ We have multiple potential projects available with abundant computing resources!
 
 </div>
 </div>
+
+## &#x1F4F0; News
+
+<!-- - <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Received ACM SIGSOFT ICSE 2026 CAPS Grant (Travel Support) -->
+- <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Serving as PC member of AIWare 2026 Datasets & Benchmarks track; submissions are welcome
+- <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Two papers accepted by CVPR 2026
+- <span style="color: #4f6d8c; font-weight: 600;">[2026.01]</span> Serving as PC member of AIware 2026; submissions are welcome
+- <span style="color: #4f6d8c; font-weight: 600;">[2026.01]</span> Awarded Shanghai Association for Artificial Intelligence Youth Outstanding Paper Award
+- <span style="color: #4f6d8c; font-weight: 600;">[2026.01]</span> Two papers accepted by ICLR 2026
+- <span style="color: #4f6d8c; font-weight: 600;">[2026.01]</span> One paper accepted by WWW 2026 GLOW Workshop
+- <span style="color: #4f6d8c; font-weight: 600;">[2025.12]</span> Won 9th place in Shanghai University Table Tennis Men's Singles Championship
+- <span style="color: #4f6d8c; font-weight: 600;">[2025.12]</span> One paper accepted by FSE 2026
+- <span style="color: #4f6d8c; font-weight: 600;">[2025.12]</span> Three papers accepted by AAMAS 2026
+- <span style="color: #4f6d8c; font-weight: 600;">[2025.12]</span> One paper accepted by ICSE 2026 SEIP track
+- <span style="color: #4f6d8c; font-weight: 600;">[2025.12]</span> Two papers accepted by ICSE 2026
+- <span style="color: #4f6d8c; font-weight: 600;">[2025.11]</span> Invited talk at Ant Group: "How to understand and debug large and complex programs?"
+- <span style="color: #4f6d8c; font-weight: 600;">[2025.11]</span> Invited talk at CCF Synonym: "Hierarchical debugging with LLMs."
+- <span style="color: #4f6d8c; font-weight: 600;">[2025.11]</span> Invited talk at CCF Synonym: "How to compress long code context?"
+- <span style="color: #4f6d8c; font-weight: 600;">[2025.10]</span> Invited talk at ByteDance Software Engineering Lab: "Dealing with long context problem in SE."
+- <span style="color: #4f6d8c; font-weight: 600;">[2025.10]</span> One paper accepted by ICSE 2026
+- <span style="color: #4f6d8c; font-weight: 600;">[2025.10]</span> One paper accepted by ASE 2025
+- <span style="color: #4f6d8c; font-weight: 600;">[2025.08]</span> One paper accepted by EMNLP 2025 Findings
+- <span style="color: #4f6d8c; font-weight: 600;">[2025.05]</span> One paper accepted by ACL 2025 KnowFM Workshop
+- <span style="color: #4f6d8c; font-weight: 600;">[2024.10]</span> Invited talk at Tongyi Lab, Alibaba: "Hierarchical debugging with LLMs."
+- <span style="color: #4f6d8c; font-weight: 600;">[2024.08]</span> Invited talk at CCF Synonym: "How to detect LLM generated code?"
+- <span style="color: #4f6d8c; font-weight: 600;">[2024.07]</span> One paper accepted by ICSE 2025
 
 ## &#x1F4DD; Publications 
 † denotes equal contribution.
