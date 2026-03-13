@@ -79,6 +79,8 @@ My research focuses on **LLM for Code** — enabling large language models to ef
   <a class="flow-item" href="https://www.computer.org/csdl/proceedings-article/icse/2025/056900a051/215aWoRvPCE">Between Lines of Code <span class="fv">ICSE '25</span></a>
   <a class="flow-item" href="https://arxiv.org/abs/2601.00376">In Line with Context <span class="fv">FSE '26</span></a>
   <a class="flow-item" href="https://arxiv.org/abs/2508.04295">EVOC2RUST <span class="fv">ICSE '26 SEIP</span></a>
+  <a class="flow-item" href="https://arxiv.org/abs/2509.26628">Attention as a Compass <span class="fv">ICLR '26</span></a>
+  <a class="flow-item" href="https://doi.org/10.48550/arXiv.2601.11255">Reasoning in Trees <span class="fv">WWW '26 GLOW</span></a>
 </div>
 <div class="flow-sub">Debugging & Testing</div>
 <div class="flow-items">
@@ -94,11 +96,16 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 <div class="flow-items">
   <a class="flow-item" href="https://arxiv.org/abs/2507.23348">SWE-Debate <span class="fv">ICSE '26</span></a>
   <a class="flow-item" href="https://arxiv.org/abs/2507.23361">SWE-Exp <span class="fv">Preprint</span></a>
+  <a class="flow-item" href="https://arxiv.org/abs/2510.10611">HyperAgent <span class="fv">AAMAS '26</span></a>
+  <a class="flow-item" href="https://arxiv.org/abs/2510.10581">GraphTracer <span class="fv">AAMAS '26</span></a>
+  <a class="flow-item" href="https://arxiv.org/abs/2510.10585">D³MAS <span class="fv">AAMAS '26</span></a>
 </div>
 <div class="flow-sub">Benchmarking & Reliability</div>
 <div class="flow-items">
   <a class="flow-item" href="https://arxiv.org/abs/2509.14635">SWE-QA <span class="fv">Preprint</span></a>
   <a class="flow-item" href="https://chengcheng-wan.github.io/paper/26-ICSE-Comfrey.pdf">Comfrey <span class="fv">ICSE '26</span></a>
+  <a class="flow-item" href="https://arxiv.org/abs/2506.21614">LastingBench <span class="fv">EMNLP '25</span></a>
+  <a class="flow-item" href="https://arxiv.org/abs/2510.20498">Robust Preference Alignment <span class="fv">ICLR '26</span></a>
 </div>
 </div>
 
