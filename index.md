@@ -68,7 +68,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 <div class="flow-sub">Output Efficiency</div>
 <div class="flow-items">
   <a class="flow-item" href="https://arxiv.org/abs/2601.05110">GlimpRouter <span class="fv">Preprint</span></a>
-  <a class="flow-item" href="https://arxiv.org/abs/2508.05988">Pruning the Unsurprising <span class="fv">Preprint</span></a>
+  <a class="flow-item" href="https://arxiv.org/abs/2508.05988">ASAP <span class="fv">Preprint</span></a>
 </div>
 </div>
 
@@ -76,16 +76,16 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 <h4>Correct Production — Generating and debugging code</h4>
 <div class="flow-sub">Understanding & Generation</div>
 <div class="flow-items">
-  <a class="flow-item" href="https://www.computer.org/csdl/proceedings-article/icse/2025/056900a051/215aWoRvPCE">Between Lines of Code <span class="fv">ICSE '25</span></a>
-  <a class="flow-item" href="https://arxiv.org/abs/2601.00376">In Line with Context <span class="fv">FSE '26</span></a>
+  <a class="flow-item" href="https://www.computer.org/csdl/proceedings-article/icse/2025/056900a051/215aWoRvPCE">DetectCodeGPT <span class="fv">ICSE '25</span></a>
+  <a class="flow-item" href="https://arxiv.org/abs/2601.00376">InlineCoder <span class="fv">FSE '26</span></a>
   <a class="flow-item" href="https://arxiv.org/abs/2508.04295">EVOC2RUST <span class="fv">ICSE '26 SEIP</span></a>
-  <a class="flow-item" href="https://arxiv.org/abs/2509.26628">Attention as a Compass <span class="fv">ICLR '26</span></a>
-  <a class="flow-item" href="https://doi.org/10.48550/arXiv.2601.11255">Reasoning in Trees <span class="fv">WWW '26 GLOW</span></a>
+  <a class="flow-item" href="https://arxiv.org/abs/2509.26628">AttentionRL <span class="fv">ICLR '26</span></a>
+  <a class="flow-item" href="https://doi.org/10.48550/arXiv.2601.11255">RTRAG <span class="fv">WWW '26 GLOW</span></a>
 </div>
 <div class="flow-sub">Debugging & Testing</div>
 <div class="flow-items">
-  <a class="flow-item" href="https://arxiv.org/abs/2410.01215">From Code to Correctness <span class="fv">ICSE '26</span></a>
-  <a class="flow-item" href="https://arxiv.org/abs/2602.08146">Test vs Mutant <span class="fv">Preprint</span></a>
+  <a class="flow-item" href="https://arxiv.org/abs/2410.01215">MGDebugger <span class="fv">ICSE '26</span></a>
+  <a class="flow-item" href="https://arxiv.org/abs/2602.08146">AdverTest <span class="fv">Preprint</span></a>
   <a class="flow-item" href="https://arxiv.org/abs/2602.07900">Rethinking Agent Tests <span class="fv">Preprint</span></a>
 </div>
 </div>
@@ -105,7 +105,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
   <a class="flow-item" href="https://arxiv.org/abs/2509.14635">SWE-QA <span class="fv">Preprint</span></a>
   <a class="flow-item" href="https://chengcheng-wan.github.io/paper/26-ICSE-Comfrey.pdf">Comfrey <span class="fv">ICSE '26</span></a>
   <a class="flow-item" href="https://arxiv.org/abs/2506.21614">LastingBench <span class="fv">EMNLP '25</span></a>
-  <a class="flow-item" href="https://arxiv.org/abs/2510.20498">Robust Preference Alignment <span class="fv">ICLR '26</span></a>
+  <a class="flow-item" href="https://arxiv.org/abs/2510.20498">RPS <span class="fv">ICLR '26</span></a>
 </div>
 </div>
 
