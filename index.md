@@ -40,21 +40,14 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 .flow-stage.s3::before { background: #e67e22; }
 .flow-stage h4 { margin: 0 0 0.5em 0; font-size: 0.86rem; font-weight: 700; color: #333; }
 .flow-stage .flow-group {
-  position: relative; margin-left: 1em; padding-left: 1em;
-  border-left: 1.5px solid #e0e0e0; margin-bottom: 0;
-  padding-bottom: 0.3em;
+  margin-left: 0.5em; padding-left: 1em; margin-bottom: 0.4em;
+  border-left: 2.5px solid #e0e0e0; padding-top: 0.15em; padding-bottom: 0.15em;
 }
-.flow-stage .flow-group:last-child {
-  border-left-color: transparent;
-  background: linear-gradient(#e0e0e0, #e0e0e0) no-repeat left top / 1.5px 50%;
-}
+.flow-stage.s1 .flow-group { border-left-color: #a3c4e4; }
+.flow-stage.s2 .flow-group { border-left-color: #a3d9b1; }
+.flow-stage.s3 .flow-group { border-left-color: #f0c78a; }
 .flow-stage .flow-sub {
   font-size: 0.76rem; font-weight: 600; color: #666; margin: 0 0 0.15em 0;
-  position: relative; padding-left: 0.2em;
-}
-.flow-stage .flow-sub::before {
-  content: ''; position: absolute; left: -1em; top: 50%;
-  width: 0.8em; border-top: 1.5px solid #e0e0e0;
 }
 .flow-stage .flow-items { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 0.3em; }
 .flow-item {
