@@ -46,123 +46,12 @@ We have multiple potential projects available with abundant computing resources!
 
 ## 🔬 Research Overview
 
-<div id="research-tree-container">
+<div id="research-flow-container">
 <style>
-#research-tree-container {
+#research-flow-container {
   margin: 0 0 2em 0;
   font-family: inherit;
 }
-.tree-tabs {
-  display: flex;
-  gap: 0;
-  border-bottom: 2px solid #e0e0e0;
-  margin-bottom: 1.5em;
-  flex-wrap: wrap;
-}
-.tree-tab {
-  padding: 8px 18px;
-  cursor: pointer;
-  font-size: 0.85rem;
-  font-weight: 500;
-  color: #888;
-  border-bottom: 2px solid transparent;
-  margin-bottom: -2px;
-  transition: all 0.2s;
-  background: none;
-  border-top: none;
-  border-left: none;
-  border-right: none;
-  white-space: nowrap;
-}
-.tree-tab:hover { color: #333; }
-.tree-tab.active {
-  color: #03396c;
-  border-bottom-color: #03396c;
-  font-weight: 600;
-}
-.tree-version { display: none; }
-.tree-version.active { display: block; }
-
-/* ===== Style A: Tree ===== */
-.rt {
-  --line-color: #c8d6e5;
-  --node-border: #d1dce6;
-  --root-bg: #03396c;
-  --root-color: #fff;
-  --rq-bg: #1a5276;
-  --rq-color: #fff;
-  --cat-bg: #e8f0fe;
-  --cat-border: #a4c2f4;
-  --cat-color: #1a3a5c;
-  --leaf-bg: #fff;
-  --paper-color: #555;
-  padding: 0;
-}
-.rt ul { list-style: none; padding-left: 1.6em; margin: 0; position: relative; }
-.rt > ul { padding-left: 0; }
-.rt li { position: relative; padding: 3px 0; }
-.rt ul ul > li::before {
-  content: ''; position: absolute; left: -1em; top: 0; height: 100%;
-  border-left: 1.5px solid var(--line-color);
-}
-.rt ul ul > li::after {
-  content: ''; position: absolute; left: -1em; top: 50%; width: 0.9em;
-  border-top: 1.5px solid var(--line-color);
-}
-.rt ul ul > li:last-child::before { height: 50%; }
-.rt ul ul > li:only-child::before { height: 50%; }
-.rt .node {
-  display: inline-block; padding: 4px 12px; border-radius: 6px;
-  font-size: 0.82rem; line-height: 1.5; vertical-align: middle;
-}
-.rt .root-node {
-  background: var(--root-bg); color: var(--root-color); font-weight: 700;
-  font-size: 0.92rem; padding: 6px 16px; border-radius: 8px;
-}
-.rt .rq-node {
-  background: var(--rq-bg); color: var(--rq-color); font-weight: 600;
-  font-size: 0.84rem; padding: 5px 14px; border-radius: 7px;
-}
-.rt .cat-node {
-  background: var(--cat-bg); border: 1px solid var(--cat-border);
-  color: var(--cat-color); font-weight: 600; font-size: 0.84rem;
-}
-.rt .leaf-node {
-  background: var(--leaf-bg); border: 1px solid var(--node-border);
-  color: #333; font-weight: 400;
-}
-.rt .leaf-node .paper-venue { color: var(--paper-color); font-size: 0.75rem; margin-left: 4px; }
-.rt .leaf-node a { color: #03396c; text-decoration: none; font-weight: 500; }
-.rt .leaf-node a:hover { text-decoration: underline; }
-.rt .evolve-label { display: inline-block; font-size: 0.7rem; color: #999; font-style: italic; margin-left: 6px; }
-
-/* ===== Style B: Cards ===== */
-.rq-cards { display: flex; flex-direction: column; gap: 1.2em; }
-.rq-card {
-  border-radius: 10px; padding: 1em 1.2em; border-left: 4px solid;
-}
-.rq-card.rq1 { background: #eef6ff; border-left-color: #2980b9; }
-.rq-card.rq2 { background: #eefbf3; border-left-color: #27ae60; }
-.rq-card.rq3 { background: #fef9ee; border-left-color: #e67e22; }
-.rq-card h4 {
-  margin: 0 0 0.6em 0; font-size: 0.88rem; font-weight: 700;
-}
-.rq-card.rq1 h4 { color: #1a5276; }
-.rq-card.rq2 h4 { color: #1e6e3e; }
-.rq-card.rq3 h4 { color: #a0560a; }
-.rq-sub { margin: 0.4em 0 0.3em 0; font-size: 0.78rem; font-weight: 600; color: #666; }
-.rq-card ul { list-style: none; padding: 0; margin: 0 0 0.5em 0; }
-.rq-card li {
-  padding: 3px 0; font-size: 0.8rem; color: #333;
-  display: flex; align-items: baseline; gap: 6px;
-}
-.rq-card li::before { content: '•'; color: #aaa; flex-shrink: 0; }
-.rq-card li a { color: #03396c; text-decoration: none; font-weight: 500; }
-.rq-card li a:hover { text-decoration: underline; }
-.rq-card .venue { color: #888; font-size: 0.72rem; }
-.rq-card .desc { color: #777; font-size: 0.72rem; font-style: italic; }
-
-/* ===== Style C: Flow ===== */
 .rq-flow { display: flex; flex-direction: column; gap: 0; position: relative; padding-left: 2em; }
 .rq-flow::before {
   content: ''; position: absolute; left: 0.7em; top: 0; bottom: 0;
@@ -188,164 +77,32 @@ We have multiple potential projects available with abundant computing resources!
 }
 .flow-item:hover { background: #f0f4ff; border-color: #a4c2f4; text-decoration: none; }
 .flow-item .fv { font-size: 0.65rem; color: #999; margin-left: 3px; }
-
 @media (max-width: 600px) {
-  .rt ul { padding-left: 1.2em; }
-  .rt .node { font-size: 0.75rem; padding: 3px 8px; }
-  .tree-tab { padding: 6px 10px; font-size: 0.78rem; }
-  .rq-card { padding: 0.8em; }
   .rq-flow { padding-left: 1.6em; }
+  .flow-item { font-size: 0.7rem; padding: 2px 8px; }
 }
 </style>
 
-<div class="tree-tabs">
-  <button class="tree-tab active" onclick="showTreeVersion(0)">Tree</button>
-  <button class="tree-tab" onclick="showTreeVersion(1)">Cards</button>
-  <button class="tree-tab" onclick="showTreeVersion(2)">Flow</button>
-</div>
-
-<!-- ============ Version A: Tree ============ -->
-<div class="tree-version active" id="tree-v0">
-<div class="rt">
-<ul>
-<li><span class="node root-node">LLM for Code</span>
-<ul>
-<!-- Q1 -->
-<li><span class="node rq-node">Q1: How to efficiently process long code context?</span>
-<ul>
-<li><span class="node cat-node">Text-based Compression</span>
-<ul>
-  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2510.00446">LongCodeZip</a> <span class="paper-venue">ASE '25</span> <span class="evolve-label">— dual-stage code compression</span></span></li>
-  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2601.16746">SWE-Pruner</a> <span class="paper-venue">Preprint</span> <span class="evolve-label">— neural skimmer for agents</span></span></li>
-  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2503.10720">AttentionRAG</a> <span class="paper-venue">ACL '25 WS</span> <span class="evolve-label">— attention-guided pruning</span></span></li>
-</ul>
-</li>
-<li><span class="node cat-node">Beyond-Text Compression</span>
-<ul>
-  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2602.01785">CodeOCR</a> <span class="paper-venue">Preprint</span> <span class="evolve-label">— code-as-image visual compression</span></span></li>
-  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2601.05110">GlimpRouter</a> <span class="paper-venue">Preprint</span> <span class="evolve-label">— first-token entropy routing</span></span></li>
-  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2508.05988">Pruning the Unsurprising</a> <span class="paper-venue">Preprint</span> <span class="evolve-label">— surprisal-based CoT pruning</span></span></li>
-</ul>
-</li>
-</ul>
-</li>
-<!-- Q2 -->
-<li><span class="node rq-node">Q2: How to correctly generate and validate code?</span>
-<ul>
-<li><span class="node cat-node">Understanding & Generation</span>
-<ul>
-  <li><span class="node leaf-node"><a href="https://www.computer.org/csdl/proceedings-article/icse/2025/056900a051/215aWoRvPCE">Between Lines of Code</a> <span class="paper-venue">ICSE '25</span> <span class="evolve-label">— human vs. machine code patterns</span></span></li>
-  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2601.00376">In Line with Context</a> <span class="paper-venue">FSE '26</span> <span class="evolve-label">— repo-level code generation</span></span></li>
-  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2508.04295">EVOC2RUST</a> <span class="paper-venue">ICSE '26 SEIP</span> <span class="evolve-label">— project-level C-to-Rust translation</span></span></li>
-</ul>
-</li>
-<li><span class="node cat-node">Debugging & Testing</span>
-<ul>
-  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2410.01215">From Code to Correctness</a> <span class="paper-venue">ICSE '26</span> <span class="evolve-label">— hierarchical debugging</span></span></li>
-  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2602.08146">Test vs Mutant</a> <span class="paper-venue">Preprint</span> <span class="evolve-label">— adversarial test generation</span></span></li>
-  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2602.07900">Rethinking Agent Tests</a> <span class="paper-venue">Preprint</span> <span class="evolve-label">— value of agent-generated tests</span></span></li>
-</ul>
-</li>
-</ul>
-</li>
-<!-- Q3 -->
-<li><span class="node rq-node">Q3: How to build autonomous SE agents?</span>
-<ul>
-<li><span class="node cat-node">Multi-Agent Collaboration</span>
-<ul>
-  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2507.23348">SWE-Debate</a> <span class="paper-venue">ICSE '26</span> <span class="evolve-label">— competitive multi-agent debate</span></span></li>
-  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2507.23361">SWE-Exp</a> <span class="paper-venue">Preprint</span> <span class="evolve-label">— experience-driven learning</span></span></li>
-</ul>
-</li>
-<li><span class="node cat-node">Benchmarking & Reliability</span>
-<ul>
-  <li><span class="node leaf-node"><a href="https://arxiv.org/abs/2509.14635">SWE-QA</a> <span class="paper-venue">Preprint</span> <span class="evolve-label">— repo-level code QA benchmark</span></span></li>
-  <li><span class="node leaf-node"><a href="https://chengcheng-wan.github.io/paper/26-ICSE-Comfrey.pdf">Comfrey</a> <span class="paper-venue">ICSE '26</span> <span class="evolve-label">— runtime integration reliability</span></span></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-<!-- ============ Version B: Cards ============ -->
-<div class="tree-version" id="tree-v1">
-<div class="rq-cards">
-
-<div class="rq-card rq1">
-<h4>Q1: How to efficiently process long code context?</h4>
-<div class="rq-sub">Text-based Compression</div>
-<ul>
-  <li><a href="https://arxiv.org/abs/2510.00446">LongCodeZip</a> <span class="venue">ASE '25</span> <span class="desc">— dual-stage 5.6x compression</span></li>
-  <li><a href="https://arxiv.org/abs/2601.16746">SWE-Pruner</a> <span class="venue">Preprint</span> <span class="desc">— neural skimmer for agents</span></li>
-  <li><a href="https://arxiv.org/abs/2503.10720">AttentionRAG</a> <span class="venue">ACL '25 WS</span> <span class="desc">— attention-guided pruning</span></li>
-</ul>
-<div class="rq-sub">Beyond-Text Compression</div>
-<ul>
-  <li><a href="https://arxiv.org/abs/2602.01785">CodeOCR</a> <span class="venue">Preprint</span> <span class="desc">— code-as-image 8x compression</span></li>
-  <li><a href="https://arxiv.org/abs/2601.05110">GlimpRouter</a> <span class="venue">Preprint</span> <span class="desc">— first-token entropy routing</span></li>
-  <li><a href="https://arxiv.org/abs/2508.05988">Pruning the Unsurprising</a> <span class="venue">Preprint</span> <span class="desc">— surprisal-based CoT pruning</span></li>
-</ul>
-</div>
-
-<div class="rq-card rq2">
-<h4>Q2: How to correctly generate and validate code?</h4>
-<div class="rq-sub">Understanding & Generation</div>
-<ul>
-  <li><a href="https://www.computer.org/csdl/proceedings-article/icse/2025/056900a051/215aWoRvPCE">Between Lines of Code</a> <span class="venue">ICSE '25</span> <span class="desc">— human vs. machine code patterns</span></li>
-  <li><a href="https://arxiv.org/abs/2601.00376">In Line with Context</a> <span class="venue">FSE '26</span> <span class="desc">— repo-level generation</span></li>
-  <li><a href="https://arxiv.org/abs/2508.04295">EVOC2RUST</a> <span class="venue">ICSE '26 SEIP</span> <span class="desc">— project-level C-to-Rust</span></li>
-</ul>
-<div class="rq-sub">Debugging & Testing</div>
-<ul>
-  <li><a href="https://arxiv.org/abs/2410.01215">From Code to Correctness</a> <span class="venue">ICSE '26</span> <span class="desc">— hierarchical debugging, 97.6% fix rate</span></li>
-  <li><a href="https://arxiv.org/abs/2602.08146">Test vs Mutant</a> <span class="venue">Preprint</span> <span class="desc">— adversarial test generation</span></li>
-  <li><a href="https://arxiv.org/abs/2602.07900">Rethinking Agent Tests</a> <span class="venue">Preprint</span> <span class="desc">— value of agent-generated tests</span></li>
-</ul>
-</div>
-
-<div class="rq-card rq3">
-<h4>Q3: How to build autonomous SE agents?</h4>
-<div class="rq-sub">Multi-Agent Collaboration</div>
-<ul>
-  <li><a href="https://arxiv.org/abs/2507.23348">SWE-Debate</a> <span class="venue">ICSE '26</span> <span class="desc">— competitive multi-agent debate</span></li>
-  <li><a href="https://arxiv.org/abs/2507.23361">SWE-Exp</a> <span class="venue">Preprint</span> <span class="desc">— experience-driven learning</span></li>
-</ul>
-<div class="rq-sub">Benchmarking & Reliability</div>
-<ul>
-  <li><a href="https://arxiv.org/abs/2509.14635">SWE-QA</a> <span class="venue">Preprint</span> <span class="desc">— repo-level code QA benchmark</span></li>
-  <li><a href="https://chengcheng-wan.github.io/paper/26-ICSE-Comfrey.pdf">Comfrey</a> <span class="venue">ICSE '26</span> <span class="desc">— runtime integration reliability</span></li>
-</ul>
-</div>
-
-</div>
-</div>
-
-<!-- ============ Version C: Flow ============ -->
-<div class="tree-version" id="tree-v2">
 <div class="rq-flow">
 
 <div class="flow-stage s1">
-<h4>Q1: How to efficiently process long code context?</h4>
-<div class="flow-sub">Text-based Compression</div>
+<h4>Efficient Understanding — Compressing long code context</h4>
+<div class="flow-sub">Input Efficiency</div>
 <div class="flow-items">
   <a class="flow-item" href="https://arxiv.org/abs/2510.00446">LongCodeZip <span class="fv">ASE '25</span></a>
+  <a class="flow-item" href="https://arxiv.org/abs/2602.01785">CodeOCR <span class="fv">Preprint</span></a>
   <a class="flow-item" href="https://arxiv.org/abs/2601.16746">SWE-Pruner <span class="fv">Preprint</span></a>
   <a class="flow-item" href="https://arxiv.org/abs/2503.10720">AttentionRAG <span class="fv">ACL '25 WS</span></a>
 </div>
-<div class="flow-sub">Beyond-Text Compression</div>
+<div class="flow-sub">Output Efficiency</div>
 <div class="flow-items">
-  <a class="flow-item" href="https://arxiv.org/abs/2602.01785">CodeOCR <span class="fv">Preprint</span></a>
   <a class="flow-item" href="https://arxiv.org/abs/2601.05110">GlimpRouter <span class="fv">Preprint</span></a>
   <a class="flow-item" href="https://arxiv.org/abs/2508.05988">Pruning the Unsurprising <span class="fv">Preprint</span></a>
 </div>
 </div>
 
 <div class="flow-stage s2">
-<h4>Q2: How to correctly generate and validate code?</h4>
+<h4>Correct Production — Generating and debugging code</h4>
 <div class="flow-sub">Understanding & Generation</div>
 <div class="flow-items">
   <a class="flow-item" href="https://www.computer.org/csdl/proceedings-article/icse/2025/056900a051/215aWoRvPCE">Between Lines of Code <span class="fv">ICSE '25</span></a>
@@ -361,7 +118,7 @@ We have multiple potential projects available with abundant computing resources!
 </div>
 
 <div class="flow-stage s3">
-<h4>Q3: How to build autonomous SE agents?</h4>
+<h4>Full Autonomy — Resolving real-world software issues</h4>
 <div class="flow-sub">Multi-Agent Collaboration</div>
 <div class="flow-items">
   <a class="flow-item" href="https://arxiv.org/abs/2507.23348">SWE-Debate <span class="fv">ICSE '26</span></a>
@@ -375,16 +132,6 @@ We have multiple potential projects available with abundant computing resources!
 </div>
 
 </div>
-</div>
-
-<script>
-function showTreeVersion(idx) {
-  document.querySelectorAll('.tree-version').forEach(function(el) { el.classList.remove('active'); });
-  document.querySelectorAll('.tree-tab').forEach(function(el) { el.classList.remove('active'); });
-  document.getElementById('tree-v' + idx).classList.add('active');
-  document.querySelectorAll('.tree-tab')[idx].classList.add('active');
-}
-</script>
 </div>
 
 ## &#x1F4DD; Publications 
