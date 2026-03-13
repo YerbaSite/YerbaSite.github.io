@@ -68,6 +68,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 
 <div class="flow-stage s1">
 <h4>Efficient Understanding — Compressing long code context</h4>
+<div class="flow-group">
 <div class="flow-sub">Input Efficiency</div>
 <div class="flow-items">
   <a class="flow-item" href="https://arxiv.org/abs/2510.00446">🗜️ LongCodeZip <span class="fv">ASE '25</span></a>
@@ -75,10 +76,13 @@ My research focuses on **LLM for Code** — enabling large language models to ef
   <a class="flow-item" href="https://arxiv.org/abs/2601.16746">✂️ SWE-Pruner <span class="fv">Preprint</span></a>
   <a class="flow-item" href="https://arxiv.org/abs/2503.10720">🎯 AttentionRAG <span class="fv">ACL '25 KnowFM</span></a>
 </div>
+</div>
+<div class="flow-group">
 <div class="flow-sub">Output Efficiency</div>
 <div class="flow-items">
   <a class="flow-item" href="https://arxiv.org/abs/2601.05110">🔀 GlimpRouter <span class="fv">Preprint</span></a>
   <a class="flow-item" href="https://arxiv.org/abs/2508.05988">⚡ ASAP <span class="fv">Preprint</span></a>
+</div>
 </div>
 </div>
 
