@@ -101,6 +101,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
           <a class="pill" href="https://www.computer.org/csdl/proceedings-article/icse/2025/056900a051/215aWoRvPCE">🔍 DetectCodeGPT <span class="v">ICSE '25</span></a>
           <a class="pill" href="https://arxiv.org/abs/2601.00376">📝 InlineCoder <span class="v">FSE '26</span></a>
           <a class="pill" href="https://arxiv.org/abs/2508.04295">🦀 EVOC2RUST <span class="v">ICSE '26 SEIP</span></a>
+          <a class="pill" href="https://arxiv.org/abs/2602.07882">📐 LM-CC <span class="v">Preprint</span></a>
           <!-- <a class="pill" href="https://arxiv.org/abs/2509.26628">🧭 AttentionRL <span class="v">ICLR '26</span></a> -->
           <!-- <a class="pill" href="https://doi.org/10.48550/arXiv.2601.11255">🌳 RTRAG <span class="v">WWW '26 GLOW</span></a> -->
         </div></div>
@@ -262,6 +263,10 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 
 <details class="pub-collapsible" markdown="1">
 <summary><strong>Other Preprints</strong> — click to expand</summary>
+
+- <strong><span style="color: #03396c;">Rethinking Code Complexity Through the Lens of Large Language Models</span></strong>  
+  [Preprint](https://arxiv.org/abs/2602.07882)  
+  Chen Xie, <u><strong>Yuling Shi</strong></u>, Xiaodong Gu, Beijun Shen
 
 - <strong><span style="color: #03396c;">Rethinking the Value of Agent-Generated Tests for LLM-Based Software Engineering Agents</span></strong>  
   [Preprint](https://arxiv.org/abs/2602.07900)  
