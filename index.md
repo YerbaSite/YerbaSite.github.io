@@ -17,20 +17,145 @@ We have multiple potential projects available with abundant computing resources!
 
 My research focuses on **LLM for Code** — enabling large language models to efficiently understand, correctly produce, and autonomously resolve real-world software engineering problems.
 
-## 🔬 Research Overview
-
-My research focuses on **LLM for Code** — enabling large language models to efficiently understand, correctly produce, and autonomously resolve real-world software engineering problems.
-
 <div id="research-tree">
 <style>
-/* ===== Tree Layout ===== */
-#research-tree { margin: 1em 0 2em; overflow-x: auto; }
-.tree { display: flex; flex-direction: column; align-items: center; }
-.tree ul { display: flex; padding-top: 1.2em; position: relative; list-style: none; margin: 0; padding-left: 0; justify-content: center; }
-.tree li { display: flex; flex-direction: column; align-items: center; position: relative; padding: 1.2em 0.4em 0; }
-/* vertical line down from parent */
-.tree li::before {
-  content: ''; position: absolute; top: 0; left: 50%;
+#research-tree { margin: 1em 0 2em; }
+/* horizontal tree */
+.htree { display: flex; align-items: center; }
+.htree ul { display: flex; flex-direction: column; padding-left: 1.5em; position: relative; list-style: none; margin: 0; }
+.htree > ul { padding-left: 0; }
+.htree li { display: flex; align-items: center; position: relative; padding: 0.35em 0; }
+/* vertical line connecting siblings */
+.htree ul ul > li::before {
+  content: ''; position: absolute; left: -1em; top: 0; height: 100%;
+  border-left: 1.5px solid #d0d8e0;
+}
+.htree ul ul > li:first-child::before { top: 50%; height: 50%; }
+.htree ul ul > li:last-child::before { height: 50%; }
+.htree ul ul > li:only-child::before { display: none; }
+/* horizontal line from parent to child */
+.htree ul ul > li::after {
+  content: ''; position: absolute; left: -1em; top: 50%;
+  width: 1em; border-top: 1.5px solid #d0d8e0;
+}
+.htree ul ul > li:only-child::after { display: none; }
+/* nodes */
+.htree .nd {
+  display: inline-flex; align-items: center; padding: 5px 14px; border-radius: 20px;
+  font-size: 0.78rem; line-height: 1.4; white-space: nowrap; flex-shrink: 0;
+}
+.htree .nd-root {
+  background: linear-gradient(135deg, #667eea, #764ba2); color: #fff;
+  font-weight: 700; font-size: 0.9rem; padding: 8px 20px;
+  border-radius: 24px; box-shadow: 0 2px 8px rgba(102,126,234,0.3);
+}
+.htree .nd-rq {
+  font-weight: 600; font-size: 0.8rem; color: #fff;
+  padding: 5px 16px; border-radius: 20px; box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+}
+.htree .nd-rq.rq1 { background: linear-gradient(135deg, #74b9ff, #0984e3); }
+.htree .nd-rq.rq2 { background: linear-gradient(135deg, #55efc4, #00b894); }
+.htree .nd-rq.rq3 { background: linear-gradient(135deg, #ffeaa7, #fdcb6e); color: #5a4e2f; }
+.htree .nd-sub {
+  background: #f8f9fb; border: 1px solid #e2e8f0; color: #555;
+  font-weight: 600; font-size: 0.72rem; padding: 3px 10px; border-radius: 14px;
+}
+/* paper pills */
+.htree .leaf-wrap { display: flex; align-items: center; }
+.htree .pills { display: flex; flex-wrap: wrap; gap: 4px; margin-left: 0.6em; max-width: 520px; }
+.htree .pill {
+  display: inline-block; padding: 2px 9px; border-radius: 12px;
+  font-size: 0.68rem; border: 1px solid #e8ecf1; background: #fff;
+  color: #444; text-decoration: none; transition: all 0.15s; white-space: nowrap;
+}
+.htree .pill:hover { background: #f0f4ff; border-color: #a4c2f4; }
+.htree .pill .v { font-size: 0.57rem; color: #aaa; margin-left: 2px; }
+@media (max-width: 768px) {
+  .htree ul { padding-left: 1.2em; }
+  .htree .pills { max-width: 50vw; }
+  .htree .nd { font-size: 0.7rem; padding: 3px 10px; }
+  .htree .pill { font-size: 0.6rem; padding: 1px 6px; }
+}
+</style>
+
+<div class="htree">
+<ul><li>
+  <span class="nd nd-root">LLM for Code</span>
+  <ul>
+    <li>
+      <span class="nd nd-rq rq1">Efficient Understanding</span>
+      <ul>
+        <li><div class="leaf-wrap"><span class="nd nd-sub">Input Efficiency</span>
+          <div class="pills">
+            <a class="pill" href="https://arxiv.org/abs/2510.00446">🗜️ LongCodeZip <span class="v">ASE '25</span></a>
+            <a class="pill" href="https://arxiv.org/abs/2602.01785">👁️ CodeOCR <span class="v">Preprint</span></a>
+            <a class="pill" href="https://arxiv.org/abs/2601.16746">✂️ SWE-Pruner <span class="v">Preprint</span></a>
+            <a class="pill" href="https://arxiv.org/abs/2503.10720">🎯 AttentionRAG <span class="v">ACL '25 KnowFM</span></a>
+          </div></div>
+        </li>
+        <li><div class="leaf-wrap"><span class="nd nd-sub">Output Efficiency</span>
+          <div class="pills">
+            <a class="pill" href="https://arxiv.org/abs/2601.05110">🔀 GlimpRouter <span class="v">Preprint</span></a>
+            <a class="pill" href="https://arxiv.org/abs/2508.05988">⚡ ASAP <span class="v">Preprint</span></a>
+          </div></div>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="nd nd-rq rq2">Correct Production</span>
+      <ul>
+        <li><div class="leaf-wrap"><span class="nd nd-sub">Understanding & Generation</span>
+          <div class="pills">
+            <a class="pill" href="https://www.computer.org/csdl/proceedings-article/icse/2025/056900a051/215aWoRvPCE">🔍 DetectCodeGPT <span class="v">ICSE '25</span></a>
+            <a class="pill" href="https://arxiv.org/abs/2601.00376">📝 InlineCoder <span class="v">FSE '26</span></a>
+            <a class="pill" href="https://arxiv.org/abs/2508.04295">🦀 EVOC2RUST <span class="v">ICSE '26 SEIP</span></a>
+            <a class="pill" href="https://arxiv.org/abs/2509.26628">🧭 AttentionRL <span class="v">ICLR '26</span></a>
+            <a class="pill" href="https://doi.org/10.48550/arXiv.2601.11255">🌳 RTRAG <span class="v">WWW '26 GLOW</span></a>
+          </div></div>
+        </li>
+        <li><div class="leaf-wrap"><span class="nd nd-sub">Debugging & Testing</span>
+          <div class="pills">
+            <a class="pill" href="https://arxiv.org/abs/2410.01215">🐛 MGDebugger <span class="v">ICSE '26</span></a>
+            <a class="pill" href="https://arxiv.org/abs/2602.08146">⚔️ AdverTest <span class="v">Preprint</span></a>
+            <a class="pill" href="https://arxiv.org/abs/2602.07900">🧪 Rethinking Agent Tests <span class="v">Preprint</span></a>
+          </div></div>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <span class="nd nd-rq rq3">Full Autonomy</span>
+      <ul>
+        <li><div class="leaf-wrap"><span class="nd nd-sub">Multi-Agent Collaboration</span>
+          <div class="pills">
+            <a class="pill" href="https://arxiv.org/abs/2507.23348">💬 SWE-Debate <span class="v">ICSE '26</span></a>
+            <a class="pill" href="https://arxiv.org/abs/2507.23361">📚 SWE-Exp <span class="v">Preprint</span></a>
+            <a class="pill" href="https://arxiv.org/abs/2510.10611">🕸️ HyperAgent <span class="v">AAMAS '26</span></a>
+            <a class="pill" href="https://arxiv.org/abs/2510.10581">📊 GraphTracer <span class="v">AAMAS '26</span></a>
+            <a class="pill" href="https://arxiv.org/abs/2510.10585">🤝 D³MAS <span class="v">AAMAS '26</span></a>
+          </div></div>
+        </li>
+        <li><div class="leaf-wrap"><span class="nd nd-sub">Benchmarking & Reliability</span>
+          <div class="pills">
+            <a class="pill" href="https://arxiv.org/abs/2509.14635">🧐 SWE-QA <span class="v">Preprint</span></a>
+            <a class="pill" href="https://chengcheng-wan.github.io/paper/26-ICSE-Comfrey.pdf">🛡️ Comfrey <span class="v">ICSE '26</span></a>
+            <a class="pill" href="https://arxiv.org/abs/2506.21614">📏 LastingBench <span class="v">EMNLP '25</span></a>
+            <a class="pill" href="https://arxiv.org/abs/2510.20498">🔒 RPS <span class="v">ICLR '26</span></a>
+          </div></div>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</li></ul>
+</div>
+</div>
+
+## &#x1F4F0; News
+
+<!-- - <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Received ACM SIGSOFT ICSE 2026 CAPS Grant (Travel Support) -->
+- <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Serving as PC member of AIWare 2026 Datasets &amp; Benchmarks track; submissions are welcome
+- <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Two papers accepted by CVPR 2026
+- <span style="color: #4f6d8c; font-weight: 600;">[2026.01]</span> Serving as PC member of AIware 2026; submissions are welcome
+- <span style="color: #4f6d8c; font-weight: 600;">[2026.01]</span> Awarded Shanghai Association for Artificial Intelligence Youth Outstanding Paper Award
   width: 0; height: 1.2em; border-left: 1.5px solid #c0c0c0;
 }
 /* horizontal line across siblings */
