@@ -109,7 +109,6 @@ My research focuses on **LLM for Code** — enabling large language models to ef
         <div class="pills">
           <a class="pill" href="https://arxiv.org/abs/2410.01215">🐛 MGDebugger <span class="v">ICSE '26</span></a>
           <a class="pill" href="https://arxiv.org/abs/2602.08146">⚔️ AdverTest <span class="v">Preprint</span></a>
-          <a class="pill" href="https://arxiv.org/abs/2602.07900">🧪 Rethinking Agent Tests <span class="v">Preprint</span></a>
         </div></div>
       </li>
     </ul>
@@ -117,10 +116,11 @@ My research focuses on **LLM for Code** — enabling large language models to ef
   <li>
     <span class="nd nd-rq rq3">Q3: How to Achieve Full Autonomy?</span>
     <ul>
-      <li><div class="leaf-wrap"><span class="nd nd-sub">Multi-Agent Collaboration</span>
+      <li><div class="leaf-wrap"><span class="nd nd-sub">Agentic Coding</span>
         <div class="pills">
           <a class="pill" href="https://arxiv.org/abs/2507.23348">💬 SWE-Debate <span class="v">ICSE '26</span></a>
           <a class="pill" href="https://arxiv.org/abs/2507.23361">📚 SWE-Exp <span class="v">Preprint</span></a>
+          <a class="pill" href="https://arxiv.org/abs/2602.07900">🧪 Rethinking Agent Tests <span class="v">Preprint</span></a>
           <!-- <a class="pill" href="https://arxiv.org/abs/2510.10611">🕸️ HyperAgent <span class="v">AAMAS '26</span></a>
           <a class="pill" href="https://arxiv.org/abs/2510.10581">📊 GraphTracer <span class="v">AAMAS '26</span></a>
           <a class="pill" href="https://arxiv.org/abs/2510.10585">🤝 D³MAS <span class="v">AAMAS '26</span></a> -->
