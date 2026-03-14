@@ -101,8 +101,8 @@ My research focuses on **LLM for Code** — enabling large language models to ef
           <a class="pill" href="https://www.computer.org/csdl/proceedings-article/icse/2025/056900a051/215aWoRvPCE">🔍 DetectCodeGPT <span class="v">ICSE '25</span></a>
           <a class="pill" href="https://arxiv.org/abs/2601.00376">📝 InlineCoder <span class="v">FSE '26</span></a>
           <a class="pill" href="https://arxiv.org/abs/2508.04295">🦀 EVOC2RUST <span class="v">ICSE '26 SEIP</span></a>
-          <a class="pill" href="https://arxiv.org/abs/2509.26628">🧭 AttentionRL <span class="v">ICLR '26</span></a>
-          <a class="pill" href="https://doi.org/10.48550/arXiv.2601.11255">🌳 RTRAG <span class="v">WWW '26 GLOW</span></a>
+          <!-- <a class="pill" href="https://arxiv.org/abs/2509.26628">🧭 AttentionRL <span class="v">ICLR '26</span></a> -->
+          <!-- <a class="pill" href="https://doi.org/10.48550/arXiv.2601.11255">🌳 RTRAG <span class="v">WWW '26 GLOW</span></a> -->
         </div></div>
       </li>
       <li><div class="leaf-wrap"><span class="nd nd-sub">Debugging &amp; Testing</span>
@@ -121,17 +121,17 @@ My research focuses on **LLM for Code** — enabling large language models to ef
         <div class="pills">
           <a class="pill" href="https://arxiv.org/abs/2507.23348">💬 SWE-Debate <span class="v">ICSE '26</span></a>
           <a class="pill" href="https://arxiv.org/abs/2507.23361">📚 SWE-Exp <span class="v">Preprint</span></a>
-          <a class="pill" href="https://arxiv.org/abs/2510.10611">🕸️ HyperAgent <span class="v">AAMAS '26</span></a>
+          <!-- <a class="pill" href="https://arxiv.org/abs/2510.10611">🕸️ HyperAgent <span class="v">AAMAS '26</span></a>
           <a class="pill" href="https://arxiv.org/abs/2510.10581">📊 GraphTracer <span class="v">AAMAS '26</span></a>
-          <a class="pill" href="https://arxiv.org/abs/2510.10585">🤝 D³MAS <span class="v">AAMAS '26</span></a>
+          <a class="pill" href="https://arxiv.org/abs/2510.10585">🤝 D³MAS <span class="v">AAMAS '26</span></a> -->
         </div></div>
       </li>
       <li><div class="leaf-wrap"><span class="nd nd-sub">Benchmarking &amp; Reliability</span>
         <div class="pills">
           <a class="pill" href="https://arxiv.org/abs/2509.14635">🧐 SWE-QA <span class="v">Preprint</span></a>
-          <a class="pill" href="https://chengcheng-wan.github.io/paper/26-ICSE-Comfrey.pdf">🛡️ Comfrey <span class="v">ICSE '26</span></a>
-          <a class="pill" href="https://arxiv.org/abs/2506.21614">📏 LastingBench <span class="v">EMNLP '25</span></a>
-          <a class="pill" href="https://arxiv.org/abs/2510.20498">🔒 RPS <span class="v">ICLR '26</span></a>
+          <!-- <a class="pill" href="https://chengcheng-wan.github.io/paper/26-ICSE-Comfrey.pdf">🛡️ Comfrey <span class="v">ICSE '26</span></a> -->
+          <!-- <a class="pill" href="https://arxiv.org/abs/2506.21614">📏 LastingBench <span class="v">EMNLP '25</span></a> -->
+          <!-- <a class="pill" href="https://arxiv.org/abs/2510.20498">🔒 RPS <span class="v">ICLR '26</span></a> -->
         </div></div>
       </li>
     </ul>
