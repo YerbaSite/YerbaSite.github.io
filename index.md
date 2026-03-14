@@ -17,119 +17,166 @@ We have multiple potential projects available with abundant computing resources!
 
 My research focuses on **LLM for Code** — enabling large language models to efficiently understand, correctly produce, and autonomously resolve real-world software engineering problems.
 
-<div id="research-flow-container">
+## 🔬 Research Overview
+
+My research focuses on **LLM for Code** — enabling large language models to efficiently understand, correctly produce, and autonomously resolve real-world software engineering problems.
+
+<div id="research-tree">
 <style>
-#research-flow-container {
-  margin: 0 0 2em 0;
-  font-family: inherit;
+/* ===== Tree Layout ===== */
+#research-tree { margin: 1em 0 2em; overflow-x: auto; }
+.tree { display: flex; flex-direction: column; align-items: center; }
+.tree ul { display: flex; padding-top: 1.2em; position: relative; list-style: none; margin: 0; padding-left: 0; justify-content: center; }
+.tree li { display: flex; flex-direction: column; align-items: center; position: relative; padding: 1.2em 0.4em 0; }
+/* vertical line down from parent */
+.tree li::before {
+  content: ''; position: absolute; top: 0; left: 50%;
+  width: 0; height: 1.2em; border-left: 1.5px solid #c0c0c0;
 }
-.rq-flow { display: flex; flex-direction: column; gap: 0; position: relative; padding-left: 2em; }
-.rq-flow::before {
-  content: ''; position: absolute; left: 0.7em; top: 0; bottom: 0;
-  width: 3px; background: linear-gradient(to bottom, #2980b9, #27ae60, #e67e22);
-  border-radius: 2px;
+/* horizontal line across siblings */
+.tree li::after {
+  content: ''; position: absolute; top: 0; left: 0; right: 0;
+  height: 0; border-top: 1.5px solid #c0c0c0;
 }
-.flow-stage { position: relative; padding: 0.8em 0; }
-.flow-stage::before {
-  content: ''; position: absolute; left: -1.65em; top: 1.3em;
-  width: 12px; height: 12px; border-radius: 50%; border: 2.5px solid #fff;
-  box-shadow: 0 0 0 1px #ccc;
+.tree li:first-child::after { left: 50%; }
+.tree li:last-child::after { right: 50%; }
+.tree li:only-child::after { display: none; }
+/* root has no lines above */
+.tree > ul > li::before, .tree > ul > li::after { display: none; }
+/* vertical line down from node to children */
+.tree ul ul { padding-top: 1.2em; }
+.tree li:has(> ul)::after { /* keep horizontal */ }
+.tree ul ul::before {
+  content: ''; position: absolute; top: 0; left: 50%;
+  height: 1.2em; border-left: 1.5px solid #c0c0c0;
 }
-.flow-stage.s1::before { background: #2980b9; }
-.flow-stage.s2::before { background: #27ae60; }
-.flow-stage.s3::before { background: #e67e22; }
-.flow-stage h4 { margin: 0 0 0.5em 0; font-size: 0.86rem; font-weight: 700; color: #333; }
-.flow-stage .flow-group {
-  margin-left: 0.5em; padding-left: 1em; margin-bottom: 0.4em;
-  border-left: 2.5px solid #e0e0e0; padding-top: 0.15em; padding-bottom: 0.15em;
+/* nodes */
+.tree .nd {
+  display: inline-block; padding: 6px 14px; border-radius: 8px;
+  font-size: 0.8rem; line-height: 1.4; text-align: center;
+  white-space: nowrap; position: relative; z-index: 1;
 }
-.flow-stage.s1 .flow-group { border-left-color: #a3c4e4; }
-.flow-stage.s2 .flow-group { border-left-color: #a3d9b1; }
-.flow-stage.s3 .flow-group { border-left-color: #f0c78a; }
-.flow-stage .flow-sub {
-  font-size: 0.76rem; font-weight: 600; color: #666; margin: 0 0 0.15em 0;
+.tree .nd-root {
+  background: #03396c; color: #fff; font-weight: 700; font-size: 0.95rem;
+  padding: 8px 20px; border-radius: 10px;
 }
-.flow-stage .flow-items { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 0.3em; }
-.flow-item {
-  display: inline-block; padding: 3px 10px; border-radius: 14px;
-  font-size: 0.76rem; border: 1px solid #ddd; background: #fff;
+.tree .nd-rq {
+  font-weight: 700; font-size: 0.82rem; color: #fff;
+  padding: 6px 16px; border-radius: 8px; min-width: 100px;
+}
+.tree .nd-rq.rq1 { background: #2980b9; }
+.tree .nd-rq.rq2 { background: #27ae60; }
+.tree .nd-rq.rq3 { background: #e67e22; }
+.tree .nd-sub {
+  background: #f0f4f8; border: 1px solid #d0d8e0; color: #444;
+  font-weight: 600; font-size: 0.76rem; padding: 4px 12px;
+}
+/* paper pills under sub-nodes */
+.tree .papers {
+  display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;
+  padding-top: 0.8em; max-width: 220px; position: relative;
+}
+.tree .papers::before {
+  content: ''; position: absolute; top: 0; left: 50%;
+  height: 0.8em; border-left: 1.5px solid #c0c0c0;
+}
+.tree .pill {
+  display: inline-block; padding: 2px 8px; border-radius: 12px;
+  font-size: 0.68rem; border: 1px solid #ddd; background: #fff;
   color: #333; text-decoration: none; transition: all 0.15s;
+  white-space: nowrap;
 }
-.flow-item:hover { background: #f0f4ff; border-color: #a4c2f4; text-decoration: none; }
-.flow-item .fv { font-size: 0.65rem; color: #999; margin-left: 3px; }
-@media (max-width: 600px) {
-  .rq-flow { padding-left: 1.6em; }
-  .flow-item { font-size: 0.7rem; padding: 2px 8px; }
+.tree .pill:hover { background: #f0f4ff; border-color: #a4c2f4; }
+.tree .pill .v { font-size: 0.58rem; color: #999; margin-left: 2px; }
+/* mobile: stack vertically */
+@media (max-width: 768px) {
+  .tree ul { flex-direction: column; align-items: center; padding-top: 0.8em; }
+  .tree li { padding: 0.6em 0 0; }
+  .tree li::before { height: 0.6em; }
+  .tree li::after { display: none; }
+  .tree ul ul::before { height: 0.6em; }
+  .tree .papers { max-width: 90vw; }
+  .tree .papers::before { height: 0.6em; }
 }
 </style>
 
-<div class="rq-flow">
-
-<div class="flow-stage s1">
-<h4>Efficient Understanding — Compressing long code context</h4>
-<div class="flow-group">
-<div class="flow-sub">Input Efficiency</div>
-<div class="flow-items">
-  <a class="flow-item" href="https://arxiv.org/abs/2510.00446">🗜️ LongCodeZip <span class="fv">ASE '25</span></a>
-  <a class="flow-item" href="https://arxiv.org/abs/2602.01785">👁️ CodeOCR <span class="fv">Preprint</span></a>
-  <a class="flow-item" href="https://arxiv.org/abs/2601.16746">✂️ SWE-Pruner <span class="fv">Preprint</span></a>
-  <a class="flow-item" href="https://arxiv.org/abs/2503.10720">🎯 AttentionRAG <span class="fv">ACL '25 KnowFM</span></a>
-</div>
-</div>
-<div class="flow-group">
-<div class="flow-sub">Output Efficiency</div>
-<div class="flow-items">
-  <a class="flow-item" href="https://arxiv.org/abs/2601.05110">🔀 GlimpRouter <span class="fv">Preprint</span></a>
-  <a class="flow-item" href="https://arxiv.org/abs/2508.05988">⚡ ASAP <span class="fv">Preprint</span></a>
-</div>
-</div>
-</div>
-
-<div class="flow-stage s2">
-<h4>Correct Production — Generating and debugging code</h4>
-<div class="flow-group">
-<div class="flow-sub">Understanding & Generation</div>
-<div class="flow-items">
-  <a class="flow-item" href="https://www.computer.org/csdl/proceedings-article/icse/2025/056900a051/215aWoRvPCE">🔍 DetectCodeGPT <span class="fv">ICSE '25</span></a>
-  <a class="flow-item" href="https://arxiv.org/abs/2601.00376">📝 InlineCoder <span class="fv">FSE '26</span></a>
-  <a class="flow-item" href="https://arxiv.org/abs/2508.04295">🦀 EVOC2RUST <span class="fv">ICSE '26 SEIP</span></a>
-  <a class="flow-item" href="https://arxiv.org/abs/2509.26628">🧭 AttentionRL <span class="fv">ICLR '26</span></a>
-  <a class="flow-item" href="https://doi.org/10.48550/arXiv.2601.11255">🌳 RTRAG <span class="fv">WWW '26 GLOW</span></a>
-</div>
-</div>
-<div class="flow-group">
-<div class="flow-sub">Debugging & Testing</div>
-<div class="flow-items">
-  <a class="flow-item" href="https://arxiv.org/abs/2410.01215">🐛 MGDebugger <span class="fv">ICSE '26</span></a>
-  <a class="flow-item" href="https://arxiv.org/abs/2602.08146">⚔️ AdverTest <span class="fv">Preprint</span></a>
-  <a class="flow-item" href="https://arxiv.org/abs/2602.07900">🧪 Rethinking Agent Tests <span class="fv">Preprint</span></a>
-</div>
-</div>
-</div>
-
-<div class="flow-stage s3">
-<h4>Full Autonomy — Resolving real-world software issues</h4>
-<div class="flow-group">
-<div class="flow-sub">Multi-Agent Collaboration</div>
-<div class="flow-items">
-  <a class="flow-item" href="https://arxiv.org/abs/2507.23348">💬 SWE-Debate <span class="fv">ICSE '26</span></a>
-  <a class="flow-item" href="https://arxiv.org/abs/2507.23361">📚 SWE-Exp <span class="fv">Preprint</span></a>
-  <a class="flow-item" href="https://arxiv.org/abs/2510.10611">🕸️ HyperAgent <span class="fv">AAMAS '26</span></a>
-  <a class="flow-item" href="https://arxiv.org/abs/2510.10581">📊 GraphTracer <span class="fv">AAMAS '26</span></a>
-  <a class="flow-item" href="https://arxiv.org/abs/2510.10585">🤝 D³MAS <span class="fv">AAMAS '26</span></a>
-</div>
-</div>
-<div class="flow-group">
-<div class="flow-sub">Benchmarking & Reliability</div>
-<div class="flow-items">
-  <a class="flow-item" href="https://arxiv.org/abs/2509.14635">🧐 SWE-QA <span class="fv">Preprint</span></a>
-  <a class="flow-item" href="https://chengcheng-wan.github.io/paper/26-ICSE-Comfrey.pdf">🛡️ Comfrey <span class="fv">ICSE '26</span></a>
-  <a class="flow-item" href="https://arxiv.org/abs/2506.21614">📏 LastingBench <span class="fv">EMNLP '25</span></a>
-  <a class="flow-item" href="https://arxiv.org/abs/2510.20498">🔒 RPS <span class="fv">ICLR '26</span></a>
-</div>
-</div>
-</div>
-
+<div class="tree">
+<ul><li>
+  <span class="nd nd-root">LLM for Code</span>
+  <ul>
+    <!-- Q1 -->
+    <li>
+      <span class="nd nd-rq rq1">Efficient Understanding</span>
+      <ul>
+        <li>
+          <span class="nd nd-sub">Input Efficiency</span>
+          <div class="papers">
+            <a class="pill" href="https://arxiv.org/abs/2510.00446">🗜️ LongCodeZip <span class="v">ASE '25</span></a>
+            <a class="pill" href="https://arxiv.org/abs/2602.01785">👁️ CodeOCR <span class="v">Preprint</span></a>
+            <a class="pill" href="https://arxiv.org/abs/2601.16746">✂️ SWE-Pruner <span class="v">Preprint</span></a>
+            <a class="pill" href="https://arxiv.org/abs/2503.10720">🎯 AttentionRAG <span class="v">ACL '25 KnowFM</span></a>
+          </div>
+        </li>
+        <li>
+          <span class="nd nd-sub">Output Efficiency</span>
+          <div class="papers">
+            <a class="pill" href="https://arxiv.org/abs/2601.05110">🔀 GlimpRouter <span class="v">Preprint</span></a>
+            <a class="pill" href="https://arxiv.org/abs/2508.05988">⚡ ASAP <span class="v">Preprint</span></a>
+          </div>
+        </li>
+      </ul>
+    </li>
+    <!-- Q2 -->
+    <li>
+      <span class="nd nd-rq rq2">Correct Production</span>
+      <ul>
+        <li>
+          <span class="nd nd-sub">Understanding & Generation</span>
+          <div class="papers">
+            <a class="pill" href="https://www.computer.org/csdl/proceedings-article/icse/2025/056900a051/215aWoRvPCE">🔍 DetectCodeGPT <span class="v">ICSE '25</span></a>
+            <a class="pill" href="https://arxiv.org/abs/2601.00376">📝 InlineCoder <span class="v">FSE '26</span></a>
+            <a class="pill" href="https://arxiv.org/abs/2508.04295">🦀 EVOC2RUST <span class="v">ICSE '26 SEIP</span></a>
+            <a class="pill" href="https://arxiv.org/abs/2509.26628">🧭 AttentionRL <span class="v">ICLR '26</span></a>
+            <a class="pill" href="https://doi.org/10.48550/arXiv.2601.11255">🌳 RTRAG <span class="v">WWW '26 GLOW</span></a>
+          </div>
+        </li>
+        <li>
+          <span class="nd nd-sub">Debugging & Testing</span>
+          <div class="papers">
+            <a class="pill" href="https://arxiv.org/abs/2410.01215">🐛 MGDebugger <span class="v">ICSE '26</span></a>
+            <a class="pill" href="https://arxiv.org/abs/2602.08146">⚔️ AdverTest <span class="v">Preprint</span></a>
+            <a class="pill" href="https://arxiv.org/abs/2602.07900">🧪 Rethinking Agent Tests <span class="v">Preprint</span></a>
+          </div>
+        </li>
+      </ul>
+    </li>
+    <!-- Q3 -->
+    <li>
+      <span class="nd nd-rq rq3">Full Autonomy</span>
+      <ul>
+        <li>
+          <span class="nd nd-sub">Multi-Agent Collaboration</span>
+          <div class="papers">
+            <a class="pill" href="https://arxiv.org/abs/2507.23348">💬 SWE-Debate <span class="v">ICSE '26</span></a>
+            <a class="pill" href="https://arxiv.org/abs/2507.23361">📚 SWE-Exp <span class="v">Preprint</span></a>
+            <a class="pill" href="https://arxiv.org/abs/2510.10611">🕸️ HyperAgent <span class="v">AAMAS '26</span></a>
+            <a class="pill" href="https://arxiv.org/abs/2510.10581">📊 GraphTracer <span class="v">AAMAS '26</span></a>
+            <a class="pill" href="https://arxiv.org/abs/2510.10585">🤝 D³MAS <span class="v">AAMAS '26</span></a>
+          </div>
+        </li>
+        <li>
+          <span class="nd nd-sub">Benchmarking & Reliability</span>
+          <div class="papers">
+            <a class="pill" href="https://arxiv.org/abs/2509.14635">🧐 SWE-QA <span class="v">Preprint</span></a>
+            <a class="pill" href="https://chengcheng-wan.github.io/paper/26-ICSE-Comfrey.pdf">🛡️ Comfrey <span class="v">ICSE '26</span></a>
+            <a class="pill" href="https://arxiv.org/abs/2506.21614">📏 LastingBench <span class="v">EMNLP '25</span></a>
+            <a class="pill" href="https://arxiv.org/abs/2510.20498">🔒 RPS <span class="v">ICLR '26</span></a>
+          </div>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</li></ul>
 </div>
 </div>
 
