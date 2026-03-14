@@ -17,6 +17,7 @@ We have multiple potential projects available with abundant computing resources!
 
 My research focuses on **LLM for Code** — enabling large language models to efficiently understand, correctly produce, and autonomously resolve real-world software engineering problems.
 
+{::nomarkdown}
 <div id="research-tree">
 <style>
 #research-tree { margin: 1em 0 2em; }
@@ -148,6 +149,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 </li></ul>
 </div>
 </div>
+{:/nomarkdown}
 
 ## &#x1F4F0; News
 
