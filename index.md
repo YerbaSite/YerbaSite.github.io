@@ -21,23 +21,37 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 <div id="research-tree">
 <style>
 #research-tree { margin: 1em 0 2em; }
-/* horizontal tree */
+/* hidden radios */
+#research-tree > input[type="radio"] { display: none; }
+/* tab bar */
+.theme-tabs { display: flex; gap: 6px; margin-bottom: 1.2em; flex-wrap: wrap; }
+.theme-tabs label {
+  padding: 4px 14px; border-radius: 16px; font-size: 0.72rem;
+  cursor: pointer; border: 1px solid #ddd; background: #fafafa; color: #888;
+  transition: all 0.2s; user-select: none;
+}
+.theme-tabs label:hover { background: #f0f0f0; }
+#theme-a:checked ~ .theme-tabs label[for="theme-a"],
+#theme-b:checked ~ .theme-tabs label[for="theme-b"],
+#theme-c:checked ~ .theme-tabs label[for="theme-c"],
+#theme-d:checked ~ .theme-tabs label[for="theme-d"] {
+  background: #333; color: #fff; border-color: #333;
+}
+/* horizontal tree layout */
 .htree { display: flex; align-items: center; }
 .htree ul { display: flex; flex-direction: column; padding-left: 1.5em; position: relative; list-style: none; margin: 0; }
 .htree > ul { padding-left: 0; }
 .htree li { display: flex; align-items: center; position: relative; padding: 0.35em 0; }
-/* vertical line connecting siblings */
 .htree ul ul > li::before {
   content: ''; position: absolute; left: -1em; top: 0; height: 100%;
-  border-left: 1.5px solid #d0d8e0;
+  border-left: 1.5px solid var(--line-color, #d0d8e0);
 }
 .htree ul ul > li:first-child::before { top: 50%; height: 50%; }
 .htree ul ul > li:last-child::before { height: 50%; }
 .htree ul ul > li:only-child::before { display: none; }
-/* horizontal line from parent to child */
 .htree ul ul > li::after {
   content: ''; position: absolute; left: -1em; top: 50%;
-  width: 1em; border-top: 1.5px solid #d0d8e0;
+  width: 1em; border-top: 1.5px solid var(--line-color, #d0d8e0);
 }
 .htree ul ul > li:only-child::after { display: none; }
 /* nodes */
@@ -46,22 +60,22 @@ My research focuses on **LLM for Code** — enabling large language models to ef
   font-size: 0.78rem; line-height: 1.4; white-space: nowrap; flex-shrink: 0;
 }
 .htree .nd-root {
-  background: linear-gradient(135deg, #667eea, #764ba2); color: #fff;
+  background: var(--root-bg); color: #fff;
   font-weight: 700; font-size: 0.9rem; padding: 8px 20px;
-  border-radius: 24px; box-shadow: 0 2px 8px rgba(102,126,234,0.3);
+  border-radius: 24px; box-shadow: 0 2px 8px var(--root-shadow, rgba(0,0,0,0.15));
 }
 .htree .nd-rq {
-  font-weight: 600; font-size: 0.8rem; color: #fff;
-  padding: 5px 16px; border-radius: 20px; box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+  font-weight: 600; font-size: 0.78rem;
+  padding: 5px 16px; border-radius: 20px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.08);
 }
-.htree .nd-rq.rq1 { background: linear-gradient(135deg, #74b9ff, #0984e3); }
-.htree .nd-rq.rq2 { background: linear-gradient(135deg, #55efc4, #00b894); }
-.htree .nd-rq.rq3 { background: linear-gradient(135deg, #ffeaa7, #fdcb6e); color: #5a4e2f; }
+.htree .nd-rq.rq1 { background: var(--rq1-bg); color: var(--rq1-color); border: var(--rq-border, none); }
+.htree .nd-rq.rq2 { background: var(--rq2-bg); color: var(--rq2-color); border: var(--rq-border, none); }
+.htree .nd-rq.rq3 { background: var(--rq3-bg); color: var(--rq3-color); border: var(--rq-border, none); }
 .htree .nd-sub {
   background: #f8f9fb; border: 1px solid #e2e8f0; color: #555;
   font-weight: 600; font-size: 0.72rem; padding: 3px 10px; border-radius: 14px;
 }
-/* paper pills */
 .htree .leaf-wrap { display: flex; align-items: center; }
 .htree .pills { display: flex; flex-wrap: wrap; gap: 4px; margin-left: 0.6em; max-width: 520px; }
 .htree .pill {
@@ -71,6 +85,47 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 }
 .htree .pill:hover { background: #f0f4ff; border-color: #a4c2f4; }
 .htree .pill .v { font-size: 0.57rem; color: #aaa; margin-left: 2px; }
+
+/* ===== Theme A: Pastel Soft ===== */
+#theme-a:checked ~ .htree {
+  --root-bg: linear-gradient(135deg, #a29bfe, #6c5ce7);
+  --root-shadow: rgba(162,155,254,0.3);
+  --rq1-bg: linear-gradient(135deg, #81ecec, #00cec9); --rq1-color: #fff;
+  --rq2-bg: linear-gradient(135deg, #a8e6cf, #55efc4); --rq2-color: #2d6a4f;
+  --rq3-bg: linear-gradient(135deg, #ffd3b6, #fab1a0); --rq3-color: #5a3e2b;
+  --line-color: #d5dbe3; --rq-border: none;
+}
+/* ===== Theme B: Sky & Earth ===== */
+#theme-b:checked ~ .htree {
+  --root-bg: linear-gradient(135deg, #74b9ff, #0984e3);
+  --root-shadow: rgba(9,132,227,0.25);
+  --rq1-bg: #dfe6e9; --rq1-color: #2d3436;
+  --rq2-bg: #c8e6c9; --rq2-color: #2d6a4f;
+  --rq3-bg: #fff3e0; --rq3-color: #5a3e2b;
+  --line-color: #ccd5db; --rq-border: none;
+}
+/* ===== Theme C: Mono Elegant ===== */
+#theme-c:checked ~ .htree {
+  --root-bg: linear-gradient(135deg, #2d3436, #636e72);
+  --root-shadow: rgba(45,52,54,0.25);
+  --rq1-bg: #f8f9fa; --rq1-color: #2d3436;
+  --rq2-bg: #f8f9fa; --rq2-color: #2d3436;
+  --rq3-bg: #f8f9fa; --rq3-color: #2d3436;
+  --line-color: #ddd; --rq-border: 1px solid #ddd;
+}
+#theme-c:checked ~ .htree .nd-rq.rq1 { border-left: 3px solid #74b9ff !important; }
+#theme-c:checked ~ .htree .nd-rq.rq2 { border-left: 3px solid #00b894 !important; }
+#theme-c:checked ~ .htree .nd-rq.rq3 { border-left: 3px solid #fdcb6e !important; }
+/* ===== Theme D: Ocean Breeze ===== */
+#theme-d:checked ~ .htree {
+  --root-bg: linear-gradient(135deg, #6c9bcf, #4a7fb5);
+  --root-shadow: rgba(74,127,181,0.25);
+  --rq1-bg: #e8f4fd; --rq1-color: #2c5282;
+  --rq2-bg: #e0f2e9; --rq2-color: #276749;
+  --rq3-bg: #fef9ef; --rq3-color: #744210;
+  --line-color: #c5d5e0; --rq-border: 1px solid #d8e4ed;
+}
+
 @media (max-width: 768px) {
   .htree ul { padding-left: 1.2em; }
   .htree .pills { max-width: 50vw; }
@@ -79,12 +134,23 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 }
 </style>
 
+<input type="radio" name="tree-theme" id="theme-a" checked>
+<input type="radio" name="tree-theme" id="theme-b">
+<input type="radio" name="tree-theme" id="theme-c">
+<input type="radio" name="tree-theme" id="theme-d">
+<div class="theme-tabs">
+  <label for="theme-a">A: Pastel Soft</label>
+  <label for="theme-b">B: Sky &amp; Earth</label>
+  <label for="theme-c">C: Mono Elegant</label>
+  <label for="theme-d">D: Ocean Breeze</label>
+</div>
+
 <div class="htree">
 <ul><li>
   <span class="nd nd-root">LLM for Code</span>
   <ul>
     <li>
-      <span class="nd nd-rq rq1">Efficient Understanding</span>
+      <span class="nd nd-rq rq1">Q1: How to Efficiently Understand Code?</span>
       <ul>
         <li><div class="leaf-wrap"><span class="nd nd-sub">Input Efficiency</span>
           <div class="pills">
@@ -103,9 +169,9 @@ My research focuses on **LLM for Code** — enabling large language models to ef
       </ul>
     </li>
     <li>
-      <span class="nd nd-rq rq2">Correct Production</span>
+      <span class="nd nd-rq rq2">Q2: How to Correctly Produce Code?</span>
       <ul>
-        <li><div class="leaf-wrap"><span class="nd nd-sub">Understanding & Generation</span>
+        <li><div class="leaf-wrap"><span class="nd nd-sub">Understanding &amp; Generation</span>
           <div class="pills">
             <a class="pill" href="https://www.computer.org/csdl/proceedings-article/icse/2025/056900a051/215aWoRvPCE">🔍 DetectCodeGPT <span class="v">ICSE '25</span></a>
             <a class="pill" href="https://arxiv.org/abs/2601.00376">📝 InlineCoder <span class="v">FSE '26</span></a>
@@ -114,7 +180,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
             <a class="pill" href="https://doi.org/10.48550/arXiv.2601.11255">🌳 RTRAG <span class="v">WWW '26 GLOW</span></a>
           </div></div>
         </li>
-        <li><div class="leaf-wrap"><span class="nd nd-sub">Debugging & Testing</span>
+        <li><div class="leaf-wrap"><span class="nd nd-sub">Debugging &amp; Testing</span>
           <div class="pills">
             <a class="pill" href="https://arxiv.org/abs/2410.01215">🐛 MGDebugger <span class="v">ICSE '26</span></a>
             <a class="pill" href="https://arxiv.org/abs/2602.08146">⚔️ AdverTest <span class="v">Preprint</span></a>
@@ -124,7 +190,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
       </ul>
     </li>
     <li>
-      <span class="nd nd-rq rq3">Full Autonomy</span>
+      <span class="nd nd-rq rq3">Q3: How to Achieve Full Autonomy?</span>
       <ul>
         <li><div class="leaf-wrap"><span class="nd nd-sub">Multi-Agent Collaboration</span>
           <div class="pills">
@@ -135,7 +201,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
             <a class="pill" href="https://arxiv.org/abs/2510.10585">🤝 D³MAS <span class="v">AAMAS '26</span></a>
           </div></div>
         </li>
-        <li><div class="leaf-wrap"><span class="nd nd-sub">Benchmarking & Reliability</span>
+        <li><div class="leaf-wrap"><span class="nd nd-sub">Benchmarking &amp; Reliability</span>
           <div class="pills">
             <a class="pill" href="https://arxiv.org/abs/2509.14635">🧐 SWE-QA <span class="v">Preprint</span></a>
             <a class="pill" href="https://chengcheng-wan.github.io/paper/26-ICSE-Comfrey.pdf">🛡️ Comfrey <span class="v">ICSE '26</span></a>
