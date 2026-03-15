@@ -96,7 +96,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
   <li>
     <span class="nd nd-rq rq2">Q2: How to Correctly Produce Code?</span>
     <ul>
-      <li><div class="leaf-wrap"><span class="nd nd-sub">Understanding &amp; Generation</span>
+      <li><div class="leaf-wrap"><span class="nd nd-sub">Generation</span>
         <div class="pills">
           <a class="pill" href="https://www.computer.org/csdl/proceedings-article/icse/2025/056900a051/215aWoRvPCE">🔍 DetectCodeGPT <span class="v">ICSE '25</span></a>
           <a class="pill" href="https://arxiv.org/abs/2601.00376">📝 InlineCoder <span class="v">FSE '26</span></a>
