@@ -20,7 +20,11 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 {::nomarkdown}
 <div id="research-tree">
 <style>
-#research-tree { margin: 1em 0 2em; }
+#research-tree {
+  margin: 1em 0 2em;
+  touch-action: manipulation;
+  -webkit-text-size-adjust: 100%;
+}
 /* horizontal tree layout */
 .htree { display: flex; align-items: flex-start; }
 .htree ul { display: flex; flex-direction: column; padding-left: 1.5em; position: relative; list-style: none; margin: 0; }
@@ -62,6 +66,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
   display: inline-block; padding: 2px 9px; border-radius: 12px;
   font-size: 0.68rem; border: 1px solid #e8ecf1; background: #fff;
   color: #444; text-decoration: none; transition: all 0.15s; white-space: nowrap;
+  touch-action: manipulation;
 }
 .htree .pill:hover { background: #f0f4ff; border-color: #a4c2f4; }
 .htree .pill .v { font-size: 0.57rem; color: #aaa; margin-left: 2px; }
@@ -69,7 +74,9 @@ My research focuses on **LLM for Code** — enabling large language models to ef
   .htree ul { padding-left: 1.2em; }
   .htree .pills { max-width: 50vw; }
   .htree .nd { font-size: 0.7rem; padding: 3px 10px; }
-  .htree .pill { font-size: 0.6rem; padding: 1px 6px; }
+  /* Slightly larger than before: tiny link text encourages double-tap zoom on mobile */
+  .htree .pill { font-size: 0.72rem; padding: 4px 8px; }
+  .htree .pill .v { font-size: 0.62rem; }
 }
 </style>
 <div class="htree">
