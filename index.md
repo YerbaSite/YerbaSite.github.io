@@ -261,6 +261,10 @@ My research focuses on **LLM for Code** — enabling large language models to ef
   [Preprint](https://arxiv.org/abs/2601.16746)  
   Yuhang Wang†, <u><strong>Yuling Shi</strong></u>†, Mo Yang, Rongrui Zhang, Shilin He, Heng Lian, Yuting Chen, Siyu Ye, Kai Cai, Xiaodong Gu
 
+- <strong><span style="color: #03396c;">EffiSkill: Agent Skill Based Automated Code Efficiency Optimization</span></strong>  
+  [Preprint](https://arxiv.org/abs/2603.27850)  
+  Zimu Wang†, <u><strong>Yuling Shi</strong></u>†, Mengfan Li, Zijun Liu, Jie M. Zhang, Chengcheng Wan, Xiaodong Gu 
+
 <details class="pub-collapsible" markdown="1">
 <summary><strong>Other Preprints</strong> — click to expand</summary>
 
@@ -298,7 +302,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 
 - <strong><span style="color: #03396c;">Test vs Mutant: Adversarial LLM Agents for Robust Unit Test Generation</span></strong>  
   [Preprint](https://arxiv.org/abs/2602.08146)  
-  Pengyu Chang, Yixiong Fang, Silin Chen, <u><strong>Yuling Shi</strong></u>, Beijun Shen, Xiaodong Gu
+  Pengyu Chang, Yixiong Fang, Silin Chen, <u><strong>Yuling Shi</strong></u>, Beijun Shen, Xiaodong Gu 
 
 - <strong><span style="color: #03396c;">DLLM-Searcher: Adapting Diffusion Large Language Model for Search Agents</span></strong>  
   [Preprint](https://arxiv.org/abs/2602.07035)  
@@ -329,7 +333,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 - Teaching Assistant for FL4207 "Application of LLMs" (Fall 2025)
 
 ## &#x1F4BC; Services
-- Conference Reviewer: ICLR 2025, ARR Oct 2025, ICLR 2026, ICSE 2026 (Shadow PC), CVPR 2026, ICML 2026, AIware 2026, ACL 2026, AIWare 2026 Datasets & Benchmarks track, ECCV 2026, NeurIPS 2026
+- Conference Reviewer: ICLR 2025, ARR Oct 2025, ICLR 2026, ICSE 2026 (Shadow PC), CVPR 2026, ICML 2026, AIware 2026, ACL 2026, AIWare 2026 Datasets & Benchmarks track, ECCV 2026, NeurIPS 2026, COLM 2026
 - Journal Reviewer: TSE, TMLR
 
 ## &#x1F3C6; Awards
