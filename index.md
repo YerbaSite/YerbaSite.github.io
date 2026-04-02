@@ -178,10 +178,10 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 - <span style="color: #4f6d8c; font-weight: 600;">[2024.08]</span> Invited talk at CCF Synonym: "How to detect LLM generated code?"
 - <span style="color: #4f6d8c; font-weight: 600;">[2024.07]</span> One paper accepted by ICSE 2025
 
-## &#x1F4DD; Publications 
+## &#x1F4DD; Selected Publications 
 † denotes equal contribution.
 
-### Selected Publications
+### Peer Reviewed
 
 - <strong><span style="color: #03396c;">Progressive Supernet Training for Efficient Visual Autoregressive Modeling</span></strong>  
   [CVPR 2026](https://arxiv.org/abs/2511.16546)  
@@ -205,7 +205,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 
 
 <details class="pub-collapsible" markdown="1">
-<summary><strong>Other Publications</strong> — click to expand</summary>
+<summary><strong>Other Peer Reviewed Papers</strong> — click to expand</summary>
 
 - <strong><span style="color: #03396c;">Steering Where to Diffuse: Generative Modeling of Phenotypic Response Simulation with Steered Diffusion Bridge</span></strong>  
   [CVPR 2026](https://openreview.net/forum?id=2Reux55wKr)  
@@ -261,7 +261,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 
 </details>
 
-### Selected Preprints
+### Preprints
 
 - <strong><span style="color: #03396c;">CodeOCR: On the Effectiveness of Vision Language Models in Code Understanding</span></strong>  
   [Preprint](https://arxiv.org/abs/2602.01785)  
@@ -343,8 +343,22 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 - Teaching Assistant for FL4207 "Application of LLMs" (Fall 2025)
 
 ## &#x1F4BC; Services
-- Conference Reviewer: ICLR 2025, ARR Oct 2025, ICLR 2026, ICSE 2026 (Shadow PC), CVPR 2026, ICML 2026, AIware 2026, ACL 2026, AIWare 2026 Datasets & Benchmarks track, ECCV 2026, NeurIPS 2026, COLM 2026
-- Journal Reviewer: TSE, TMLR
+- Conference Reviewer:
+  - NeurIPS 2026
+  - COLM 2026
+  - ECCV 2026
+  - ACL 2026
+  - AIWare 2026 Datasets & Benchmarks
+  - AIware 2026
+  - ICML 2026
+  - CVPR 2026
+  - ICSE 2026 (Shadow PC)
+  - ICLR 2026
+  - ARR Oct 2025
+  - ICLR 2025
+- Journal Reviewer:
+  - TSE
+  - TMLR
 
 ## &#x1F3C6; Awards
 <!-- - &#x1F3C6; ACM SIGSOFT ICSE 2026 CAPS Travel Grant -->
