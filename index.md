@@ -22,6 +22,8 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 <style>
 #research-tree {
   margin: 1em 0 2em;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
   touch-action: pan-x pan-y;
   -webkit-text-size-adjust: 100%;
 }
