@@ -22,7 +22,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 <style>
 #research-tree {
   margin: 1em 0 2em;
-  touch-action: manipulation;
+  touch-action: pan-x pan-y;
   -webkit-text-size-adjust: 100%;
 }
 /* horizontal tree layout */
@@ -66,7 +66,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
   display: inline-block; padding: 2px 9px; border-radius: 12px;
   font-size: 0.68rem; border: 1px solid #e8ecf1; background: #fff;
   color: #444; text-decoration: none; transition: all 0.15s; white-space: nowrap;
-  touch-action: manipulation;
+  touch-action: pan-x pan-y;
 }
 .htree .pill:hover { background: #f0f4ff; border-color: #a4c2f4; }
 .htree .pill .v { font-size: 0.57rem; color: #aaa; margin-left: 2px; }
