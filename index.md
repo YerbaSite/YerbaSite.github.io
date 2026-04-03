@@ -155,6 +155,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 ## &#x1F4F0; News
 
 <!-- - <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Received ACM SIGSOFT ICSE 2026 CAPS Grant (Travel Support) -->
+- <span style="color: #4f6d8c; font-weight: 600;">[2026.04]</span> One paper accepted by ACM SIGIR 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Serving as PC member of AIWare 2026 Datasets & Benchmarks track; submissions are welcome
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Two papers accepted by CVPR 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.01]</span> Serving as PC member of AIware 2026; submissions are welcome
@@ -206,6 +207,11 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 
 <details class="pub-collapsible" markdown="1">
 <summary><strong>Other Peer Reviewed Papers</strong> — click to expand</summary>
+
+- <strong><span style="color: #03396c;">DLLM-Searcher: Adapting Diffusion Language Model for Efficient Search Agents</span></strong>  
+  [SIGIR 2026](https://arxiv.org/abs/2602.07035)  
+  Jiahao Zhao, Shaoxuan Xu, Zhongxiang Sun, Fengqi Zhu, Jingyang Ou, <u><strong>Yuling Shi</strong></u>, Chongxuan Li, Xiao Zhang, Jun Xu
+
 
 - <strong><span style="color: #03396c;">Steering Where to Diffuse: Generative Modeling of Phenotypic Response Simulation with Steered Diffusion Bridge</span></strong>  
   [CVPR 2026](https://openreview.net/forum?id=2Reux55wKr)  
@@ -313,10 +319,6 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 - <strong><span style="color: #03396c;">Test vs Mutant: Adversarial LLM Agents for Robust Unit Test Generation</span></strong>  
   [Preprint](https://arxiv.org/abs/2602.08146)  
   Pengyu Chang, Yixiong Fang, Silin Chen, <u><strong>Yuling Shi</strong></u>, Beijun Shen, Xiaodong Gu 
-
-- <strong><span style="color: #03396c;">DLLM-Searcher: Adapting Diffusion Large Language Model for Search Agents</span></strong>  
-  [Preprint](https://arxiv.org/abs/2602.07035)  
-  Jiahao Zhao, Shaoxuan Xu, Zhongxiang Sun, Fengqi Zhu, Jingyang Ou, <u><strong>Yuling Shi</strong></u>, Chongxuan Li, Xiao Zhang, Jun Xu
 
 </details>
 
