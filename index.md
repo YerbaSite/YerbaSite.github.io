@@ -90,13 +90,13 @@ My research focuses on **LLM for Code** — enabling large language models to ef
         <div class="pills">
           <a class="pill" href="https://arxiv.org/abs/2510.00446">🗜️ LongCodeZip <span class="v">ASE '25</span></a>
           <a class="pill" href="https://arxiv.org/abs/2602.01785">👁️ CodeOCR <span class="v">Preprint</span></a>
-          <a class="pill" href="https://arxiv.org/abs/2601.16746">✂️ SWE-Pruner <span class="v">Preprint</span></a>
+          <a class="pill" href="https://arxiv.org/abs/2601.16746">✂️ SWE-Pruner <span class="v">ACL '26</span></a>
           <a class="pill" href="https://arxiv.org/abs/2503.10720">🎯 AttentionRAG <span class="v">ACL '25 KnowFM</span></a>
         </div></div>
       </li>
       <li><div class="leaf-wrap"><span class="nd nd-sub">Output Efficiency</span>
         <div class="pills">
-          <a class="pill" href="https://arxiv.org/abs/2601.05110">🔀 GlimpRouter <span class="v">Preprint</span></a>
+          <a class="pill" href="https://arxiv.org/abs/2601.05110">🔀 GlimpRouter <span class="v">ACL '26 Findings</span></a>
           <a class="pill" href="https://arxiv.org/abs/2508.05988">⚡ ASAP <span class="v">Preprint</span></a>
           <a class="pill" href="https://arxiv.org/abs/2603.27850">🛠️ EffiSkill <span class="v">Preprint</span></a>
         </div></div>
@@ -139,7 +139,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
       </li>
       <li><div class="leaf-wrap"><span class="nd nd-sub">Benchmarking &amp; Reliability</span>
         <div class="pills">
-          <a class="pill" href="https://arxiv.org/abs/2509.14635">🧐 SWE-QA <span class="v">Preprint</span></a>
+          <a class="pill" href="https://arxiv.org/abs/2509.14635">🧐 SWE-QA <span class="v">ACL '26 Findings</span></a>
           <!-- <a class="pill" href="https://chengcheng-wan.github.io/paper/26-ICSE-Comfrey.pdf">🛡️ Comfrey <span class="v">ICSE '26</span></a> -->
           <!-- <a class="pill" href="https://arxiv.org/abs/2506.21614">📏 LastingBench <span class="v">EMNLP '25</span></a> -->
           <!-- <a class="pill" href="https://arxiv.org/abs/2510.20498">🔒 RPS <span class="v">ICLR '26</span></a> -->
@@ -155,6 +155,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 ## &#x1F4F0; News
 
 <!-- - <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Received ACM SIGSOFT ICSE 2026 CAPS Grant (Travel Support) -->
+- <span style="color: #4f6d8c; font-weight: 600;">[2026.04]</span> Five papers accepted by ACL 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.04]</span> One paper accepted by SIGIR 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Serving as PC member of AIWare 2026 Datasets & Benchmarks track; submissions are welcome
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Two papers accepted by CVPR 2026
@@ -187,6 +188,10 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 - <strong><span style="color: #03396c;">Progressive Supernet Training for Efficient Visual Autoregressive Modeling</span></strong>  
   [CVPR 2026](https://arxiv.org/abs/2511.16546)  
   Xiaoyue Chen†, <u><strong>Yuling Shi</strong></u>†, Kaiyuan Li†, Huandong Wang, Yong Li, Xiaodong Gu, Xinlei Chen, Mingbao Lin
+
+- <strong><span style="color: #03396c;">SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents</span></strong>  
+  [ACL 2026](https://arxiv.org/abs/2601.16746)  
+  Yuhang Wang†, <u><strong>Yuling Shi</strong></u>†, Mo Yang, Rongrui Zhang, Shilin He, Heng Lian, Yuting Chen, Siyu Ye, Kai Cai, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging</span></strong>  
   [ICSE 2026](https://arxiv.org/abs/2410.01215)  
@@ -224,6 +229,22 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 - <strong><span style="color: #03396c;">Attention as a Compass: Efficient Exploration for Process-Supervised RL in Reasoning Models</span></strong>  
   [ICLR 2026](https://arxiv.org/abs/2509.26628)    
   Runze Liu, Jiakang Wang, <u><strong>Yuling Shi</strong></u>, Zhihui Xie, Chenxin An, Kaiyan Zhang, Jian Zhao, Xiaodong Gu, Lei Lin, Wenping Hu, Xiu Li, Fuzheng Zhang, Guorui Zhou, Kun Gai
+
+- <strong><span style="color: #03396c;">SWE-QA: Can Language Models Answer Repository-level Code Questions?</span></strong>  
+  [ACL 2026 Findings](https://arxiv.org/abs/2509.14635)  
+  Weihan Peng, <u><strong>Yuling Shi</strong></u>, Yuhang Wang, Xinyun Zhang, Beijun Shen, Xiaodong Gu
+
+- <strong><span style="color: #03396c;">GlimpRouter: Efficient Collaborative Inference by Glimpsing One Token of Thoughts</span></strong>  
+  [ACL 2026 Findings](https://arxiv.org/abs/2601.05110)  
+  Wenhao Zeng, Xuteng Zhang, <u><strong>Yuling Shi</strong></u>, Chao Hu, Yuting Chen, Beijun Shen, Xiaodong Gu
+
+- <strong><span style="color: #03396c;">ShredBench: Evaluating the Semantic Reasoning Capabilities of Multimodal LLMs in Document Reconstruction</span></strong>  
+  ACL 2026 Findings  
+  Zichun Guo, <u><strong>Yuling Shi</strong></u>, Wenhao Zeng, Chao Hu, Haotian Lin, Terry Yue Zhuo, Jiawei Chen, Xiaodong Gu, Wenping Ma
+
+- <strong><span style="color: #03396c;">EvoHyper: Evolving Hypergraph Topologies for Unified Collaboration in Multi-Agent Communication</span></strong>  
+  ACL 2026 Findings  
+  Heng Zhang, Yihao Zhong, Lubin Gan, Zhihe Chen, Jiajun Wu, <u><strong>Yuling Shi</strong></u>, Xiaodong Gu, Hao Zhang, Haochen You, Jin Huang
 
 - <strong><span style="color: #03396c;">In Line with Context: Repository-Level Code Generation via Context Inlining</span></strong>  
   [FSE 2026](https://arxiv.org/abs/2601.00376)  
@@ -273,10 +294,6 @@ My research focuses on **LLM for Code** — enabling large language models to ef
   [Preprint](https://arxiv.org/abs/2602.01785)  
   <u><strong>Yuling Shi</strong></u>, Chaoxiang Xie, Zhensu Sun, Yeheng Chen, Chenxu Zhang, Longfei Yun, Chengcheng Wan, Hongyu Zhang, David Lo, Xiaodong Gu
 
-- <strong><span style="color: #03396c;">SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents</span></strong>  
-  [Preprint](https://arxiv.org/abs/2601.16746)  
-  Yuhang Wang†, <u><strong>Yuling Shi</strong></u>†, Mo Yang, Rongrui Zhang, Shilin He, Heng Lian, Yuting Chen, Siyu Ye, Kai Cai, Xiaodong Gu
-
 - <strong><span style="color: #03396c;">EffiSkill: Agent Skill Based Automated Code Efficiency Optimization</span></strong>  
   [Preprint](https://arxiv.org/abs/2603.27850)  
   Zimu Wang†, <u><strong>Yuling Shi</strong></u>†, Mengfan Li, Zijun Liu, Jie M. Zhang, Chengcheng Wan, Xiaodong Gu 
@@ -292,17 +309,9 @@ My research focuses on **LLM for Code** — enabling large language models to ef
   [Preprint](https://arxiv.org/abs/2602.07900)  
   Zhi Chen, Zhensu Sun, <u><strong>Yuling Shi</strong></u>, Chao Peng, Xiaodong Gu, David Lo, Lingxiao Jiang
 
-- <strong><span style="color: #03396c;">GlimpRouter: Efficient Collaborative Inference by Glimpsing One Token of Thoughts</span></strong>  
-  [Preprint](https://arxiv.org/abs/2601.05110)  
-  Wenhao Zeng, Xuteng Zhang, <u><strong>Yuling Shi</strong></u>, Chao Hu, Yuting Chen, Beijun Shen, Xiaodong Gu
-
 - <strong><span style="color: #03396c;">SWE-Exp: Experience-Driven Software Issue Resolution</span></strong>  
   [Preprint](https://arxiv.org/abs/2507.23361)  
   Silin Chen, Shaoxin Lin, <u><strong>Yuling Shi</strong></u>, Heng Lian, Xiaodong Gu, Longfei Yun, Dong Chen, Lin Cao, Jiyang Liu, Nu Xia, Qianxiang Wang
-
-- <strong><span style="color: #03396c;">SWE-QA: Can Language Models Answer Repository-level Code Questions?</span></strong>  
-  [Preprint](https://arxiv.org/abs/2509.14635)  
-  Weihan Peng, <u><strong>Yuling Shi</strong></u>, Yuhang Wang, Xinyun Zhang, Beijun Shen, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">Can Representation Gaps Be the Key to Enhancing Robustness in Graph-Text Alignment?</span></strong>  
   [Preprint](https://arxiv.org/abs/2510.12087)  
