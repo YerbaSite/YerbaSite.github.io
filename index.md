@@ -193,6 +193,10 @@ My research focuses on **LLM for Code** — enabling large language models to ef
   [ACL 2026](https://arxiv.org/abs/2601.16746)  
   Yuhang Wang†, <u><strong>Yuling Shi</strong></u>†, Mo Yang, Rongrui Zhang, Shilin He, Heng Lian, Yuting Chen, Siyu Ye, Kai Cai, Xiaodong Gu
 
+- <strong><span style="color: #03396c;">ShredBench: Evaluating the Semantic Reasoning Capabilities of Multimodal LLMs in Document Reconstruction</span></strong>  
+  ACL 2026 Findings  
+  Zichun Guo†, <u><strong>Yuling Shi</strong></u>†, Wenhao Zeng, Chao Hu, Haotian Lin, Terry Yue Zhuo, Jiawei Chen, Xiaodong Gu, Wenping Ma
+
 - <strong><span style="color: #03396c;">From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging</span></strong>  
   [ICSE 2026](https://arxiv.org/abs/2410.01215)  
   <u><strong>Yuling Shi</strong></u>, Songsong Wang, Chengcheng Wan, Min Wang, Xiaodong Gu
@@ -237,10 +241,6 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 - <strong><span style="color: #03396c;">GlimpRouter: Efficient Collaborative Inference by Glimpsing One Token of Thoughts</span></strong>  
   [ACL 2026 Findings](https://arxiv.org/abs/2601.05110)  
   Wenhao Zeng, Xuteng Zhang, <u><strong>Yuling Shi</strong></u>, Chao Hu, Yuting Chen, Beijun Shen, Xiaodong Gu
-
-- <strong><span style="color: #03396c;">ShredBench: Evaluating the Semantic Reasoning Capabilities of Multimodal LLMs in Document Reconstruction</span></strong>  
-  ACL 2026 Findings  
-  Zichun Guo, <u><strong>Yuling Shi</strong></u>, Wenhao Zeng, Chao Hu, Haotian Lin, Terry Yue Zhuo, Jiawei Chen, Xiaodong Gu, Wenping Ma
 
 - <strong><span style="color: #03396c;">EvoHyper: Evolving Hypergraph Topologies for Unified Collaboration in Multi-Agent Communication</span></strong>  
   ACL 2026 Findings  
