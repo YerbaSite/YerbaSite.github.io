@@ -185,10 +185,6 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 
 ### Peer Reviewed
 
-- <strong><span style="color: #03396c;">Progressive Supernet Training for Efficient Visual Autoregressive Modeling</span></strong>  
-  [CVPR 2026](https://arxiv.org/abs/2511.16546)  
-  Xiaoyue Chen†, <u><strong>Yuling Shi</strong></u>†, Kaiyuan Li†, Huandong Wang, Yong Li, Xiaodong Gu, Xinlei Chen, Mingbao Lin
-
 - <strong><span style="color: #03396c;">SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents</span></strong>  
   [ACL 2026](https://arxiv.org/abs/2601.16746)  
   Yuhang Wang†, <u><strong>Yuling Shi</strong></u>†, Mo Yang, Rongrui Zhang, Shilin He, Heng Lian, Yuting Chen, Siyu Ye, Kai Cai, Xiaodong Gu
@@ -197,13 +193,17 @@ My research focuses on **LLM for Code** — enabling large language models to ef
   ACL 2026 Findings  
   Zichun Guo†, <u><strong>Yuling Shi</strong></u>†, Wenhao Zeng, Chao Hu, Haotian Lin, Terry Yue Zhuo, Jiawei Chen, Xiaodong Gu, Wenping Ma
 
-- <strong><span style="color: #03396c;">From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging</span></strong>  
-  [ICSE 2026](https://arxiv.org/abs/2410.01215)  
-  <u><strong>Yuling Shi</strong></u>, Songsong Wang, Chengcheng Wan, Min Wang, Xiaodong Gu
+- <strong><span style="color: #03396c;">Progressive Supernet Training for Efficient Visual Autoregressive Modeling</span></strong>  
+  [CVPR 2026](https://arxiv.org/abs/2511.16546)  
+  Xiaoyue Chen†, <u><strong>Yuling Shi</strong></u>†, Kaiyuan Li†, Huandong Wang, Yong Li, Xiaodong Gu, Xinlei Chen, Mingbao Lin
 
 - <strong><span style="color: #03396c;">SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution</span></strong>  
   [ICSE 2026](https://arxiv.org/abs/2507.23348)  
   Han Li†, <u><strong>Yuling Shi</strong></u>†, Shaoxin Lin, Xiaodong Gu, Heng Lian, Xin Wang, Yantao Jia, Tao Huang, Qianxiang Wang
+
+- <strong><span style="color: #03396c;">From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging</span></strong>  
+  [ICSE 2026](https://arxiv.org/abs/2410.01215)  
+  <u><strong>Yuling Shi</strong></u>, Songsong Wang, Chengcheng Wan, Min Wang, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">LongCodeZip: Compress Long Context for Code Language Models</span></strong>  
   [ASE 2025](https://arxiv.org/abs/2510.00446)  
@@ -354,22 +354,8 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 - Teaching Assistant for FL4207 "Application of LLMs" (Fall 2025)
 
 ## &#x1F4BC; Services
-- Conference Reviewer:
-  - NeurIPS 2026
-  - COLM 2026
-  - ECCV 2026
-  - ACL 2026
-  - AIWare 2026 Datasets & Benchmarks
-  - AIware 2026
-  - ICML 2026
-  - CVPR 2026
-  - ICSE 2026 (Shadow PC)
-  - ICLR 2026
-  - ARR Oct 2025
-  - ICLR 2025
-- Journal Reviewer:
-  - TSE
-  - TMLR
+- Conference Reviewer: NeurIPS 2026, COLM 2026, ECCV 2026, ACL 2026, AIWare 2026, ICML 2026, CVPR 2026, ICSE 2026 (Shadow PC), ICLR 2026/2025, ARR Oct 2025
+- Journal Reviewer: TSE, TMLR
 
 ## &#x1F3C6; Awards
 <!-- - &#x1F3C6; ACM SIGSOFT ICSE 2026 CAPS Travel Grant -->
