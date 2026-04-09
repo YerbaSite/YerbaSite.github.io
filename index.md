@@ -189,6 +189,10 @@ My research focuses on **LLM for Code** — enabling large language models to ef
   [ACL 2026](https://arxiv.org/abs/2601.16746)  
   Yuhang Wang†, <u><strong>Yuling Shi</strong></u>†, Mo Yang, Rongrui Zhang, Shilin He, Heng Lian, Yuting Chen, Siyu Ye, Kai Cai, Xiaodong Gu
 
+- <strong><span style="color: #03396c;">SWE-QA: Can Language Models Answer Repository-level Code Questions?</span></strong>  
+  [ACL 2026 Findings](https://arxiv.org/abs/2509.14635)  
+  Weihan Peng†, <u><strong>Yuling Shi</strong></u>†, Yuhang Wang, Xinyun Zhang, Beijun Shen, Xiaodong Gu
+
 - <strong><span style="color: #03396c;">ShredBench: Evaluating the Semantic Reasoning Capabilities of Multimodal LLMs in Document Reconstruction</span></strong>  
   ACL 2026 Findings  
   Zichun Guo†, <u><strong>Yuling Shi</strong></u>†, Wenhao Zeng, Chao Hu, Haotian Lin, Terry Yue Zhuo, Jiawei Chen, Xiaodong Gu, Wenping Ma
@@ -208,10 +212,6 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 - <strong><span style="color: #03396c;">SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution</span></strong>  
   [ICSE 2026](https://arxiv.org/abs/2507.23348)  
   Han Li†, <u><strong>Yuling Shi</strong></u>†, Shaoxin Lin, Xiaodong Gu, Heng Lian, Xin Wang, Yantao Jia, Tao Huang, Qianxiang Wang
-
-- <strong><span style="color: #03396c;">SWE-QA: Can Language Models Answer Repository-level Code Questions?</span></strong>  
-  [ACL 2026 Findings](https://arxiv.org/abs/2509.14635)  
-  Weihan Peng†, <u><strong>Yuling Shi</strong></u>†, Yuhang Wang, Xinyun Zhang, Beijun Shen, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">Between Lines of Code: Unraveling the Distinct Patterns of Machine and Human Programmers</span></strong>  
   [ICSE 2025](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a051/215aWoRvPCE)   
