@@ -89,7 +89,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
       <li><div class="leaf-wrap"><span class="nd nd-sub">Input Efficiency</span>
         <div class="pills">
           <a class="pill" href="https://arxiv.org/abs/2510.00446">🗜️ LongCodeZip <span class="v">ASE '25</span></a>
-          <a class="pill" href="https://arxiv.org/abs/2602.01785">👁️ CodeOCR <span class="v">Preprint</span></a>
+          <a class="pill" href="https://arxiv.org/abs/2602.01785">👁️ CodeOCR <span class="v">ISSTA '26</span></a>
           <a class="pill" href="https://arxiv.org/abs/2601.16746">✂️ SWE-Pruner <span class="v">ACL '26</span></a>
           <a class="pill" href="https://arxiv.org/abs/2503.10720">🎯 AttentionRAG <span class="v">ACL '25 KnowFM</span></a>
         </div></div>
@@ -155,6 +155,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 ## &#x1F4F0; News
 
 <!-- - <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Received ACM SIGSOFT ICSE 2026 CAPS Grant (Travel Support) -->
+- <span style="color: #4f6d8c; font-weight: 600;">[2026.04]</span> One paper accepted by ISSTA 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.04]</span> Five papers accepted by ACL 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.04]</span> One paper accepted by SIGIR 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Serving as PC member of AIWare 2026 Datasets & Benchmarks track; submissions are welcome
@@ -208,6 +209,10 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 - <strong><span style="color: #03396c;">From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging</span></strong>  
   [ICSE 2026](https://arxiv.org/abs/2410.01215)  
   <u><strong>Yuling Shi</strong></u>, Songsong Wang, Chengcheng Wan, Min Wang, Xiaodong Gu
+
+- <strong><span style="color: #03396c;">CodeOCR: On the Effectiveness of Vision Language Models in Code Understanding</span></strong>  
+  [ISSTA 2026](https://arxiv.org/abs/2602.01785)  
+  <u><strong>Yuling Shi</strong></u>, Chaoxiang Xie, Zhensu Sun, Yeheng Chen, Chenxu Zhang, Longfei Yun, Chengcheng Wan, Hongyu Zhang, David Lo, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution</span></strong>  
   [ICSE 2026](https://arxiv.org/abs/2507.23348)  
@@ -293,9 +298,6 @@ My research focuses on **LLM for Code** — enabling large language models to ef
   [Preprint](https://arxiv.org/abs/2603.27850)  
   Zimu Wang†, <u><strong>Yuling Shi</strong></u>†, Mengfan Li, Zijun Liu, Jie M. Zhang, Chengcheng Wan, Xiaodong Gu 
 
-- <strong><span style="color: #03396c;">CodeOCR: On the Effectiveness of Vision Language Models in Code Understanding</span></strong>  
-  [Preprint](https://arxiv.org/abs/2602.01785)  
-  <u><strong>Yuling Shi</strong></u>, Chaoxiang Xie, Zhensu Sun, Yeheng Chen, Chenxu Zhang, Longfei Yun, Chengcheng Wan, Hongyu Zhang, David Lo, Xiaodong Gu
 
 <details class="pub-collapsible" markdown="1">
 <summary><strong>Other Preprints</strong> — click to expand</summary>
