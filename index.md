@@ -140,6 +140,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
       <li><div class="leaf-wrap"><span class="nd nd-sub">Benchmarking &amp; Reliability</span>
         <div class="pills">
           <a class="pill" href="https://arxiv.org/abs/2509.14635">🧐 SWE-QA <span class="v">ACL '26 Findings</span></a>
+          <a class="pill" href="#">📦 ClassEval-Pro <span class="v">AIWare '26</span></a>
           <!-- <a class="pill" href="https://chengcheng-wan.github.io/paper/26-ICSE-Comfrey.pdf">🛡️ Comfrey <span class="v">ICSE '26</span></a> -->
           <!-- <a class="pill" href="https://arxiv.org/abs/2506.21614">📏 LastingBench <span class="v">EMNLP '25</span></a> -->
           <!-- <a class="pill" href="https://arxiv.org/abs/2510.20498">🔒 RPS <span class="v">ICLR '26</span></a> -->
@@ -155,6 +156,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 ## &#x1F4F0; News
 
 <!-- - <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Received ACM SIGSOFT ICSE 2026 CAPS Grant (Travel Support) -->
+- <span style="color: #4f6d8c; font-weight: 600;">[2026.04]</span> One paper accepted by ACM AIWare 2026 Benchmark and Dataset Track
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.04]</span> Two papers accepted by ISSTA 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.04]</span> Five papers accepted by ACL 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.04]</span> One paper accepted by SIGIR 2026
@@ -222,7 +224,6 @@ My research focuses on **LLM for Code** — enabling large language models to ef
   [ICSE 2025](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a051/215aWoRvPCE)   
   <u><strong>Yuling Shi</strong></u>, Hongyu Zhang, Chengcheng Wan, Xiaodong Gu
 
-
 <details class="pub-collapsible" markdown="1">
 <summary><strong>Other Peer Reviewed Papers</strong> — click to expand</summary>
 
@@ -265,6 +266,10 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 - <strong><span style="color: #03396c;">Comfrey: Mitigating Integration Failures in LLM-enabled Software at Run-Time</span></strong>  
   [ICSE 2026](https://chengcheng-wan.github.io/paper/26-ICSE-Comfrey.pdf)  
   Yuchen Shao, Yuheng Huang, Jiazhen Zou, <u><strong>Yuling Shi</strong></u>, Long Yang, Lei Ma, Ting Su, Chengcheng Wan
+
+- <strong><span style="color: #03396c;">ClassEval-Pro: A Cross-Domain Benchmark for Class-Level Code Generation</span></strong>  
+  [AIWare 2026](https://arxiv.org/abs/2509.14635)  
+  Yeheng Chen, Chaoxiang Xie, <u><strong>Yuling Shi</strong></u>, Wenhao Zeng, Yongpan Wang, Hongyu Zhang, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">HyperAgent: Leveraging Hypergraphs for Topology Optimization in Multi-Agent Communication</span></strong>  
   [AAMAS 2026](https://arxiv.org/abs/2510.10611)  
