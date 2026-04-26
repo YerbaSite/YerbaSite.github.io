@@ -267,8 +267,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
   [ICSE 2026](https://chengcheng-wan.github.io/paper/26-ICSE-Comfrey.pdf)  
   Yuchen Shao, Yuheng Huang, Jiazhen Zou, <u><strong>Yuling Shi</strong></u>, Long Yang, Lei Ma, Ting Su, Chengcheng Wan
 
-- <strong><span style="color: #03396c;">ClassEval-Pro: A Cross-Domain Benchmark for Class-Level Code Generation</span></strong>  
-  [AIWare 2026](https://arxiv.org/abs/2509.14635)  
+- <strong><span style="color: #03396c;">ClassEval-Pro: A Cross-Domain Benchmark for Class-Level Code Generation</span></strong>  \n  \[AIWare 2026 D&B track\](https://arxiv.org/abs/2509.14635)  
   Yeheng Chen, Chaoxiang Xie, <u><strong>Yuling Shi</strong></u>, Wenhao Zeng, Yongpan Wang, Hongyu Zhang, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">HyperAgent: Leveraging Hypergraphs for Topology Optimization in Multi-Agent Communication</span></strong>  
