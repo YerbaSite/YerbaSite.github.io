@@ -201,7 +201,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
   Weihan Peng†, <u><strong>Yuling Shi</strong></u>†, Yuhang Wang, Xinyun Zhang, Beijun Shen, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">ShredBench: Evaluating the Semantic Reasoning Capabilities of Multimodal LLMs in Document Reconstruction</span></strong>  
-  [ACL 2026 Findings](https://arxiv.org/abs/2601.16746)
+  [ACL 2026 Findings](https://arxiv.org/abs/2601.16746)  
   Zichun Guo†, <u><strong>Yuling Shi</strong></u>†, Wenhao Zeng, Chao Hu, Haotian Lin, Terry Yue Zhuo, Jiawei Chen, Xiaodong Gu, Wenping Ma
 
 - <strong><span style="color: #03396c;">LongCodeZip: Compress Long Context for Code Language Models</span></strong>  
