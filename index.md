@@ -99,6 +99,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
           <a class="pill" href="https://arxiv.org/abs/2601.05110">🔀 GlimpRouter <span class="v">ACL '26 Findings</span></a>
           <a class="pill" href="https://arxiv.org/abs/2508.05988">⚡ ASAP <span class="v">Preprint</span></a>
           <a class="pill" href="https://arxiv.org/abs/2603.27850">🛠️ EffiSkill <span class="v">Preprint</span></a>
+          <a class="pill" href="https://openreview.net/forum?id=33073">🪞 SRPO <span class="v">ICML '26</span></a>
         </div></div>
       </li>
     </ul>
@@ -111,7 +112,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
           <a class="pill" href="https://www.computer.org/csdl/proceedings-article/icse/2025/056900a051/215aWoRvPCE">🔍 DetectCodeGPT <span class="v">ICSE '25</span></a>
           <a class="pill" href="https://arxiv.org/abs/2601.00376">📝 InlineCoder <span class="v">FSE '26</span></a>
           <a class="pill" href="https://arxiv.org/abs/2508.04295">🦀 EVOC2RUST <span class="v">ICSE '26 SEIP</span></a>
-          <a class="pill" href="https://arxiv.org/abs/2602.07882">📐 LM-CC <span class="v">Preprint</span></a>
+          <a class="pill" href="https://arxiv.org/abs/2602.07882">📐 LM-CC <span class="v">ICML '26</span></a>
           <!-- <a class="pill" href="https://arxiv.org/abs/2509.26628">🧭 AttentionRL <span class="v">ICLR '26</span></a> -->
           <!-- <a class="pill" href="https://doi.org/10.48550/arXiv.2601.11255">🌳 RTRAG <span class="v">WWW '26 GLOW</span></a> -->
         </div></div>
@@ -140,7 +141,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
       <li><div class="leaf-wrap"><span class="nd nd-sub">Benchmarking &amp; Reliability</span>
         <div class="pills">
           <a class="pill" href="https://arxiv.org/abs/2509.14635">🧐 SWE-QA <span class="v">ACL '26 Findings</span></a>
-          <a class="pill" href="#">📦 ClassEval-Pro <span class="v">AIWare '26 D&B</span></a>
+          <a class="pill" href="https://arxiv.org/abs/2604.26923">📦 ClassEval-Pro <span class="v">AIWare '26 D&B</span></a>
           <!-- <a class="pill" href="https://chengcheng-wan.github.io/paper/26-ICSE-Comfrey.pdf">🛡️ Comfrey <span class="v">ICSE '26</span></a> -->
           <!-- <a class="pill" href="https://arxiv.org/abs/2506.21614">📏 LastingBench <span class="v">EMNLP '25</span></a> -->
           <!-- <a class="pill" href="https://arxiv.org/abs/2510.20498">🔒 RPS <span class="v">ICLR '26</span></a> -->
@@ -156,6 +157,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 ## &#x1F4F0; News
 
 <!-- - <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Received ACM SIGSOFT ICSE 2026 CAPS Grant (Travel Support) -->
+- <span style="color: #4f6d8c; font-weight: 600;">[2026.05]</span> Two papers accepted by ICML 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.04]</span> One paper accepted by ACM AIWare 2026 Benchmark and Dataset Track
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.04]</span> Two papers accepted by ISSTA 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.04]</span> Five papers accepted by ACL 2026
@@ -201,7 +203,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
   Weihan Peng†, <u><strong>Yuling Shi</strong></u>†, Yuhang Wang, Xinyun Zhang, Beijun Shen, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">ShredBench: Evaluating the Semantic Reasoning Capabilities of Multimodal LLMs in Document Reconstruction</span></strong>  
-  [ACL 2026 Findings](https://arxiv.org/abs/2601.16746)  
+  [ACL 2026 Findings](https://arxiv.org/abs/2604.23813)  
   Zichun Guo†, <u><strong>Yuling Shi</strong></u>†, Wenhao Zeng, Chao Hu, Haotian Lin, Terry Yue Zhuo, Jiawei Chen, Xiaodong Gu, Wenping Ma
 
 - <strong><span style="color: #03396c;">LongCodeZip: Compress Long Context for Code Language Models</span></strong>  
@@ -226,6 +228,14 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 
 <details class="pub-collapsible" markdown="1">
 <summary><strong>Other Peer Reviewed Papers</strong> — click to expand</summary>
+
+- <strong><span style="color: #03396c;">Rethinking Code Complexity Through the Lens of Large Language Models</span></strong>  
+  [ICML 2026](https://arxiv.org/abs/2602.07882)  
+  Chen Xie, <u><strong>Yuling Shi</strong></u>, Xiaodong Gu, Beijun Shen
+
+- <strong><span style="color: #03396c;">SRPO: Self-Reflective Policy Optimization for Long-Horizon Reasoning</span></strong>  
+  [ICML 2026](https://openreview.net/forum?id=33073)  
+  Jialong Liu, <u><strong>Yuling Shi</strong></u>, Ning Yang, Xiaodong Gu, Zuchao Li
 
 - <strong><span style="color: #03396c;">DLLM-Searcher: Adapting Diffusion Language Model for Efficient Search Agents</span></strong>  
   [SIGIR 2026](https://arxiv.org/abs/2602.07035)  
@@ -268,7 +278,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
   Yuchen Shao, Yuheng Huang, Jiazhen Zou, <u><strong>Yuling Shi</strong></u>, Long Yang, Lei Ma, Ting Su, Chengcheng Wan
 
 - <strong><span style="color: #03396c;">ClassEval-Pro: A Cross-Domain Benchmark for Class-Level Code Generation</span></strong>  
-  [AIWare 2026 D&B](https://arxiv.org/abs/2509.14635)  
+  [AIWare 2026 D&B](https://arxiv.org/abs/2604.26923)  
   Yeheng Chen, Chaoxiang Xie, <u><strong>Yuling Shi</strong></u>, Wenhao Zeng, Yongpan Wang, Hongyu Zhang, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">HyperAgent: Leveraging Hypergraphs for Topology Optimization in Multi-Agent Communication</span></strong>  
@@ -307,11 +317,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 <details class="pub-collapsible" markdown="1">
 <summary><strong>Other Preprints</strong> — click to expand</summary>
 
-- <strong><span style="color: #03396c;">Rethinking Code Complexity Through the Lens of Large Language Models</span></strong>  
-  [Preprint](https://arxiv.org/abs/2602.07882)  
-  Chen Xie, <u><strong>Yuling Shi</strong></u>, Xiaodong Gu, Beijun Shen
-
-- <strong><span style="color: #03396c;">Rethinking the Value of Agent-Generated Tests for LLM-Based Software Engineering Agents</span></strong>  
+- <strong><span style="color: #03396c;">Rethinking the Value of Agent-Generated Tests</span></strong>  
   [Preprint](https://arxiv.org/abs/2602.07900)  
   Zhi Chen, Zhensu Sun, <u><strong>Yuling Shi</strong></u>, Chao Peng, Xiaodong Gu, David Lo, Lingxiao Jiang
 
