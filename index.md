@@ -157,6 +157,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 ## &#x1F4F0; News
 
 <!-- - <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Received ACM SIGSOFT ICSE 2026 CAPS Grant (Travel Support) -->
+<!-- - <span style="color: #4f6d8c; font-weight: 600;">[2026.05]</span> Invited talk at Advanced Software Technologies (AST) Lab, ETH Zurich: "Compressing Long Code Contexts for LLMs: From Naturalness to Multimodal Representation." -->
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.05]</span> Received the Xiaomi MiMo Orbit API Research Support.
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.05]</span> Two papers accepted by ICML 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.04]</span> One paper accepted by ACM AIWare 2026 Benchmark and Dataset Track
@@ -355,6 +356,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 
 ## &#x1F4E3; Invited Talks
 
+<!-- - *Compressing Long Code Contexts for LLMs: From Naturalness to Multimodal Representation.* at Advanced Software Technologies (AST) Lab, ETH Zurich, May 2026 -->
 - *How to understand and debug large and complex programs?* at Ant Group, November 2025
 - *Hierarchical debugging with LLMs.* at CCF Synonym, November 2025
 - *How to compress long code context?* at CCF Synonym, November 2025
