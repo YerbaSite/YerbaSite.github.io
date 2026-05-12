@@ -324,9 +324,9 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 <details class="pub-collapsible" markdown="1">
 <summary><strong>Other Preprints</strong> — click to expand</summary>
 
-- <strong><span style="color: #03396c;">Reward-Decomposed Reinforcement Learning for Immersive Video Role-Playing</span></strong>  
-  [Preprint](https://arxiv.org/abs/2605.04733)  
-  Miao Wang†, <u><strong>Yuling Shi</strong></u>†, Yijiang Li, Yeheng Chen, Xiaodong Gu, Bin Li, Bo Gao, Yaduan Ruan
+- <strong><span style="color: #03396c;">BadDLM: Backdooring Diffusion Language Models with Diverse Targets</span></strong>  
+  [Preprint]()  
+  Shengfang Zhai, Xiaoyang Ji, <u><strong>Yuling Shi</strong></u>, Haoran Gao, Fanyu Meng, Yan Zeng, Yuejian Fang, Yinpeng Dong, Jiaheng Zhang
 
 - <strong><span style="color: #03396c;">Rethinking the Value of Agent-Generated Tests</span></strong>  
   [Preprint](https://arxiv.org/abs/2602.07900)  
