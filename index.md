@@ -230,7 +230,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 
 - <strong><span style="color: #03396c;">Rethinking Code Complexity Through the Lens of Large Language Models</span></strong>  
   [ICML 2026](https://arxiv.org/abs/2602.07882)  
-  Chen Xie, <u><strong>Yuling Shi</strong></u>, Xiaodong Gu, Beijun Shen
+  Chen Xie, Xiaodong Gu, <u><strong>Yuling Shi</strong></u>, Beijun Shen
 
 - <strong><span style="color: #03396c;">SRPO: Self-Reflective Policy Optimization for Long-Horizon Reasoning</span></strong>  
   [ICML 2026](https://openreview.net/forum?id=33073)  
