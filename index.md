@@ -158,6 +158,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 
 <!-- - <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Received ACM SIGSOFT ICSE 2026 CAPS Grant (Travel Support) -->
 <!-- - <span style="color: #4f6d8c; font-weight: 600;">[2026.05]</span> Invited talk at Advanced Software Technologies (AST) Lab, ETH Zurich: "Compressing Long Code Contexts for LLMs: From Naturalness to Multimodal Representation." -->
+<!-- - <span style="color: #4f6d8c; font-weight: 600;">[2026.05]</span> Serving as PC member for ICML 2026 Workshop DL4C; submissions are welcome -->
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.05]</span> Recognized as a Gold Reviewer (Top Reviewer) for ICML 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.05]</span> Received the Xiaomi MiMo Orbit API Research Support.
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.05]</span> Two papers accepted by ICML 2026
@@ -379,7 +380,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 - Teaching Assistant for FL4207 "Application of LLMs" (Fall 2025)
 
 ## &#x1F4BC; Services
-- Conference Reviewer: NeurIPS 2026, COLM 2026, ECCV 2026, ACL 2026, AIWare 2026, ICML 2026 (Top Reviewer), CVPR 2026, ICSE 2026 (Shadow PC), ICLR 2026/2025, ARR Oct 2025
+- Conference Reviewer: NeurIPS 2026, COLM 2026, ECCV 2026, ACL 2026, AIWare 2026, ICML 2026 (Top Reviewer), ICML 2026 Workshop DL4C, CVPR 2026, ICSE 2026 (Shadow PC), ICLR 2026/2025, ARR Oct 2025
 - Journal Reviewer: TSE, TMLR
 
 ## &#x1F3C6; Awards
