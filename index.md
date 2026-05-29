@@ -92,6 +92,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
           <a class="pill" href="https://arxiv.org/abs/2602.01785">👁️ CodeOCR <span class="v">ISSTA '26</span></a>
           <a class="pill" href="https://arxiv.org/abs/2601.16746">✂️ SWE-Pruner <span class="v">Preprint</span></a>
           <a class="pill" href="https://arxiv.org/abs/2503.10720">🎯 AttentionRAG <span class="v">ACL '25 KnowFM</span></a>
+          <a class="pill" href="https://www.preprints.org/manuscript/202605.2065">📚 Survey <span class="v">Preprint</span></a>
         </div></div>
       </li>
       <li><div class="leaf-wrap"><span class="nd nd-sub">Output Efficiency</span>
@@ -313,6 +314,10 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 - <strong><span style="color: #03396c;">SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents</span></strong>  
   [Preprint](https://arxiv.org/abs/2601.16746)  
   Yuhang Wang†, <u><strong>Yuling Shi</strong></u>†, Mo Yang, Rongrui Zhang, Shilin He, Heng Lian, Yuting Chen, Siyu Ye, Kai Cai, Xiaodong Gu
+
+- <strong><span style="color: #03396c;">Context Compression for LLM Agents: A Survey of Methods, Failure Modes, and Evaluation</span></strong>  
+  [Preprint](https://www.preprints.org/manuscript/202605.2065)  
+  Yifei Wang†, Ziteng Wang†, <u><strong>Yuling Shi</strong></u>, Silin Chen, Xinrui Wang, Yueqi Wang, Beijun Shen, Linjing Li, Xiaodong Gu, Julian McAuley, Daniel Dajun Zeng*
 
 - <strong><span style="color: #03396c;">Reward-Decomposed Reinforcement Learning for Immersive Video Role-Playing</span></strong>  
   [Preprint](https://arxiv.org/abs/2605.04733)  
