@@ -160,6 +160,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 <!-- - <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Received ACM SIGSOFT ICSE 2026 CAPS Grant (Travel Support) -->
 <!-- - <span style="color: #4f6d8c; font-weight: 600;">[2026.05]</span> Invited talk at Advanced Software Technologies (AST) Lab, ETH Zurich: "Compressing Long Code Contexts for LLMs: From Naturalness to Multimodal Representation." -->
 <!-- - <span style="color: #4f6d8c; font-weight: 600;">[2026.05]</span> Serving as PC member for ICML 2026 Workshop DL4C; submissions are welcome -->
+- <span style="color: #4f6d8c; font-weight: 600;">[2026.05]</span> One paper accepted by ECML-PKDD 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.05]</span> Recognized as a Gold Reviewer (Top Reviewer) for ICML 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.05]</span> Received the Xiaomi MiMo Orbit API Research Support.
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.05]</span> Two papers accepted by ICML 2026
@@ -230,6 +231,10 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 
 <details class="pub-collapsible" markdown="1">
 <summary><strong>Other Peer Reviewed Papers</strong> — click to expand</summary>
+
+- <strong><span style="color: #03396c;">Mirror-Fusion Attention for Reflection-Equivariant Self-Supervised Learning</span></strong>  
+  ECML-PKDD 2026  
+  Ruixin Li, Jin Liu, <u><strong>Yuling Shi</strong></u>, Stefano Lodi
 
 - <strong><span style="color: #03396c;">Rethinking Code Complexity Through the Lens of Large Language Models</span></strong>  
   [ICML 2026](https://arxiv.org/abs/2602.07882)  
