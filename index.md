@@ -376,7 +376,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 
 ## &#x1F4E3; Invited Talks
 
-<!-- - *Compressing Long Code Contexts for LLMs: From Naturalness to Multimodal Representation.* at Advanced Software Technologies (AST) Lab, ETH Zurich, May 2026 -->
+- *Compressing Long Code Contexts for LLMs.* at Advanced Software Technologies (AST) Lab, ETH Zurich, May 2026
 - *How to understand and debug large and complex programs?* at Ant Group, November 2025
 - *Hierarchical debugging with LLMs.* at CCF Synonym, November 2025
 - *How to compress long code context?* at CCF Synonym, November 2025
