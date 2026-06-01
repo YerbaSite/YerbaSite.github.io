@@ -4,8 +4,8 @@ layout: homepage
 
 ## &#x1F64B; About Me
 
-Hi, I am a fourth year Ph.D. student in the [LLM for Software Engineering Lab (LLMSE)](https://base.sjtu.edu.cn/home/doku.php?id=start), affiliated with the School of Software at Shanghai Jiao Tong University in China. I'm grateful to be advised by [Prof. Xiaodong Gu](https://guxd.github.io/) and [Prof. Beijun Shen](https://base.sjtu.edu.cn/home/doku.php?id=mem:bjshen). 
-<!-- I'm also very fortunate to collaborate with [Prof. Hongyu Zhang](https://sites.google.com/site/hongyujohn/) (IEEE Fellow) and [Prof. David Lo](http://www.mysmu.edu/faculty/davidlo/) (ACM/IEEE/ASE Fellow). -->
+Hi, I am a fourth year Ph.D. student in the [LLM for Software Engineering Lab (LLMSE)](https://base.sjtu.edu.cn/home/doku.php?id=start), affiliated with the School of Computer Science at Shanghai Jiao Tong University in China. I'm grateful to be advised by [Prof. Xiaodong Gu](https://guxd.github.io/) and [Prof. Beijun Shen](https://base.sjtu.edu.cn/home/doku.php?id=mem:bjshen). 
+<!-- I'm also very fortunate to learn from and collaborate with [Prof. Hongyu Zhang](https://sites.google.com/site/hongyujohn/), [Prof. David Lo](http://www.mysmu.edu/faculty/davidlo/), [Prof. Shing-Chi Cheung](https://www.cse.ust.hk/~scc/), [Prof. Daniel Dajun Zeng](https://en.wikipedia.org/wiki/Daniel_Zeng), [Prof. Zhendong Su](https://people.inf.ethz.ch/suz/), [Prof. Claire Le Goues](https://clairelegoues.com/), [Prof. Nigel Collier](https://sites.google.com/site/nhcollier/) and [Prof. Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/). -->
 
 Some of my recent projects can be found in my Github homepage [here](https://github.com/YerbaPage). Feel free to contact me if you are interested in my work or have any questions.
 
@@ -169,6 +169,10 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.04]</span> One paper accepted by SIGIR 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Serving as PC member of AIWare 2026 Datasets & Benchmarks track; submissions are welcome
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Two papers accepted by CVPR 2026
+
+<details class="pub-collapsible" markdown="1">
+<summary><strong>Earlier News</strong> — click to expand</summary>
+
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.01]</span> Serving as PC member of AIware 2026; submissions are welcome
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.01]</span> Awarded Shanghai Association for Artificial Intelligence Youth Outstanding Paper Award
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.01]</span> Two papers accepted by ICLR 2026
@@ -190,6 +194,8 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 - <span style="color: #4f6d8c; font-weight: 600;">[2024.10]</span> Invited talk at Tongyi Lab, Alibaba: "Hierarchical debugging with LLMs."
 - <span style="color: #4f6d8c; font-weight: 600;">[2024.08]</span> Invited talk at CCF Synonym: "How to detect LLM generated code?"
 - <span style="color: #4f6d8c; font-weight: 600;">[2024.07]</span> One paper accepted by ICSE 2025
+
+</details>
 
 ## &#x1F4DD; Selected Publications 
 † denotes equal contribution.
