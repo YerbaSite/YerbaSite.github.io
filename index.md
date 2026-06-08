@@ -341,6 +341,10 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 <details class="pub-collapsible" markdown="1">
 <summary><strong>Other Preprints</strong> — click to expand</summary>
 
+- <strong><span style="color: #03396c;">SWE-Explore: Benchmarking How Coding Agents Explore Repositories</span></strong>  
+  [Preprint](https://arxiv.org/abs/2606.07297)  
+  Shaoqiu Zhang, Yuhang Wang, Jialiang Liang, <u><strong>Yuling Shi</strong></u>, Wenhao Zeng, Maoquan Wang, Shilin He, Ningyuan Xu, Siyu Ye, Kai Cai, Xiaodong Gu
+
 - <strong><span style="color: #03396c;">BadDLM: Backdooring Diffusion Language Models with Diverse Targets</span></strong>  
   [Preprint]()  
   Shengfang Zhai, Xiaoyang Ji, <u><strong>Yuling Shi</strong></u>, Haoran Gao, Fanyu Meng, Yan Zeng, Yuejian Fang, Yinpeng Dong, Jiaheng Zhang
