@@ -114,6 +114,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
           <a class="pill" href="https://arxiv.org/abs/2601.00376">📝 InlineCoder <span class="v">FSE '26</span></a>
           <a class="pill" href="https://arxiv.org/abs/2508.04295">🦀 EVOC2RUST <span class="v">ICSE '26 SEIP</span></a>
           <a class="pill" href="https://arxiv.org/abs/2602.07882">📐 LM-CC <span class="v">ICML '26</span></a>
+          <a class="pill" href="https://arxiv.org/abs/2606.09577">🎲 Code UE <span class="v">Preprint</span></a>
           <!-- <a class="pill" href="https://arxiv.org/abs/2509.26628">🧭 AttentionRL <span class="v">ICLR '26</span></a> -->
           <!-- <a class="pill" href="https://doi.org/10.48550/arXiv.2601.11255">🌳 RTRAG <span class="v">WWW '26 GLOW</span></a> -->
         </div></div>
@@ -142,6 +143,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
       <li><div class="leaf-wrap"><span class="nd nd-sub">Benchmarking &amp; Reliability</span>
         <div class="pills">
           <a class="pill" href="https://arxiv.org/abs/2509.14635">🧐 SWE-QA <span class="v">ACL '26 Findings</span></a>
+          <a class="pill" href="https://arxiv.org/abs/2606.07297">🧭 SWE-Explore <span class="v">Preprint</span></a>
           <a class="pill" href="https://arxiv.org/abs/2604.26923">📦 ClassEval-Pro <span class="v">AIWare '26 D&B</span></a>
           <!-- <a class="pill" href="https://chengcheng-wan.github.io/paper/26-ICSE-Comfrey.pdf">🛡️ Comfrey <span class="v">ICSE '26</span></a> -->
           <!-- <a class="pill" href="https://arxiv.org/abs/2506.21614">📏 LastingBench <span class="v">EMNLP '25</span></a> -->
@@ -320,6 +322,10 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 </details>
 
 ### Preprints
+
+- <strong><span style="color: #03396c;">Code Is More Than Text: Uncertainty Estimation for Code Generation</span></strong>  
+  [Preprint](https://arxiv.org/abs/2606.09577)  
+  <u><strong>Yuling Shi</strong></u>†, Caiqi Zhang†, Yuexian Li, Haopeng Wang, Yeheng Chen, Nigel Collier, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents</span></strong>  
   [Preprint](https://arxiv.org/abs/2601.16746)  
