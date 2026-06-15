@@ -132,6 +132,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
     <ul>
       <li><div class="leaf-wrap"><span class="nd nd-sub">Agentic Coding</span>
         <div class="pills">
+          <a class="pill" href="https://arxiv.org/abs/2606.14066">🚀 FastContext <span class="v">Preprint</span></a>
           <a class="pill" href="https://arxiv.org/abs/2507.23348">💬 SWE-Debate <span class="v">ICSE '26</span></a>
           <a class="pill" href="https://arxiv.org/abs/2507.23361">📚 SWE-Exp <span class="v">Preprint</span></a>
           <a class="pill" href="https://arxiv.org/abs/2602.07900">🧪 Rethinking Agent Tests <span class="v">Preprint</span></a>
@@ -326,6 +327,10 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 - <strong><span style="color: #03396c;">Code Is More Than Text: Uncertainty Estimation for Code Generation</span></strong>  
   [Preprint](https://arxiv.org/abs/2606.09577)  
   <u><strong>Yuling Shi</strong></u>†, Caiqi Zhang†, Yuexian Li, Haopeng Wang, Yeheng Chen, Nigel Collier, Xiaodong Gu
+
+- <strong><span style="color: #03396c;">FastContext: Training Efficient Repository Explorer for Coding Agents</span></strong>  
+  [Preprint](https://arxiv.org/abs/2606.14066)  
+  Shaoqiu Zhang†, Maoquan Wang†, <u><strong>Yuling Shi</strong></u>†, Yuhang Wang, Xiaodong Gu, Yongqiang Yao, Rao Fu, Shengyu Fu
 
 - <strong><span style="color: #03396c;">SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents</span></strong>  
   [Preprint](https://arxiv.org/abs/2601.16746)  
