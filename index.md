@@ -162,7 +162,8 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 
 <!-- - <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Received ACM SIGSOFT ICSE 2026 CAPS Grant (Travel Support) -->
 <!-- - <span style="color: #4f6d8c; font-weight: 600;">[2026.05]</span> Invited talk at Advanced Software Technologies (AST) Lab, ETH Zurich: "Compressing Long Code Contexts for LLMs: From Naturalness to Multimodal Representation." -->
-- <span style="color: #4f6d8c; font-weight: 600;">[2026.06]</span> [FastContext](https://arxiv.org/abs/2606.14066) reached #1 on [SWE-Bench Multilingual leaderboard](https://paperswithcode.co/benchmark/swe-bench-multilingual?task=coding-agents&eval=10034)
+- <span style="color: #4f6d8c; font-weight: 600;">[2026.06]</span> One paper accepted by ASE 2026
+- <span style="color: #4f6d8c; font-weight: 600;">[2026.06]</span> <a href="https://arxiv.org/abs/2606.14066" style="color: inherit;">FastContext</a> reached #1 on <a href="https://paperswithcode.co/benchmark/swe-bench-multilingual?task=coding-agents&eval=10034" style="color: inherit;">SWE-Bench Multilingual leaderboard</a>
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.05]</span> One paper accepted by ECML-PKDD 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.05]</span> Recognized as a Gold Reviewer (Top Reviewer) for ICML 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.05]</span> Received the Xiaomi MiMo Orbit API Research Support.
