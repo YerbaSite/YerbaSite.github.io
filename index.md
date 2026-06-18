@@ -90,6 +90,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
         <div class="pills">
           <a class="pill" href="https://arxiv.org/abs/2510.00446">🗜️ LongCodeZip <span class="v">ASE '25</span></a>
           <a class="pill" href="https://arxiv.org/abs/2602.01785">👁️ CodeOCR <span class="v">ISSTA '26</span></a>
+          <a class="pill" href="#selected-publications">🗺️ SeeRepo <span class="v">ASE '26</span></a>
           <a class="pill" href="https://arxiv.org/abs/2601.16746">✂️ SWE-Pruner <span class="v">Preprint</span></a>
           <a class="pill" href="https://arxiv.org/abs/2503.10720">🎯 AttentionRAG <span class="v">ACL '25 KnowFM</span></a>
           <a class="pill" href="https://www.preprints.org/manuscript/202605.2065">📚 Survey <span class="v">Preprint</span></a>
@@ -241,6 +242,10 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 
 <details class="pub-collapsible" markdown="1">
 <summary><strong>Other Peer Reviewed Papers</strong> — click to expand</summary>
+
+- <strong><span style="color: #03396c;">LLM Agents Can See Code Repositories</span></strong>  
+  ASE 2026  
+  Dongjian Ma, Silin Chen, Yufei Yang, <u><strong>Yuling Shi</strong></u>, Yanfu Yan, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">Mirror-Fusion Attention for Reflection-Equivariant Self-Supervised Learning</span></strong>  
   ECML-PKDD 2026  
