@@ -244,7 +244,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
   <u><strong>Yuling Shi</strong></u>, Hongyu Zhang, Chengcheng Wan, Xiaodong Gu
 
 <details class="pub-collapsible" markdown="1">
-<summary><strong>Other Peer Reviewed Papers</strong> — click to expand</summary> 
+<summary><strong>Other Peer Reviewed Papers</strong> — click to expand</summary>
 
 - <strong><span style="color: #03396c;">Test vs Mutant: Adversarial LLM Agents for Robust Unit Test Generation</span></strong>  
   [ISSTA 2026](https://arxiv.org/abs/2602.08146)  
