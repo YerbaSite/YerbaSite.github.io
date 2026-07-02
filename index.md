@@ -90,7 +90,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
         <div class="pills">
           <a class="pill" href="https://arxiv.org/abs/2510.00446">🗜️ LongCodeZip <span class="v">ASE '25</span></a>
           <a class="pill" href="https://arxiv.org/abs/2602.01785">👁️ CodeOCR <span class="v">ISSTA '26</span></a>
-          <a class="pill" href="#selected-publications">🗺️ SeeRepo <span class="v">ASE '26</span></a>
+          <a class="pill" href="https://arxiv.org/abs/2606.14061">🗺️ SeeRepo <span class="v">ASE '26</span></a>
           <a class="pill" href="https://arxiv.org/abs/2601.16746">✂️ SWE-Pruner <span class="v">Preprint</span></a>
           <a class="pill" href="https://arxiv.org/abs/2503.10720">🎯 AttentionRAG <span class="v">ACL '25 KnowFM</span></a>
           <a class="pill" href="https://www.preprints.org/manuscript/202605.2065">📚 Survey <span class="v">Preprint</span></a>
@@ -133,6 +133,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
     <ul>
       <li><div class="leaf-wrap"><span class="nd nd-sub">Agentic Coding</span>
         <div class="pills">
+          <a class="pill" href="https://arxiv.org/abs/2606.28436">🐳 Dockerless <span class="v">Preprint</span></a>
           <a class="pill" href="https://arxiv.org/abs/2606.14066">🚀 FastContext <span class="v">Preprint</span></a>
           <a class="pill" href="https://arxiv.org/abs/2507.23348">💬 SWE-Debate <span class="v">ICSE '26</span></a>
           <a class="pill" href="https://arxiv.org/abs/2507.23361">📚 SWE-Exp <span class="v">Preprint</span></a>
@@ -145,6 +146,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
       <li><div class="leaf-wrap"><span class="nd nd-sub">Benchmarking &amp; Reliability</span>
         <div class="pills">
           <a class="pill" href="https://arxiv.org/abs/2509.14635">🧐 SWE-QA <span class="v">ACL '26 Findings</span></a>
+          <a class="pill" href="https://arxiv.org/abs/2607.01211">📊 PerfOpt Bench <span class="v">Preprint</span></a>
           <a class="pill" href="https://arxiv.org/abs/2606.07297">🧭 SWE-Explore <span class="v">Preprint</span></a>
           <a class="pill" href="https://arxiv.org/abs/2604.26923">📦 ClassEval-Pro <span class="v">AIWare '26 D&B</span></a>
           <!-- <a class="pill" href="https://chengcheng-wan.github.io/paper/26-ICSE-Comfrey.pdf">🛡️ Comfrey <span class="v">ICSE '26</span></a> -->
@@ -249,7 +251,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
   Pengyu Chang, Yixiong Fang, Silin Chen, <u><strong>Yuling Shi</strong></u>, Beijun Shen, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">LLM Agents Can See Code Repositories</span></strong>  
-  ASE 2026  
+  [ASE 2026](https://arxiv.org/abs/2606.14061)  
   Dongjian Ma, Silin Chen, Yufei Yang, <u><strong>Yuling Shi</strong></u>, Yanfu Yan, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">Mirror-Fusion Attention for Reflection-Equivariant Self-Supervised Learning</span></strong>  
@@ -340,17 +342,13 @@ My research focuses on **LLM for Code** — enabling large language models to ef
   [Preprint](https://arxiv.org/abs/2606.09577)  
   <u><strong>Yuling Shi</strong></u>†, Caiqi Zhang†, Yuexian Li, Haopeng Wang, Yeheng Chen, Nigel Collier, Xiaodong Gu
 
-- <strong><span style="color: #03396c;">FastContext: Training Efficient Repository Explorer for Coding Agents</span></strong>  
-  [Preprint](https://arxiv.org/abs/2606.14066)  
-  Shaoqiu Zhang†, Maoquan Wang†, <u><strong>Yuling Shi</strong></u>†, Yuhang Wang, Xiaodong Gu, Yongqiang Yao, Rao Fu, Shengyu Fu
+- <strong><span style="color: #03396c;">Dockerless: Environment-Free Program Verifier for Coding Agents</span></strong>  
+  [Preprint](https://arxiv.org/abs/2606.28436)  
+  Wenhao Zeng†, <u><strong>Yuling Shi</strong></u>†, Xiaodong Gu, Chao Hu, Chaofan Wang, Yuhao Cui, Hongting Zhou, Mengnan Qi, Jianqiao Wangni, Zhaojian Yu, Shuzheng Gao, Kai Cai, Shilin He
 
 - <strong><span style="color: #03396c;">SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents</span></strong>  
   [Preprint](https://arxiv.org/abs/2601.16746)  
   Yuhang Wang†, <u><strong>Yuling Shi</strong></u>†, Mo Yang, Rongrui Zhang, Shilin He, Heng Lian, Yuting Chen, Siyu Ye, Kai Cai, Xiaodong Gu
-
-- <strong><span style="color: #03396c;">Context Compression for LLM Agents: A Survey of Methods, Failure Modes, and Evaluation</span></strong>  
-  [Preprint](https://www.preprints.org/manuscript/202605.2065)  
-  Yifei Wang†, Ziteng Wang†, <u><strong>Yuling Shi</strong></u>, Silin Chen, Xinrui Wang, Yueqi Wang, Beijun Shen, Linjing Li, Xiaodong Gu, Julian McAuley, Daniel Dajun Zeng*
 
 - <strong><span style="color: #03396c;">Reward-Decomposed Reinforcement Learning for Immersive Video Role-Playing</span></strong>  
   [Preprint](https://arxiv.org/abs/2605.04733)  
@@ -360,9 +358,21 @@ My research focuses on **LLM for Code** — enabling large language models to ef
   [Preprint](https://arxiv.org/abs/2603.27850)  
   Zimu Wang†, <u><strong>Yuling Shi</strong></u>†, Mengfan Li, Zijun Liu, Jie M. Zhang, Chengcheng Wan, Xiaodong Gu 
 
+- <strong><span style="color: #03396c;">FastContext: Training Efficient Repository Explorer for Coding Agents</span></strong>  
+  [Preprint](https://arxiv.org/abs/2606.14066)  
+  Shaoqiu Zhang†, Maoquan Wang†, <u><strong>Yuling Shi</strong></u>†, Yuhang Wang, Xiaodong Gu, Yongqiang Yao, Rao Fu, Shengyu Fu
+
+- <strong><span style="color: #03396c;">Context Compression for LLM Agents: A Survey of Methods, Failure Modes, and Evaluation</span></strong>  
+  [Preprint](https://www.preprints.org/manuscript/202605.2065)  
+  Yifei Wang†, Ziteng Wang†, <u><strong>Yuling Shi</strong></u>, Silin Chen, Xinrui Wang, Yueqi Wang, Beijun Shen, Linjing Li, Xiaodong Gu, Julian McAuley, Daniel Dajun Zeng*
+
 
 <details class="pub-collapsible" markdown="1">
 <summary><strong>Other Preprints</strong> — click to expand</summary>
+
+- <strong><span style="color: #03396c;">Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?</span></strong>  
+  [Preprint](https://arxiv.org/abs/2607.01211)  
+  Zhi Chen, Zhensu Sun, <u><strong>Yuling Shi</strong></u>, David Lo, Lingxiao Jiang
 
 - <strong><span style="color: #03396c;">SWE-Explore: Benchmarking How Coding Agents Explore Repositories</span></strong>  
   [Preprint](https://arxiv.org/abs/2606.07297)  
