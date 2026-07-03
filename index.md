@@ -254,8 +254,8 @@ My research focuses on **LLM for Code** — enabling large language models to ef
   [ASE 2026](https://arxiv.org/abs/2606.14061)  
   Dongjian Ma, Silin Chen, Yufei Yang, <u><strong>Yuling Shi</strong></u>, Yanfu Yan, Xiaodong Gu
 
-- <strong><span style="color: #03396c;">Mirror-Fusion Attention for Reflection-Equivariant Self-Supervised Learning</span></strong>  
-  ECML-PKDD 2026  
+- <strong><span style="color: #03396c;">Mirror-Fusion Attention for Reflection-Aware Self-Supervised Representation Learning</span></strong>  
+  [ECML-PKDD 2026](https://arxiv.org/abs/2607.00850)  
   Ruixin Li, Jin Liu, <u><strong>Yuling Shi</strong></u>, Stefano Lodi
 
 - <strong><span style="color: #03396c;">Rethinking Code Complexity Through the Lens of Large Language Models</span></strong>  
