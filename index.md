@@ -146,6 +146,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
       <li><div class="leaf-wrap"><span class="nd nd-sub">Benchmarking &amp; Reliability</span>
         <div class="pills">
           <a class="pill" href="https://arxiv.org/abs/2509.14635">🧐 SWE-QA <span class="v">ACL '26 Findings</span></a>
+          <a class="pill" href="#selected-publications">🌊 SWE-Cascade <span class="v">COLM '26</span></a>
           <a class="pill" href="https://arxiv.org/abs/2607.01211">📊 PerfOpt Bench <span class="v">Preprint</span></a>
           <a class="pill" href="https://arxiv.org/abs/2606.07297">🧭 SWE-Explore <span class="v">Preprint</span></a>
           <a class="pill" href="https://arxiv.org/abs/2604.26923">📦 ClassEval-Pro <span class="v">AIWare '26 D&B</span></a>
@@ -165,6 +166,8 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 
 <!-- - <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Received ACM SIGSOFT ICSE 2026 CAPS Grant (Travel Support) -->
 <!-- - <span style="color: #4f6d8c; font-weight: 600;">[2026.05]</span> Invited talk at Advanced Software Technologies (AST) Lab, ETH Zurich: "Compressing Long Code Contexts for LLMs: From Naturalness to Multimodal Representation." -->
+- <span style="color: #4f6d8c; font-weight: 600;">[2026.07]</span> One paper accepted by ACM MM 2026
+- <span style="color: #4f6d8c; font-weight: 600;">[2026.07]</span> One paper accepted by COLM 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.06]</span> One paper accepted by ISSTA 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.06]</span> One paper accepted by ASE 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.06]</span> <a href="https://arxiv.org/abs/2606.14066" style="color: inherit;">FastContext</a> reached #1 on <a href="https://paperswithcode.co/benchmark/swe-bench-multilingual?task=coding-agents&eval=10034" style="color: inherit;">SWE-Bench Multilingual leaderboard</a>
@@ -210,6 +213,10 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 † denotes equal contribution.
 
 ### Peer Reviewed
+
+- <strong><span style="color: #03396c;">SWE-Cascade: Benchmarking Agents on Large-Scale Multilingual Code Refactoring</span></strong><br>
+  COLM 2026<br>
+  <u><strong>Yuling Shi</strong></u>† Jinghan Xu†, Kelin Fu, Wenhao Zeng, Yingwei Ma, Shilin He, Lei Zhang, Yue Liu, Zelin Zhao, Terry Yue Zhuo, Jialun Cao, Siyu Ye, Tianyu Liu, Kai Cai, Shing-Chi Cheung, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">CodeOCR: On the Effectiveness of Vision Language Models in Code Understanding</span></strong>  
   [ISSTA 2026](https://arxiv.org/abs/2602.01785)  
@@ -273,6 +280,10 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 - <strong><span style="color: #03396c;">GlimpRouter: Efficient Collaborative Inference by Glimpsing One Token of Thoughts</span></strong>  
   [ACL 2026 Findings](https://arxiv.org/abs/2601.05110)  
   Wenhao Zeng, Xuteng Zhang, <u><strong>Yuling Shi</strong></u>, Chao Hu, Yuting Chen, Beijun Shen, Xiaodong Gu
+
+- <strong><span style="color: #03396c;">HyperBalance: Hypergraph-based Topology Optimization for Reliable Multi-Agent Communication</span></strong><br>
+  ACM MM 2026<br>
+  Heng Zhang, Yihao Zhong, <u><strong>Yuling Shi</strong></u>, Xinyuan Liu, Jiawei Chen, Lubin Gan, Hao Zhang, Jin Huang
 
 - <strong><span style="color: #03396c;">EvoHyper: Evolving Hypergraph Topologies for Unified Collaboration in Multi-Agent Communication</span></strong>  
   ACL 2026 Findings  
