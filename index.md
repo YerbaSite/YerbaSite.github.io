@@ -92,6 +92,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
           <a class="pill" href="https://arxiv.org/abs/2602.01785">👁️ CodeOCR <span class="v">ISSTA '26</span></a>
           <a class="pill" href="https://arxiv.org/abs/2606.14061">🗺️ SeeRepo <span class="v">ASE '26</span></a>
           <a class="pill" href="https://arxiv.org/abs/2601.16746">✂️ SWE-Pruner <span class="v">Preprint</span></a>
+          <a class="pill" href="https://arxiv.org/abs/2607.18213">✂️ SWE-Pruner Pro <span class="v">Preprint</span></a>
           <a class="pill" href="https://arxiv.org/abs/2503.10720">🎯 AttentionRAG <span class="v">ACL '25 KnowFM</span></a>
           <a class="pill" href="https://www.preprints.org/manuscript/202605.2065">📚 Survey <span class="v">Preprint</span></a>
         </div></div>
@@ -134,7 +135,8 @@ My research focuses on **LLM for Code** — enabling large language models to ef
       <li><div class="leaf-wrap"><span class="nd nd-sub">Agentic Coding</span>
         <div class="pills">
           <a class="pill" href="https://arxiv.org/abs/2606.28436">🐳 Dockerless <span class="v">Preprint</span></a>
-          <a class="pill" href="https://arxiv.org/abs/2606.14066">🚀 FastContext <span class="v">Preprint</span></a>
+          <a class="pill" href="https://arxiv.org/pdf/2606.14066v1">🚀 FastContext <span class="v">Preprint</span></a>
+          <a class="pill" href="https://arxiv.org/abs/2607.11111">🧠 ACQUIRE <span class="v">Preprint</span></a>
           <a class="pill" href="https://arxiv.org/abs/2507.23348">💬 SWE-Debate <span class="v">ICSE '26</span></a>
           <a class="pill" href="https://arxiv.org/abs/2507.23361">📚 SWE-Exp <span class="v">Preprint</span></a>
           <a class="pill" href="https://arxiv.org/abs/2602.07900">🧪 Rethinking Agent Tests <span class="v">Preprint</span></a>
@@ -152,7 +154,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
           <a class="pill" href="https://arxiv.org/abs/2604.26923">📦 ClassEval-Pro <span class="v">AIWare '26 D&B</span></a>
           <!-- <a class="pill" href="https://chengcheng-wan.github.io/paper/26-ICSE-Comfrey.pdf">🛡️ Comfrey <span class="v">ICSE '26</span></a> -->
           <!-- <a class="pill" href="https://arxiv.org/abs/2506.21614">📏 LastingBench <span class="v">EMNLP '25</span></a> -->
-          <!-- <a class="pill" href="https://arxiv.org/abs/2510.20498">🔒 RPS <span class="v">ICLR '26</span></a> -->
+          <a class="pill" href="https://arxiv.org/abs/2510.20498">🔒 RPS <span class="v">ICLR '26</span></a>
         </div></div>
       </li>
     </ul>
@@ -170,7 +172,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.07]</span> One paper accepted by COLM 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.06]</span> One paper accepted by ISSTA 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.06]</span> One paper accepted by ASE 2026
-- <span style="color: #4f6d8c; font-weight: 600;">[2026.06]</span> <a href="https://arxiv.org/abs/2606.14066" style="color: inherit;">FastContext</a> reached #1 on <a href="https://paperswithcode.co/benchmark/swe-bench-multilingual?task=coding-agents&eval=10034" style="color: inherit;">SWE-Bench Multilingual leaderboard</a>
+- <span style="color: #4f6d8c; font-weight: 600;">[2026.06]</span> <a href="https://arxiv.org/pdf/2606.14066v1" style="color: inherit;">FastContext</a> reached #1 on <a href="https://paperswithcode.co/benchmark/swe-bench-multilingual?task=coding-agents&eval=10034" style="color: inherit;">SWE-Bench Multilingual leaderboard</a>
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.05]</span> One paper accepted by ECML-PKDD 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.05]</span> Recognized as a Gold Reviewer (Top Reviewer) for ICML 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.05]</span> Received the Xiaomi MiMo Orbit API Research Support.
@@ -370,8 +372,12 @@ My research focuses on **LLM for Code** — enabling large language models to ef
   Zimu Wang†, <u><strong>Yuling Shi</strong></u>†, Mengfan Li, Zijun Liu, Jie M. Zhang, Chengcheng Wan, Xiaodong Gu 
 
 - <strong><span style="color: #03396c;">FastContext: Training Efficient Repository Explorer for Coding Agents</span></strong>  
-  [Preprint](https://arxiv.org/abs/2606.14066)  
+  [Preprint](https://arxiv.org/pdf/2606.14066v1)<br>
   Shaoqiu Zhang†, Maoquan Wang†, <u><strong>Yuling Shi</strong></u>†, Yuhang Wang, Xiaodong Gu, Yongqiang Yao, Rao Fu, Shengyu Fu
+
+- <strong><span style="color: #03396c;">SWE-Pruner Pro: The Coder LLM Already Knows What to Prune</span></strong><br>
+  [Preprint](https://arxiv.org/abs/2607.18213)<br>
+  Yuhang Wang†, <u><strong>Yuling Shi</strong></u>†, Shaoqiu Zhang, Jialiang Liang, Shilin He, Siyu Ye, Yuting Chen, Kai Cai, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">Context Compression for LLM Agents: A Survey of Methods, Failure Modes, and Evaluation</span></strong>  
   [Preprint](https://www.preprints.org/manuscript/202605.2065)  
@@ -384,6 +390,10 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 - <strong><span style="color: #03396c;">Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?</span></strong>  
   [Preprint](https://arxiv.org/abs/2607.01211)  
   Zhi Chen, Zhensu Sun, <u><strong>Yuling Shi</strong></u>, David Lo, Lingxiao Jiang
+
+- <strong><span style="color: #03396c;">Know Before Fix: QA-Driven Repository Knowledge Acquisition for Software Issue Resolution</span></strong><br>
+  [Preprint](https://arxiv.org/abs/2607.11111)<br>
+  Haotian Lin, Silin Chen, Xiaodong Gu, <u><strong>Yuling Shi</strong></u>, Chengxi Pan, Jiaqi Ge, Mengfan Li, Jianghong Huang, Mengchieh Chuang, Beijun Shen, Haibing Guan
 
 - <strong><span style="color: #03396c;">SWE-Explore: Benchmarking How Coding Agents Explore Repositories</span></strong>  
   [Preprint](https://arxiv.org/abs/2606.07297)  
