@@ -4,7 +4,8 @@ layout: homepage
 
 ## &#x1F64B; About Me
 
-Hi, I am a fourth year Ph.D. student in the [LLM for Software Engineering Lab (LLMSE)](https://base.sjtu.edu.cn/home/doku.php?id=start), affiliated with the School of Computer Science at Shanghai Jiao Tong University in China. I'm grateful to be advised by [Prof. Xiaodong Gu](https://guxd.github.io/) and [Prof. Beijun Shen](https://base.sjtu.edu.cn/home/doku.php?id=mem:bjshen). 
+Hi, I am a fourth year Ph.D. student in the [LLM for Software Engineering Lab (LLMSE)](https://base.sjtu.edu.cn/home/doku.php?id=start), affiliated with the School of Computer Science at Shanghai Jiao Tong University in China. I'm grateful to be advised by [Prof. Xiaodong Gu](https://guxd.github.io/).
+ <!-- and [Prof. Beijun Shen](https://base.sjtu.edu.cn/home/doku.php?id=mem:bjshen).  -->
 <!-- I'm also very fortunate to learn from and collaborate with [Prof. Hongyu Zhang](https://sites.google.com/site/hongyujohn/), [Prof. David Lo](http://www.mysmu.edu/faculty/davidlo/), [Prof. Shing-Chi Cheung](https://www.cse.ust.hk/~scc/), [Prof. Daniel Dajun Zeng](https://en.wikipedia.org/wiki/Daniel_Zeng), [Prof. Zhendong Su](https://people.inf.ethz.ch/suz/), [Prof. Claire Le Goues](https://clairelegoues.com/), [Prof. Nigel Collier](https://sites.google.com/site/nhcollier/) and [Prof. Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/). -->
 
 Some of my recent projects can be found in my Github homepage [here](https://github.com/YerbaPage). Feel free to contact me if you are interested in my work or have any questions.
