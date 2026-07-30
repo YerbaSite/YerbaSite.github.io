@@ -435,7 +435,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 
 ## &#x1F4E3; Invited Talks
 
-- *Building Context-Efficient Coding Agents.* at the Applied Research Division, JetBrains Research, July 2026
+- *Building Context-Efficient Coding Agents.* at JetBrains Research, July 2026
 - *Compressing Long Code Contexts for LLMs.* at Advanced Software Technologies (AST) Lab, ETH Zurich, May 2026
 - *How to understand and debug large and complex programs?* at Ant Group, November 2025
 - *Hierarchical debugging with LLMs.* at CCF Synonym, November 2025
