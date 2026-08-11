@@ -4,8 +4,7 @@ layout: homepage
 
 ## &#x1F64B; About Me
 
-Hi, I am a fourth year Ph.D. student in the [LLM for Software Engineering Lab (LLMSE)](https://base.sjtu.edu.cn/home/doku.php?id=start), affiliated with the School of Computer Science at Shanghai Jiao Tong University in China. I'm grateful to be advised by [Prof. Xiaodong Gu](https://guxd.github.io/).
- <!-- and [Prof. Beijun Shen](https://base.sjtu.edu.cn/home/doku.php?id=mem:bjshen).  -->
+Hi, I am a fourth year Ph.D. student in the [LLM for Software Engineering Lab (LLMSE)](https://base.sjtu.edu.cn/home/doku.php?id=start), affiliated with the School of Computer Science at Shanghai Jiao Tong University in China. I'm grateful to be advised by [Prof. Xiaodong Gu](https://guxd.github.io/) and [Prof. Beijun Shen](https://base.sjtu.edu.cn/home/doku.php?id=mem:bjshen).
 <!-- I'm also very fortunate to learn from and collaborate with [Prof. Hongyu Zhang](https://sites.google.com/site/hongyujohn/), [Prof. David Lo](http://www.mysmu.edu/faculty/davidlo/), [Prof. Shing-Chi Cheung](https://www.cse.ust.hk/~scc/), [Prof. Daniel Dajun Zeng](https://en.wikipedia.org/wiki/Daniel_Zeng), [Prof. Zhendong Su](https://people.inf.ethz.ch/suz/), [Prof. Claire Le Goues](https://clairelegoues.com/), [Prof. Nigel Collier](https://sites.google.com/site/nhcollier/) and [Prof. Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/). -->
 
 Some of my recent projects can be found in my Github homepage [here](https://github.com/YerbaPage). Feel free to contact me if you are interested in my work or have any questions.
@@ -149,7 +148,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
       <li><div class="leaf-wrap"><span class="nd nd-sub">Benchmarking &amp; Reliability</span>
         <div class="pills">
           <a class="pill" href="https://arxiv.org/abs/2509.14635">🧐 SWE-QA <span class="v">ACL '26 Findings</span></a>
-          <a class="pill" href="#selected-publications">🌊 SWE-Cascade <span class="v">COLM '26</span></a>
+          <a class="pill" href="#selected-publications">🌊 SWE-Bench ProMax <span class="v">COLM '26</span></a>
           <a class="pill" href="https://arxiv.org/abs/2607.01211">📊 PerfOpt Bench <span class="v">Preprint</span></a>
           <a class="pill" href="https://arxiv.org/abs/2606.07297">🧭 SWE-Explore <span class="v">Preprint</span></a>
           <a class="pill" href="https://arxiv.org/abs/2604.26923">📦 ClassEval-Pro <span class="v">AIWare '26 D&B</span></a>
@@ -217,8 +216,8 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 
 ### Peer Reviewed
 
-- <strong><span style="color: #03396c;">SWE-Cascade: Benchmarking Agents on Large-Scale Multilingual Code Refactoring</span></strong><br>
-  COLM 2026<br>
+- <strong><span style="color: #03396c;">SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring</span></strong><br>
+  [COLM 2026](https://arxiv.org/pdf/2608.09802)<br>
   <u><strong>Yuling Shi</strong></u>† Jinghan Xu†, Kelin Fu, Wenhao Zeng, Yingwei Ma, Shilin He, Lei Zhang, Yue Liu, Zelin Zhao, Terry Yue Zhuo, Jialun Cao, Siyu Ye, Tianyu Liu, Kai Cai, Shing-Chi Cheung, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">CodeOCR: On the Effectiveness of Vision Language Models in Code Understanding</span></strong>  
