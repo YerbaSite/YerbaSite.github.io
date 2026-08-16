@@ -453,7 +453,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 
 ## &#x1F4BC; Services
 - Conference Reviewer: NeurIPS 2026, COLM 2026, ECCV 2026, ACL 2026, AIWare 2026, ICML 2026 (Top Reviewer), ICML 2026 Workshop DL4C, CVPR 2026, ICSE 2026 (Shadow PC), ICLR 2026/2025, ARR Oct 2025
-- Journal Reviewer: TSE, TOSEM, TMLR 
+- Journal Reviewer: TSE, TOSEM, TPAMI, TMLR
 
 ## &#x1F3C6; Awards
 - &#x1F3C6; ICML 2026 Top Reviewer
