@@ -96,13 +96,13 @@ My research focuses on **LLM for Code** — enabling large language models to ef
           <a class="pill" href="https://arxiv.org/abs/2601.16746">✂️ SWE-Pruner <span class="v">Preprint</span></a>
           <a class="pill" href="https://arxiv.org/abs/2607.18213">✂️ SWE-Pruner Pro <span class="v">Preprint</span></a>
           <a class="pill" href="https://arxiv.org/abs/2503.10720">🎯 AttentionRAG <span class="v">ACL '25 KnowFM</span></a>
-          <a class="pill" href="https://www.preprints.org/manuscript/202605.2065">📚 Survey <span class="v">Preprint</span></a>
+          <a class="pill" href="https://www.preprints.org/manuscript/202605.2065">📚 Survey <span class="v">EMNLP '26</span></a>
         </div></div>
       </li>
       <li><div class="leaf-wrap"><span class="nd nd-sub">Output Efficiency</span>
         <div class="pills">
           <a class="pill" href="https://arxiv.org/abs/2601.05110">🔀 GlimpRouter <span class="v">ACL '26 Findings</span></a>
-          <a class="pill" href="https://arxiv.org/abs/2508.05988">⚡ ASAP <span class="v">Preprint</span></a>
+          <a class="pill" href="https://arxiv.org/abs/2508.05988">⚡ ASAP <span class="v">EMNLP '26 Findings</span></a>
           <a class="pill" href="https://arxiv.org/abs/2603.27850">🛠️ EffiSkill <span class="v">Preprint</span></a>
           <a class="pill" href="https://openreview.net/forum?id=33073">🪞 SRPO <span class="v">ICML '26</span></a>
         </div></div>
@@ -136,8 +136,9 @@ My research focuses on **LLM for Code** — enabling large language models to ef
     <ul>
       <li><div class="leaf-wrap"><span class="nd nd-sub">Agentic Coding</span>
         <div class="pills">
-          <a class="pill" href="https://arxiv.org/abs/2606.28436">🐳 Dockerless <span class="v">Preprint</span></a>
-          <a class="pill" href="https://arxiv.org/pdf/2606.14066v1">🚀 FastContext <span class="v">Preprint</span></a>
+          <a class="pill" href="https://arxiv.org/abs/2606.28436">🐳 Dockerless <span class="v">EMNLP '26</span></a>
+          <a class="pill" href="https://arxiv.org/pdf/2606.14066v1">🚀 FastContext <span class="v">EMNLP '26 Findings</span></a>
+          <a class="pill" href="#selected-publications">🗂️ HELM <span class="v">EMNLP '26</span></a>
           <a class="pill" href="https://arxiv.org/abs/2607.11111">🧠 ACQUIRE <span class="v">Preprint</span></a>
           <a class="pill" href="https://arxiv.org/abs/2507.23348">💬 SWE-Debate <span class="v">ICSE '26</span></a>
           <a class="pill" href="https://arxiv.org/abs/2507.23361">📚 SWE-Exp <span class="v">Preprint</span></a>
@@ -150,13 +151,14 @@ My research focuses on **LLM for Code** — enabling large language models to ef
       <li><div class="leaf-wrap"><span class="nd nd-sub">Benchmarking &amp; Reliability</span>
         <div class="pills">
           <a class="pill" href="https://arxiv.org/abs/2509.14635">🧐 SWE-QA <span class="v">ACL '26 Findings</span></a>
-          <a class="pill" href="#selected-publications">🌊 SWE-Bench ProMax <span class="v">COLM '26</span></a>
+          <a class="pill" href="https://arxiv.org/abs/2608.09802">🌊 SWE-Bench ProMax <span class="v">COLM '26</span></a>
           <a class="pill" href="https://arxiv.org/abs/2607.01211">📊 PerfOpt Bench <span class="v">Preprint</span></a>
           <a class="pill" href="https://arxiv.org/abs/2606.07297">🧭 SWE-Explore <span class="v">Preprint</span></a>
           <a class="pill" href="https://arxiv.org/abs/2604.26923">📦 ClassEval-Pro <span class="v">AIWare '26 D&B</span></a>
           <!-- <a class="pill" href="https://chengcheng-wan.github.io/paper/26-ICSE-Comfrey.pdf">🛡️ Comfrey <span class="v">ICSE '26</span></a> -->
           <!-- <a class="pill" href="https://arxiv.org/abs/2506.21614">📏 LastingBench <span class="v">EMNLP '25</span></a> -->
           <a class="pill" href="https://arxiv.org/abs/2510.20498">🔒 RPS <span class="v">ICLR '26</span></a>
+          <a class="pill" href="#selected-publications">🕵️ DLM-MIA <span class="v">EMNLP '26 Findings</span></a>
         </div></div>
       </li>
     </ul>
@@ -170,6 +172,8 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 
 <!-- - <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Received ACM SIGSOFT ICSE 2026 CAPS Grant (Travel Support) -->
 <!-- - <span style="color: #4f6d8c; font-weight: 600;">[2026.05]</span> Invited talk at Advanced Software Technologies (AST) Lab, ETH Zurich: "Compressing Long Code Contexts for LLMs: From Naturalness to Multimodal Representation." -->
+- <span style="color: #4f6d8c; font-weight: 600;">[2026.08]</span> Our survey <a href="https://www.preprints.org/manuscript/202605.2065" style="color: inherit;">Context Compression for LLM Agents</a>, covering methods, failure modes, and evaluation, is accepted by EMNLP 2026
+- <span style="color: #4f6d8c; font-weight: 600;">[2026.08]</span> Seven papers accepted by EMNLP 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.07]</span> One paper accepted by ACM MM 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.07]</span> One paper accepted by COLM 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.06]</span> One paper accepted by ISSTA 2026
@@ -183,12 +187,12 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.04]</span> Two papers accepted by ISSTA 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.04]</span> Four papers accepted by ACL 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.04]</span> One paper accepted by SIGIR 2026
-- <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Serving as PC member of AIWare 2026 Datasets & Benchmarks track; submissions are welcome
-- <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Two papers accepted by CVPR 2026
 
 <details class="pub-collapsible" markdown="1">
 <summary><strong>Earlier News</strong> — click to expand</summary>
 
+- <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Serving as PC member of AIWare 2026 Datasets & Benchmarks track; submissions are welcome
+- <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Two papers accepted by CVPR 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.01]</span> Serving as PC member of AIware 2026; submissions are welcome
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.01]</span> Awarded Shanghai Association for Artificial Intelligence Youth Outstanding Paper Award
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.01]</span> Two papers accepted by ICLR 2026
@@ -217,6 +221,18 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 † denotes equal contribution.
 
 ### Peer Reviewed
+
+- <strong><span style="color: #03396c;">Dockerless: Environment-Free Program Verifier for Coding Agents</span></strong>  
+  [EMNLP 2026](https://arxiv.org/abs/2606.28436)  
+  Wenhao Zeng†, <u><strong>Yuling Shi</strong></u>†, Xiaodong Gu, Chao Hu, Chaofan Wang, Yuhao Cui, Hongting Zhou, Mengnan Qi, Jianqiao Wangni, Zhaojian Yu, Shuzheng Gao, Kai Cai, Shilin He
+
+- <strong><span style="color: #03396c;">FastContext: Training Efficient Repository Explorer for Coding Agents</span></strong>  
+  [EMNLP 2026 Findings](https://arxiv.org/pdf/2606.14066v1)  
+  Shaoqiu Zhang†, Maoquan Wang†, <u><strong>Yuling Shi</strong></u>†, Yuhang Wang, Xiaodong Gu, Yongqiang Yao, Rao Fu, Shengyu Fu
+
+- <strong><span style="color: #03396c;">Reward-Decomposed Reinforcement Learning for Immersive Video Role-Playing</span></strong>  
+  [EMNLP 2026](https://arxiv.org/abs/2605.04733)  
+  Miao Wang†, <u><strong>Yuling Shi</strong></u>†, Yijiang Li, Yeheng Chen, Xiaodong Gu, Bin Li, Bo Gao, Jun Wang, Zengxin Han, Jingtong Wu, Yaduan Ruan
 
 - <strong><span style="color: #03396c;">SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring</span></strong><br>
   [COLM 2026](https://arxiv.org/pdf/2608.09802)<br>
@@ -256,6 +272,22 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 
 <details class="pub-collapsible" markdown="1">
 <summary><strong>Other Peer Reviewed Papers</strong> — click to expand</summary>
+
+- <strong><span style="color: #03396c;">HELM: Steering Long-Horizon Agents with Learned Hierarchical Memory and Epistemic Governance</span></strong>  
+  [EMNLP 2026](#selected-publications)  
+  Jialong Liu, <u><strong>Yuling Shi</strong></u>, Zuchao Li, Ping Wang
+
+- <strong><span style="color: #03396c;">Context Compression for LLM Agents: A Survey of Methods, Failure Modes, and Evaluation</span></strong>  
+  [EMNLP 2026](https://www.preprints.org/manuscript/202605.2065)  
+  Yifei Wang†, Ziteng Wang†, <u><strong>Yuling Shi</strong></u>, Silin Chen, Xinrui Wang, Yueqi Wang, Beijun Shen, Linjing Li, Xiaodong Gu, Julian McAuley, Daniel Dajun Zeng*
+
+- <strong><span style="color: #03396c;">Pruning the Unsurprising: Efficient LLM Reasoning via First-Token Surprisal</span></strong>  
+  [EMNLP 2026 Findings](https://arxiv.org/abs/2508.05988)  
+  Wenhao Zeng, Chao Hu, Yaoning Wang, <u><strong>Yuling Shi</strong></u>, Chengcheng Wan, Hongyu Zhang, Xiaodong Gu
+
+- <strong><span style="color: #03396c;">Membership Inference in Fine-tuned Diffusion Language Models via Token-level Memorization Asymmetry</span></strong>  
+  [EMNLP 2026 Findings](#selected-publications)  
+  Shengfang Zhai, Leo Marchyok, <u><strong>Yuling Shi</strong></u>, Huanran Chen, Yinpeng Dong, Jiaheng Zhang, Sanghyun Hong
 
 - <strong><span style="color: #03396c;">Test vs Mutant: Adversarial LLM Agents for Robust Unit Test Generation</span></strong>  
   [ISSTA 2026](https://arxiv.org/abs/2602.08146)  
@@ -357,33 +389,17 @@ My research focuses on **LLM for Code** — enabling large language models to ef
   [Preprint](https://arxiv.org/abs/2606.09577)  
   <u><strong>Yuling Shi</strong></u>†, Caiqi Zhang†, Yuexian Li, Haopeng Wang, Yeheng Chen, Nigel Collier, Xiaodong Gu
 
-- <strong><span style="color: #03396c;">Dockerless: Environment-Free Program Verifier for Coding Agents</span></strong>  
-  [Preprint](https://arxiv.org/abs/2606.28436)  
-  Wenhao Zeng†, <u><strong>Yuling Shi</strong></u>†, Xiaodong Gu, Chao Hu, Chaofan Wang, Yuhao Cui, Hongting Zhou, Mengnan Qi, Jianqiao Wangni, Zhaojian Yu, Shuzheng Gao, Kai Cai, Shilin He
-
 - <strong><span style="color: #03396c;">SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents</span></strong>  
   [Preprint](https://arxiv.org/abs/2601.16746)  
   Yuhang Wang†, <u><strong>Yuling Shi</strong></u>†, Mo Yang, Rongrui Zhang, Shilin He, Heng Lian, Yuting Chen, Siyu Ye, Kai Cai, Xiaodong Gu
-
-- <strong><span style="color: #03396c;">Reward-Decomposed Reinforcement Learning for Immersive Video Role-Playing</span></strong>  
-  [Preprint](https://arxiv.org/abs/2605.04733)  
-  Miao Wang†, <u><strong>Yuling Shi</strong></u>†, Yijiang Li, Yeheng Chen, Xiaodong Gu, Bin Li, Bo Gao, Yaduan Ruan
 
 - <strong><span style="color: #03396c;">EffiSkill: Agent Skill Based Automated Code Efficiency Optimization</span></strong>  
   [Preprint](https://arxiv.org/abs/2603.27850)  
   Zimu Wang†, <u><strong>Yuling Shi</strong></u>†, Mengfan Li, Zijun Liu, Jie M. Zhang, Chengcheng Wan, Xiaodong Gu 
 
-- <strong><span style="color: #03396c;">FastContext: Training Efficient Repository Explorer for Coding Agents</span></strong>  
-  [Preprint](https://arxiv.org/pdf/2606.14066v1)<br>
-  Shaoqiu Zhang†, Maoquan Wang†, <u><strong>Yuling Shi</strong></u>†, Yuhang Wang, Xiaodong Gu, Yongqiang Yao, Rao Fu, Shengyu Fu
-
 - <strong><span style="color: #03396c;">SWE-Pruner Pro: The Coder LLM Already Knows What to Prune</span></strong><br>
   [Preprint](https://arxiv.org/abs/2607.18213)<br>
   Yuhang Wang†, <u><strong>Yuling Shi</strong></u>†, Shaoqiu Zhang, Jialiang Liang, Shilin He, Siyu Ye, Yuting Chen, Kai Cai, Xiaodong Gu
-
-- <strong><span style="color: #03396c;">Context Compression for LLM Agents: A Survey of Methods, Failure Modes, and Evaluation</span></strong>  
-  [Preprint](https://www.preprints.org/manuscript/202605.2065)  
-  Yifei Wang†, Ziteng Wang†, <u><strong>Yuling Shi</strong></u>, Silin Chen, Xinrui Wang, Yueqi Wang, Beijun Shen, Linjing Li, Xiaodong Gu, Julian McAuley, Daniel Dajun Zeng*
 
 
 <details class="pub-collapsible" markdown="1">
@@ -416,10 +432,6 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 - <strong><span style="color: #03396c;">Can Representation Gaps Be the Key to Enhancing Robustness in Graph-Text Alignment?</span></strong>  
   [Preprint](https://arxiv.org/abs/2510.12087)  
   Heng Zhang, Tianyi Zhang, <u><strong>Yuling Shi</strong></u>, Xiaodong Gu, Yaomin Shen, Zijian Zhang, Yilei Yuan, Hao Zhang, Jin Huang
-
-- <strong><span style="color: #03396c;">Pruning the Unsurprising: Efficient Code Reasoning via First-Token Surprisal</span></strong>  
-  [Preprint](https://arxiv.org/abs/2508.05988)  
-  Wenhao Zeng, Yaoning Wang, Chao Hu, <u><strong>Yuling Shi</strong></u>, Chengcheng Wan, Hongyu Zhang, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">SWE-Exp: Experience-Driven Software Issue Resolution</span></strong>  
   [Preprint](https://arxiv.org/abs/2507.23361)  
