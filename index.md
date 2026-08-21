@@ -172,13 +172,13 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 
 <!-- - <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Received ACM SIGSOFT ICSE 2026 CAPS Grant (Travel Support) -->
 <!-- - <span style="color: #4f6d8c; font-weight: 600;">[2026.05]</span> Invited talk at Advanced Software Technologies (AST) Lab, ETH Zurich: "Compressing Long Code Contexts for LLMs: From Naturalness to Multimodal Representation." -->
-- <span style="color: #4f6d8c; font-weight: 600;">[2026.08]</span> Our survey <a href="https://www.preprints.org/manuscript/202605.2065" style="color: inherit;">Context Compression for LLM Agents</a>, covering methods, failure modes, and evaluation, is accepted by EMNLP 2026
+- <span style="color: #4f6d8c; font-weight: 600;">[2026.08]</span> Survey on <a href="https://www.preprints.org/manuscript/202605.2065">Context Compression for LLM Agents</a> is released, feedback and pointers to missing works are welcome!
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.08]</span> Seven papers accepted by EMNLP 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.07]</span> One paper accepted by ACM MM 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.07]</span> One paper accepted by COLM 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.06]</span> One paper accepted by ISSTA 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.06]</span> One paper accepted by ASE 2026
-- <span style="color: #4f6d8c; font-weight: 600;">[2026.06]</span> <a href="https://arxiv.org/pdf/2606.14066v1" style="color: inherit;">FastContext</a> reached #1 on <a href="https://paperswithcode.co/benchmark/swe-bench-multilingual?task=coding-agents&eval=10034" style="color: inherit;">SWE-Bench Multilingual leaderboard</a>
+- <span style="color: #4f6d8c; font-weight: 600;">[2026.06]</span> <a href="https://arxiv.org/pdf/2606.14066v1">FastContext</a> reached #1 on <a href="https://paperswithcode.co/benchmark/swe-bench-multilingual?task=coding-agents&eval=10034">SWE-Bench Multilingual leaderboard</a>
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.05]</span> One paper accepted by ECML-PKDD 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.05]</span> Recognized as a Gold Reviewer (Top Reviewer) for ICML 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.05]</span> Received the Xiaomi MiMo Orbit API Research Support.
@@ -477,6 +477,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 - &#x1F3C6; First Prize in National Olympiad in Physics at High school (Provincial Area) 
 
 ## &#x1F4D6; Materials to share
+- 🔥 A curated list of papers on context compression for LLM agents, companion to our [survey](https://www.preprints.org/manuscript/202605.2065). [[Github](https://github.com/YerbaPage/Awesome-Agent-Context-Compression)]
 - 🔥 A collection of resources for repo-level code generation. [[Github](https://github.com/YerbaPage/Awesome-Repo-Level-Code-Generation)]
 - A simple script to detect word by word plagiarism for Academic Writing course in SJTU. [[Github](https://github.com/YerbaPage/plagiarism-certification-helper)]
 
