@@ -222,6 +222,10 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 
 ### Peer Reviewed
 
+- <strong><span style="color: #03396c;">SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring</span></strong><br>
+  [COLM 2026](https://arxiv.org/pdf/2608.09802)<br>
+  <u><strong>Yuling Shi</strong></u>† Jinghan Xu†, Kelin Fu, Wenhao Zeng, Yingwei Ma, Shilin He, Lei Zhang, Yue Liu, Zelin Zhao, Terry Yue Zhuo, Jialun Cao, Siyu Ye, Tianyu Liu, Kai Cai, Shing-Chi Cheung, Xiaodong Gu
+
 - <strong><span style="color: #03396c;">Dockerless: Environment-Free Program Verifier for Coding Agents</span></strong>  
   [EMNLP 2026](https://arxiv.org/abs/2606.28436)  
   Wenhao Zeng†, <u><strong>Yuling Shi</strong></u>†, Xiaodong Gu, Chao Hu, Chaofan Wang, Yuhao Cui, Hongting Zhou, Mengnan Qi, Jianqiao Wangni, Zhaojian Yu, Shuzheng Gao, Kai Cai, Shilin He
@@ -233,10 +237,6 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 - <strong><span style="color: #03396c;">Reward-Decomposed Reinforcement Learning for Immersive Video Role-Playing</span></strong>  
   [EMNLP 2026](https://arxiv.org/abs/2605.04733)  
   Miao Wang†, <u><strong>Yuling Shi</strong></u>†, Yijiang Li, Yeheng Chen, Xiaodong Gu, Bin Li, Bo Gao, Jun Wang, Zengxin Han, Jingtong Wu, Yaduan Ruan
-
-- <strong><span style="color: #03396c;">SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring</span></strong><br>
-  [COLM 2026](https://arxiv.org/pdf/2608.09802)<br>
-  <u><strong>Yuling Shi</strong></u>† Jinghan Xu†, Kelin Fu, Wenhao Zeng, Yingwei Ma, Shilin He, Lei Zhang, Yue Liu, Zelin Zhao, Terry Yue Zhuo, Jialun Cao, Siyu Ye, Tianyu Liu, Kai Cai, Shing-Chi Cheung, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">CodeOCR: On the Effectiveness of Vision Language Models in Code Understanding</span></strong>  
   [ISSTA 2026](https://arxiv.org/abs/2602.01785)  
