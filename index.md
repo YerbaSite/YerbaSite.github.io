@@ -150,6 +150,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
       </li>
       <li><div class="leaf-wrap"><span class="nd nd-sub">Benchmarking &amp; Reliability</span>
         <div class="pills">
+          <a class="pill" href="https://arxiv.org/abs/2609.02783">⏩ EarlyEval <span class="v">Preprint</span></a>
           <a class="pill" href="https://arxiv.org/abs/2509.14635">🧐 SWE-QA <span class="v">ACL '26 Findings</span></a>
           <a class="pill" href="https://arxiv.org/abs/2608.09802">🌊 SWE-Bench ProMax <span class="v">COLM '26</span></a>
           <a class="pill" href="https://arxiv.org/abs/2607.01211">📊 PerfOpt Bench <span class="v">Preprint</span></a>
@@ -384,6 +385,10 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 </details>
 
 ### Preprints
+
+- <strong><span style="color: #03396c;">EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction</span></strong><br>
+  [Preprint](https://arxiv.org/abs/2609.02783)<br>
+  <u><strong>Yuling Shi</strong></u>, Zhensu Sun, Junsen Dong, Chengcheng Wan, David Lo, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">Code Is More Than Text: Uncertainty Estimation for Code Generation</span></strong>  
   [Preprint](https://arxiv.org/abs/2606.09577)  
