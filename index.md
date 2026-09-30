@@ -171,6 +171,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 
 ## &#x1F4F0; News
 
+- <span style="color: #4f6d8c; font-weight: 600;">[2026.09]</span> Serving as Publicity Co-Chair of <a href="https://conf.researchr.org/series/aiware">AIware 2027</a>.
 <!-- - <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Received ACM SIGSOFT ICSE 2026 CAPS Grant (Travel Support) -->
 <!-- - <span style="color: #4f6d8c; font-weight: 600;">[2026.05]</span> Invited talk at Advanced Software Technologies (AST) Lab, ETH Zurich: "Compressing Long Code Contexts for LLMs: From Naturalness to Multimodal Representation." -->
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.09]</span> One paper accepted by NeurIPS 2026
