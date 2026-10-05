@@ -4,8 +4,11 @@ layout: homepage
 
 ## &#x1F64B; About Me
 
-Hi, I am a fourth year Ph.D. student in the [LLM for Software Engineering Lab (LLMSE)](https://base.sjtu.edu.cn/home/doku.php?id=start), affiliated with the School of Computer Science at Shanghai Jiao Tong University in China. I'm grateful to be advised by [Prof. Xiaodong Gu](https://guxd.github.io/).
- and [Prof. Beijun Shen](https://base.sjtu.edu.cn/home/doku.php?id=mem:bjshen).
+Hi, I am a final-year Ph.D. student in the [LLM for Software Engineering Lab (LLMSE)](https://base.sjtu.edu.cn/home/doku.php?id=start), affiliated with the School of Computer Science at Shanghai Jiao Tong University in China. I'm grateful to be advised by [Prof. Xiaodong Gu](https://guxd.github.io/) and [Prof. Beijun Shen](https://base.sjtu.edu.cn/home/doku.php?id=mem:bjshen).
+
+<div style="color: #d9534f; margin-bottom: 1em;">
+I am expected to graduate in June 2027 and am on the job market for <strong>postdoc and industry research positions</strong>. Please feel free to reach out!
+</div>
 
 <!-- I'm also very fortunate to learn from and collaborate with [Prof. Hongyu Zhang](https://sites.google.com/site/hongyujohn/), [Prof. David Lo](http://www.mysmu.edu/faculty/davidlo/), [Prof. Shing-Chi Cheung](https://www.cse.ust.hk/~scc/), [Prof. Daniel Dajun Zeng](https://en.wikipedia.org/wiki/Daniel_Zeng), [Prof. Zhendong Su](https://people.inf.ethz.ch/suz/), [Prof. Claire Le Goues](https://clairelegoues.com/), [Prof. Nigel Collier](https://sites.google.com/site/nhcollier/) and [Prof. Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/). -->
 
@@ -485,11 +488,12 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 - Journal Reviewer: TSE, TOSEM, TPAMI, TMLR
 
 ## &#x1F3C6; Awards
+- &#x1F3C6; National Scholarship (Graduate; ranked top 1% in the school), 2026
 - &#x1F3C6; ICML 2026 Top Reviewer
 - &#x1F947; Shanghai Association for Artificial Intelligence Youth Outstanding Paper Award
 - &#x1F3C6; ACM SIGSOFT ICSE 2026 CAPS Travel Grant
 - &#x1F3D3; Ninth place in Shanghai University Table Tennis Men's Singles Championship
-- &#x1F3C6; National Scholarship 
+- &#x1F3C6; National Scholarship (Undergraduate; ranked top 1% in the school), 2021
 - &#x1F3D3; Fifth place in Shanghai Table Tennis Doubles Championship and third place in teams representing my university 
 - &#x1F3C6; First Prize in National Olympiad in Physics at High school (Provincial Area) 
 
