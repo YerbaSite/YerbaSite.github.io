@@ -7,7 +7,7 @@ layout: homepage
 Hi, I am a final-year Ph.D. student in the [LLM for Software Engineering Lab (LLMSE)](https://base.sjtu.edu.cn/home/doku.php?id=start), affiliated with the School of Computer Science at Shanghai Jiao Tong University in China. I'm grateful to be advised by [Prof. Xiaodong Gu](https://guxd.github.io/) and [Prof. Beijun Shen](https://base.sjtu.edu.cn/home/doku.php?id=mem:bjshen).
 
 <div style="color: #d9534f; margin-bottom: 1em;">
-I am expected to graduate in June 2027 and am on the job market for <strong>postdoc and industry research positions</strong>. Please feel free to reach out!
+I am expected to graduate in June 2027 and am on the job market for <strong style="color: inherit; font-weight: 600;">postdoc and industry research positions</strong>. Please feel free to reach out!
 </div>
 
 <!-- I'm also very fortunate to learn from and collaborate with [Prof. Hongyu Zhang](https://sites.google.com/site/hongyujohn/), [Prof. David Lo](http://www.mysmu.edu/faculty/davidlo/), [Prof. Shing-Chi Cheung](https://www.cse.ust.hk/~scc/), [Prof. Daniel Dajun Zeng](https://en.wikipedia.org/wiki/Daniel_Zeng), [Prof. Zhendong Su](https://people.inf.ethz.ch/suz/), [Prof. Claire Le Goues](https://clairelegoues.com/), [Prof. Nigel Collier](https://sites.google.com/site/nhcollier/) and [Prof. Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/). -->
