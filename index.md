@@ -463,8 +463,9 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 <!-- - Research Intern at Microsoft Research, 2022.03-2022.09
   - Grateful to be advised by [Dr. Yufan Huang](https://www.microsoft.com/en-us/research/people/yufanhuang/) and [Dr. Maoquan Wang](https://scholar.google.com/citations?user=16Z7JhsAAAAJ&hl=en) to work on analyzing neural representations of code. Some of my work contributed to the following paper on EMNLP 2023. [[pdf](https://aclanthology.org/2023.emnlp-main.672/)] -->
 
-## &#x1F4E3; Invited Talks
+## &#x1F4E3; Talks
 
+- *Compressing Code Tokens via Visual Representations.* at SquaresLab, Carnegie Mellon University, October 2026
 - *Building Context-Efficient Coding Agents.* at JetBrains Research, July 2026
 - *Compressing Long Code Contexts for LLMs.* at Advanced Software Technologies (AST) Lab, ETH Zurich, May 2026
 - *How to understand and debug large and complex programs?* at Ant Group, November 2025
