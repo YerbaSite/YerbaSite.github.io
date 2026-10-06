@@ -178,7 +178,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 <!-- - <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Received ACM SIGSOFT ICSE 2026 CAPS Grant (Travel Support) -->
 <!-- - <span style="color: #4f6d8c; font-weight: 600;">[2026.05]</span> Invited talk at Advanced Software Technologies (AST) Lab, ETH Zurich: "Compressing Long Code Contexts for LLMs: From Naturalness to Multimodal Representation." -->
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.09]</span> One paper accepted by NeurIPS 2026
-- <span style="color: #4f6d8c; font-weight: 600;">[2026.09]</span> One paper accepted by AACL-IJCNLP 2026
+<!-- - <span style="color: #4f6d8c; font-weight: 600;">[2026.09]</span> One paper accepted by AACL-IJCNLP 2026 -->
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.08]</span> Survey on <a href="https://www.preprints.org/manuscript/202605.2065">Context Compression for LLM Agents</a> is released, feedback and pointers to missing works are welcome!
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.08]</span> Seven papers accepted by EMNLP 2026
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.07]</span> One paper accepted by ACM MM 2026
