@@ -152,7 +152,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
           <a class="pill" href="https://arxiv.org/abs/2609.02783">⏩ EarlyEval <span class="v">Preprint</span></a>
           <a class="pill" href="https://arxiv.org/abs/2509.14635">🧐 SWE-QA <span class="v">ACL '26 Findings</span></a>
           <a class="pill" href="https://arxiv.org/abs/2608.09802">🌊 SWE-Bench ProMax <span class="v">COLM '26</span></a>
-          <a class="pill" href="https://arxiv.org/abs/2607.01211">📊 PerfOpt Bench <span class="v">Preprint</span></a>
+          <a class="pill" href="https://arxiv.org/abs/2607.01211">📊 PerfOpt Bench <span class="v">ICSE '27</span></a>
           <a class="pill" href="https://arxiv.org/abs/2606.07297">🧭 SWE-Explore <span class="v">Preprint</span></a>
           <a class="pill" href="https://arxiv.org/abs/2604.26923">📦 ClassEval-Pro <span class="v">AIWare '26 D&B</span></a>
           <!-- <a class="pill" href="https://chengcheng-wan.github.io/paper/26-ICSE-Comfrey.pdf">🛡️ Comfrey <span class="v">ICSE '26</span></a> -->
@@ -170,6 +170,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 
 ## &#x1F4F0; News
 
+- <span style="color: #4f6d8c; font-weight: 600;">[2026.10]</span> One paper accepted by ICSE 2027
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.09]</span> Serving as Publicity Co-Chair of <a href="https://conf.researchr.org/series/aiware">AIware 2027</a>.
 <!-- - <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Received ACM SIGSOFT ICSE 2026 CAPS Grant (Travel Support) -->
 <!-- - <span style="color: #4f6d8c; font-weight: 600;">[2026.05]</span> Invited talk at Advanced Software Technologies (AST) Lab, ETH Zurich: "Compressing Long Code Contexts for LLMs: From Naturalness to Multimodal Representation." -->
@@ -275,6 +276,10 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 
 <details class="pub-collapsible" markdown="1">
 <summary><strong>Other Peer Reviewed Papers</strong> — click to expand</summary>
+
+- <strong><span style="color: #03396c;">Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?</span></strong><br>
+  [ICSE 2027](https://arxiv.org/abs/2607.01211)<br>
+  Zhi Chen, Zhensu Sun, <u><strong>Yuling Shi</strong></u>, David Lo, Lingxiao Jiang
 
 - <strong><span style="color: #03396c;">FedSEM: Mitigating Cross-Client Evidence Drift in Federated Multiple Instance Learning</span></strong>  
   NeurIPS 2026  
@@ -419,10 +424,6 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 
 <details class="pub-collapsible" markdown="1">
 <summary><strong>Other Preprints</strong> — click to expand</summary>
-
-- <strong><span style="color: #03396c;">Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?</span></strong>  
-  [Preprint](https://arxiv.org/abs/2607.01211)  
-  Zhi Chen, Zhensu Sun, <u><strong>Yuling Shi</strong></u>, David Lo, Lingxiao Jiang
 
 - <strong><span style="color: #03396c;">Know Before Fix: QA-Driven Repository Knowledge Acquisition for Software Issue Resolution</span></strong><br>
   [Preprint](https://arxiv.org/abs/2607.11111)<br>
