@@ -170,6 +170,8 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 
 ## &#x1F4F0; News
 
+<div class="news-scroll" markdown="1" role="region" aria-label="News" tabindex="0">
+
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.10]</span> One paper accepted by ICSE 2027
 - <span style="color: #4f6d8c; font-weight: 600;">[2026.09]</span> Serving as Publicity Co-Chair of <a href="https://conf.researchr.org/series/aiware">AIware 2027</a>.
 <!-- - <span style="color: #4f6d8c; font-weight: 600;">[2026.02]</span> Received ACM SIGSOFT ICSE 2026 CAPS Grant (Travel Support) -->
@@ -221,7 +223,12 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 
 </details>
 
+</div>
+
 ## &#x1F4DD; Selected Publications 
+
+<div class="papers-scroll" markdown="1" role="region" aria-label="Selected publications" tabindex="0">
+
 † denotes equal contribution.
 
 ### Peer Reviewed
@@ -454,6 +461,8 @@ My research focuses on **LLM for Code** — enabling large language models to ef
   Silin Chen, Shaoxin Lin, <u><strong>Yuling Shi</strong></u>, Heng Lian, Xiaodong Gu, Longfei Yun, Dong Chen, Lin Cao, Jiyang Liu, Nu Xia, Qianxiang Wang
 
 </details>
+
+</div>
 
 <!-- ## &#x1F468;&#x200D;&#x1F4BB; Experiences -->
 
