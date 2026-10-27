@@ -222,8 +222,6 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 
 ## &#x1F4DD; Selected Publications 
 
-<div class="papers-scroll" markdown="1" role="region" aria-label="Selected publications" tabindex="0">
-
 † denotes equal contribution.
 
 ### Peer Reviewed
@@ -456,8 +454,6 @@ My research focuses on **LLM for Code** — enabling large language models to ef
   Silin Chen, Shaoxin Lin, <u><strong>Yuling Shi</strong></u>, Heng Lian, Xiaodong Gu, Longfei Yun, Dong Chen, Lin Cao, Jiyang Liu, Nu Xia, Qianxiang Wang
 
 </details>
-
-</div>
 
 <!-- ## &#x1F468;&#x200D;&#x1F4BB; Experiences -->
 
