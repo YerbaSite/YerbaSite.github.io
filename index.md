@@ -135,6 +135,7 @@ My research focuses on **LLM for Code** — enabling large language models to ef
     <ul>
       <li><div class="leaf-wrap"><span class="nd nd-sub">Agentic Coding</span>
         <div class="pills">
+          <a class="pill" href="https://arxiv.org/abs/2610.33129">🔱 SpecBuild <span class="v">Preprint</span></a>
           <a class="pill" href="https://arxiv.org/abs/2606.28436">🐳 Dockerless <span class="v">EMNLP '26</span></a>
           <a class="pill" href="https://arxiv.org/pdf/2606.14066v1">🚀 FastContext <span class="v">EMNLP '26 Findings</span></a>
           <a class="pill" href="#selected-publications">🗂️ HELM <span class="v">EMNLP '26</span></a>
@@ -400,6 +401,10 @@ My research focuses on **LLM for Code** — enabling large language models to ef
 </details>
 
 ### Preprints
+
+- <strong><span style="color: #03396c;">Speculative Forking: Turning Idle Wait into Parallel Exploration for Repository Environment Setup</span></strong><br>
+  [Preprint](https://arxiv.org/abs/2610.33129)<br>
+  <u><strong>Yuling Shi</strong></u>, Mingchu Zhong, Zhensu Sun, Weihan Peng, Zhi Chen, Shilin He, Chengcheng Wan, Kai Cai, Hongyu Zhang, David Lo, Xiaodong Gu
 
 - <strong><span style="color: #03396c;">EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction</span></strong><br>
   [Preprint](https://arxiv.org/abs/2609.02783)<br>
